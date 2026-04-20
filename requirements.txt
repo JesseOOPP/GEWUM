@@ -1,0 +1,42 @@
+# ======================================================
+# GEWUM Core Dependencies
+# ======================================================
+
+# Core Scientific Computing
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+
+# Atomistic Simulation
+ase>=3.22.0
+pymatgen>=2022.0.0
+pyyaml>=5.4.0
+
+# Crystal Structure Generation
+pyxtal>=0.6.0
+
+# Symmetry Analysis
+spglib>=2.0.0
+
+# Phonon Calculations
+phonopy>=2.20.0
+phono3py>=2.0.0
+
+# Materials Project API (for Ehull calculation)
+mp-api>=0.30.0
+
+# Machine Learning (for structure selection)
+scikit-learn>=1.0.0
+
+# ======================================================
+# Machine Learning Potentials (Required for relaxation)
+# ======================================================
+# mattersim  # Install separately: pip install mattersim
+
+# ======================================================
+# Optional: Development Tools
+# ======================================================
+# pytest>=6.0
+# black
+# flake8
