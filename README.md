@@ -272,11 +272,11 @@ gewum RD --mode cifgen
 # Step 2: Relax structures with uMLIP
 gewum RD --mode relax
 
-# Step 3: Refine pre-relaxed structures
-gewum RD --mode refine
-
-# Step 4: Post-process relaxation results
+# Step 3: Post-process relaxation results
 gewum RD --mode post
+
+# Step 4: Refine pre-relaxed structures
+gewum RD --mode refine (optional)
 
 # Step 5: Reorder energy data by composition
 gewum RD --mode reorder -r
