@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       U3Si5
+_chemical_formula_sum              "U3 Si5"
+_cell_length_a       6.647752
+_cell_length_b       4.050181
+_cell_length_c       5.352566
+_cell_angle_alpha    90.0
+_cell_angle_beta     80.651552
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.11756545057618444  0.059567924537230574  0.7064118055916201  1.0000
+  U   U2        1.0  0.1134764623957134  0.5592498976394428  0.013693902676587264  1.0000
+  U   U3        1.0  0.6363618780788306  0.5702600089346054  0.042503357806426785  1.0000
+  Si  Si1       1.0  0.6274684208380464  0.07391052896896133  0.6862863440494326  1.0000
+  Si  Si2       1.0  0.4278047387593409  0.5509052286815916  0.5628265188133106  1.0000
+  Si  Si3       1.0  0.864021651578651  0.5588555404146492  0.527974923546987  1.0000
+  Si  Si4       1.0  0.34571381472447615  0.06613694721744846  0.19946713496235124  1.0000
+  Si  Si5       1.0  0.8675878058028808  0.061113507035606675  0.2608365498800139  1.0000

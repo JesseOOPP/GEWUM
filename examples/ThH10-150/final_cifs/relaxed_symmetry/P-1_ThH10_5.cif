@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ThH10
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   3.69722739
+_cell_length_b   3.71376525
+_cell_length_c   5.76870623
+_cell_angle_alpha   89.88167834
+_cell_angle_beta   89.65297035
+_cell_angle_gamma   61.10320863
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural  ThH10
+_chemical_formula_sum  ThH10
+_cell_volume   69.34463021
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  2  0.16364116  0.65958849  0.75010787  1
+  H  H1  2  0.15495013  0.16184848  0.92974877  1
+  H  H2  2  0.16413792  0.15811942  0.56938471  1
+  H  H3  2  0.17060907  0.68303322  0.35467303  1
+  H  H4  2  0.17583534  0.68505774  0.14313260  1
+  H  H5  2  0.32996390  0.34527481  0.43029876  1
+  H  H6  2  0.33425846  0.83968422  0.43140754  1
+  H  H7  2  0.33499268  0.35250926  0.07058112  1
+  H  H8  2  0.33968326  0.84414940  0.06538072  1
+  H  H9  2  0.49868797  0.00017946  0.33431282  1
+  H  H10  2  0.49892296  0.99653201  0.16914590  1

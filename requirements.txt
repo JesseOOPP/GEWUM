@@ -1,0 +1,45 @@
+# ======================================================
+# GEWUM Core Dependencies
+# ======================================================
+
+# Core Scientific Computing
+numpy
+pandas
+matplotlib
+scipy
+
+# Atomistic Simulation & Crystal Structure
+ase
+pymatgen
+pyyaml
+spglib
+pyxtal
+
+# Phonon Calculations
+phonopy
+phono3py
+
+# Materials Project API & offline data parsing
+mp-api
+ijson
+
+# Machine Learning (structure selection & visualization)
+scikit-learn
+dscribe
+hdbscan
+umap-learn
+
+# Utilities
+tqdm
+
+# ======================================================
+# Machine Learning Potentials (Required for relaxation)
+# ======================================================
+# mattersim
+
+# ======================================================
+# Optional: Development Tools
+# ======================================================
+# pytest
+# black
+# flake8

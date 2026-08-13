@@ -1,0 +1,11 @@
+# Example replacements configuration for GEWUM substitute mode
+# Format: CIF_filename -> element_to_replace: replacement_group, see src/cifgen_input/substitute.py
+
+LiGaS2.cif:
+  Li: G1
+  Ga: G3
+  S: G6-2
+
+# You can also specify direct element lists:
+Te.cif:
+  Te: ["S", "C", "N"]

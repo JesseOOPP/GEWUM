@@ -1,0 +1,36 @@
+# GEWUM SLURM Configuration Template
+# Users can customize this file and place it in their working directory
+# or use the default configuration from GEWUM installation
+
+# SLURM job parameters
+slurm:
+  time: "2400:00:00"        # Maximum job time (HH:MM:SS)
+  cpus_per_task: 64         # Number of CPUs per task
+  partition: "<partition>"   # SLURM partition name
+  nodes: 1                  # Number of nodes
+
+# Environment setup
+environment:
+  # Module purge before loading (true/false)
+  module_purge: true
+  
+  # Modules to load (in order)
+  modules:
+    - "cmake/<version>"
+    - "gcc/<version>"
+    - "intel/<version>"
+    - "mpi/<version>"
+  
+  # Conda configuration
+  conda_path: "/path/to/anaconda3"
+  conda_env: "gewum"
+  
+  # Additional environment variables (optional)
+  # extra_env:
+  #   - "export OMP_NUM_THREADS=1"
+  #   - "export PATH=/custom/path:$PATH"
+
+# Optional: GNU Parallel path (for parallel jobs)
+parallel:
+  path: "/path/to/parallel/bin"
+

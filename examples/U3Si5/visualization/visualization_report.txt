@@ -1,0 +1,30 @@
+============================================================
+GEWUM Visualization Report
+============================================================
+Date: 2026-08-05 14:28:34
+Dimension: 3D
+Descriptor: soap
+Reduction method: TSNE
+
+--- Dataset Statistics ---
+  total: 14700 structures, 9 feature dims
+  selected: 9438 structures, 9 feature dims
+  relaxed: 8994 structures, 9 feature dims
+
+--- Reduction Parameters ---
+  n_components: 2
+  perplexity: 30
+  random_state: 42
+
+--- Output Files ---
+  comparison_tsne.png  (8150.1 KB)
+  composition_wordcloud.png  (228.5 KB)
+  density_relaxed_tsne.png  (1212.0 KB)
+  density_selected_tsne.png  (1371.1 KB)
+  density_total_tsne.png  (1385.0 KB)
+  features.npz  (2389.3 KB)
+  reduced_relaxed_tsne.csv  (488.5 KB)
+  reduced_selected_tsne.csv  (616.3 KB)
+  reduced_total_tsne.csv  (903.0 KB)
+  reduced_tsne.npz  (384.2 KB)
+============================================================

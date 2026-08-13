@@ -1,0 +1,12 @@
+# Structure generation parameters file
+input_file = 222.cif          # Input CIF file name
+num_structures = 1000           # Total number of structures to generate
+min_distance = 1.0            # Minimum distance between atoms
+stdev_min = 0.2               # Minimum rattle distance
+stdev_max = 0.5               # Maximum rattle distance
+lattice_strain_probability = 0.6  # Lattice strain probability (0-1)
+max_strain = 0.05             # Maximum strain (0-1)
+atom_rotation_probability = 0.4   # Atom rotation probability (0-1)
+rotation_probability_per_atom = 0.15  # Rotation probability per atom (0-1)
+max_rotation_angle = 60.0      # Maximum rotation angle (0-180 degrees)
+similarity_tolerance = 0.1

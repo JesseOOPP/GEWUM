@@ -1,0 +1,8184 @@
+===== SG 2 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=2)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_80.cif
+  xtal_58.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_45.cif
+  xtal_44.cif
+  xtal_54.cif
+  xtal_69.cif
+  xtal_51.cif
+  xtal_29.cif
+  xtal_15.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_61.cif
+  xtal_18.cif
+  xtal_64.cif
+  xtal_59.cif
+  xtal_79.cif
+  xtal_49.cif
+  xtal_75.cif
+  xtal_63.cif
+  xtal_62.cif
+  xtal_73.cif
+  xtal_31.cif
+  xtal_22.cif
+  xtal_48.cif
+  xtal_84.cif
+  xtal_37.cif
+  xtal_78.cif
+  xtal_97.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_52.cif
+  xtal_41.cif
+  xtal_10.cif
+  xtal_13.cif
+  xtal_42.cif
+  xtal_8.cif
+  xtal_85.cif
+  xtal_83.cif
+  xtal_98.cif
+  xtal_90.cif
+  xtal_55.cif
+  xtal_1.cif
+  xtal_17.cif
+  xtal_6.cif
+  xtal_57.cif
+  xtal_87.cif
+  xtal_7.cif
+
+===== SG 3 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=3)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_6.cif
+  xtal_72.cif
+  xtal_41.cif
+  xtal_93.cif
+  xtal_85.cif
+  xtal_60.cif
+  xtal_5.cif
+  xtal_99.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_65.cif
+  xtal_50.cif
+  xtal_66.cif
+  xtal_2.cif
+  xtal_45.cif
+  xtal_36.cif
+  xtal_83.cif
+  xtal_96.cif
+  xtal_52.cif
+  xtal_59.cif
+  xtal_46.cif
+  xtal_21.cif
+  xtal_38.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_70.cif
+  xtal_49.cif
+  xtal_42.cif
+  xtal_26.cif
+  xtal_10.cif
+  xtal_16.cif
+  xtal_8.cif
+  xtal_73.cif
+  xtal_58.cif
+  xtal_27.cif
+  xtal_23.cif
+  xtal_17.cif
+  xtal_30.cif
+  xtal_57.cif
+  xtal_51.cif
+  xtal_32.cif
+  xtal_48.cif
+  xtal_14.cif
+  xtal_67.cif
+  xtal_9.cif
+  xtal_25.cif
+  xtal_81.cif
+  xtal_7.cif
+  xtal_56.cif
+
+===== SG 4 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=4)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_82.cif
+  xtal_93.cif
+  xtal_17.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_14.cif
+  xtal_32.cif
+  xtal_15.cif
+  xtal_11.cif
+  xtal_75.cif
+  xtal_94.cif
+  xtal_34.cif
+  xtal_65.cif
+  xtal_21.cif
+  xtal_63.cif
+  xtal_77.cif
+  xtal_56.cif
+  xtal_89.cif
+  xtal_62.cif
+  xtal_29.cif
+  xtal_60.cif
+  xtal_67.cif
+  xtal_91.cif
+  xtal_6.cif
+  xtal_44.cif
+  xtal_35.cif
+  xtal_24.cif
+  xtal_40.cif
+  xtal_27.cif
+  xtal_49.cif
+  xtal_88.cif
+  xtal_51.cif
+  xtal_1.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_53.cif
+  xtal_26.cif
+  xtal_33.cif
+  xtal_47.cif
+  xtal_74.cif
+  xtal_16.cif
+  xtal_38.cif
+  xtal_100.cif
+  xtal_96.cif
+  xtal_95.cif
+  xtal_64.cif
+  xtal_99.cif
+  xtal_37.cif
+  xtal_97.cif
+
+===== SG 5 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=5)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_31.cif
+  xtal_35.cif
+  xtal_28.cif
+  xtal_95.cif
+  xtal_33.cif
+  xtal_94.cif
+  xtal_6.cif
+  xtal_38.cif
+  xtal_53.cif
+  xtal_17.cif
+  xtal_61.cif
+  xtal_60.cif
+  xtal_89.cif
+  xtal_63.cif
+  xtal_78.cif
+  xtal_47.cif
+  xtal_16.cif
+  xtal_56.cif
+  xtal_72.cif
+  xtal_15.cif
+  xtal_69.cif
+  xtal_66.cif
+  xtal_26.cif
+  xtal_98.cif
+  xtal_73.cif
+  xtal_57.cif
+  xtal_14.cif
+  xtal_96.cif
+  xtal_45.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_70.cif
+  xtal_82.cif
+  xtal_75.cif
+  xtal_10.cif
+  xtal_27.cif
+  xtal_58.cif
+  xtal_97.cif
+  xtal_24.cif
+  xtal_92.cif
+  xtal_90.cif
+  xtal_44.cif
+  xtal_25.cif
+  xtal_99.cif
+  xtal_39.cif
+  xtal_8.cif
+  xtal_30.cif
+  xtal_51.cif
+  xtal_49.cif
+
+===== SG 6 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=6)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_86.cif
+  xtal_38.cif
+  xtal_64.cif
+  xtal_79.cif
+  xtal_10.cif
+  xtal_6.cif
+  xtal_57.cif
+  xtal_63.cif
+  xtal_21.cif
+  xtal_49.cif
+  xtal_94.cif
+  xtal_89.cif
+  xtal_68.cif
+  xtal_2.cif
+  xtal_85.cif
+  xtal_100.cif
+  xtal_78.cif
+  xtal_77.cif
+  xtal_35.cif
+  xtal_30.cif
+  xtal_80.cif
+  xtal_62.cif
+  xtal_52.cif
+  xtal_31.cif
+  xtal_65.cif
+  xtal_39.cif
+  xtal_51.cif
+  xtal_70.cif
+  xtal_58.cif
+  xtal_54.cif
+  xtal_87.cif
+  xtal_37.cif
+  xtal_29.cif
+  xtal_18.cif
+  xtal_8.cif
+  xtal_84.cif
+  xtal_97.cif
+  xtal_4.cif
+  xtal_48.cif
+  xtal_45.cif
+  xtal_15.cif
+  xtal_14.cif
+  xtal_72.cif
+  xtal_19.cif
+  xtal_76.cif
+  xtal_20.cif
+  xtal_83.cif
+  xtal_24.cif
+  xtal_61.cif
+
+===== SG 7 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=7)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_13.cif
+  xtal_65.cif
+  xtal_49.cif
+  xtal_41.cif
+  xtal_58.cif
+  xtal_80.cif
+  xtal_32.cif
+  xtal_4.cif
+  xtal_38.cif
+  xtal_9.cif
+  xtal_5.cif
+  xtal_90.cif
+  xtal_67.cif
+  xtal_59.cif
+  xtal_11.cif
+  xtal_10.cif
+  xtal_34.cif
+  xtal_22.cif
+  xtal_18.cif
+  xtal_44.cif
+  xtal_7.cif
+  xtal_64.cif
+  xtal_72.cif
+  xtal_29.cif
+  xtal_28.cif
+  xtal_83.cif
+  xtal_92.cif
+  xtal_78.cif
+  xtal_14.cif
+  xtal_74.cif
+  xtal_54.cif
+  xtal_60.cif
+  xtal_1.cif
+  xtal_82.cif
+  xtal_62.cif
+  xtal_37.cif
+  xtal_15.cif
+  xtal_19.cif
+  xtal_42.cif
+  xtal_75.cif
+  xtal_47.cif
+  xtal_63.cif
+  xtal_68.cif
+  xtal_16.cif
+  xtal_85.cif
+  xtal_3.cif
+  xtal_81.cif
+  xtal_30.cif
+  xtal_91.cif
+
+===== SG 8 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=8)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_92.cif
+  xtal_62.cif
+  xtal_44.cif
+  xtal_4.cif
+  xtal_49.cif
+  xtal_82.cif
+  xtal_96.cif
+  xtal_86.cif
+  xtal_5.cif
+  xtal_89.cif
+  xtal_67.cif
+  xtal_83.cif
+  xtal_34.cif
+  xtal_51.cif
+  xtal_13.cif
+  xtal_24.cif
+  xtal_32.cif
+  xtal_17.cif
+  xtal_95.cif
+  xtal_42.cif
+  xtal_68.cif
+  xtal_77.cif
+  xtal_35.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_76.cif
+  xtal_47.cif
+  xtal_72.cif
+  xtal_55.cif
+  xtal_78.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_69.cif
+  xtal_65.cif
+  xtal_21.cif
+  xtal_33.cif
+  xtal_97.cif
+  xtal_3.cif
+  xtal_28.cif
+  xtal_61.cif
+  xtal_43.cif
+  xtal_11.cif
+  xtal_8.cif
+  xtal_30.cif
+  xtal_48.cif
+  xtal_56.cif
+  xtal_70.cif
+  xtal_58.cif
+  xtal_2.cif
+
+===== SG 10 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=10)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_16.cif
+  xtal_57.cif
+  xtal_48.cif
+  xtal_59.cif
+  xtal_49.cif
+  xtal_61.cif
+  xtal_55.cif
+  xtal_10.cif
+  xtal_77.cif
+  xtal_65.cif
+  xtal_33.cif
+  xtal_74.cif
+  xtal_7.cif
+  xtal_89.cif
+  xtal_12.cif
+  xtal_64.cif
+  xtal_53.cif
+  xtal_32.cif
+  xtal_39.cif
+  xtal_9.cif
+  xtal_67.cif
+  xtal_23.cif
+  xtal_56.cif
+  xtal_60.cif
+  xtal_36.cif
+  xtal_14.cif
+  xtal_58.cif
+  xtal_54.cif
+  xtal_79.cif
+  xtal_73.cif
+  xtal_43.cif
+  xtal_95.cif
+  xtal_50.cif
+  xtal_62.cif
+  xtal_100.cif
+  xtal_52.cif
+  xtal_41.cif
+  xtal_88.cif
+  xtal_34.cif
+  xtal_90.cif
+  xtal_30.cif
+  xtal_92.cif
+  xtal_42.cif
+  xtal_1.cif
+  xtal_5.cif
+  xtal_46.cif
+  xtal_20.cif
+  xtal_8.cif
+  xtal_24.cif
+
+===== SG 11 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=11)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_26.cif
+  xtal_40.cif
+  xtal_92.cif
+  xtal_63.cif
+  xtal_10.cif
+  xtal_23.cif
+  xtal_37.cif
+  xtal_14.cif
+  xtal_35.cif
+  xtal_24.cif
+  xtal_22.cif
+  xtal_88.cif
+  xtal_25.cif
+  xtal_66.cif
+  xtal_64.cif
+  xtal_47.cif
+  xtal_94.cif
+  xtal_97.cif
+  xtal_17.cif
+  xtal_28.cif
+  xtal_32.cif
+  xtal_39.cif
+  xtal_52.cif
+  xtal_76.cif
+  xtal_44.cif
+  xtal_81.cif
+  xtal_49.cif
+  xtal_41.cif
+  xtal_61.cif
+  xtal_43.cif
+  xtal_19.cif
+  xtal_62.cif
+  xtal_80.cif
+  xtal_77.cif
+  xtal_4.cif
+  xtal_45.cif
+  xtal_18.cif
+  xtal_9.cif
+  xtal_93.cif
+  xtal_58.cif
+  xtal_7.cif
+  xtal_46.cif
+  xtal_84.cif
+  xtal_54.cif
+  xtal_91.cif
+  xtal_11.cif
+  xtal_8.cif
+  xtal_12.cif
+  xtal_85.cif
+
+===== SG 12 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=12)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_43.cif
+  xtal_86.cif
+  xtal_15.cif
+  xtal_79.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_5.cif
+  xtal_61.cif
+  xtal_75.cif
+  xtal_28.cif
+  xtal_10.cif
+  xtal_16.cif
+  xtal_26.cif
+  xtal_18.cif
+  xtal_58.cif
+  xtal_23.cif
+  xtal_92.cif
+  xtal_30.cif
+  xtal_77.cif
+  xtal_67.cif
+  xtal_66.cif
+  xtal_31.cif
+  xtal_72.cif
+  xtal_98.cif
+  xtal_45.cif
+  xtal_29.cif
+  xtal_64.cif
+  xtal_96.cif
+  xtal_21.cif
+  xtal_47.cif
+  xtal_35.cif
+  xtal_19.cif
+  xtal_62.cif
+  xtal_3.cif
+  xtal_69.cif
+  xtal_6.cif
+  xtal_55.cif
+  xtal_94.cif
+  xtal_100.cif
+  xtal_48.cif
+  xtal_11.cif
+  xtal_71.cif
+  xtal_46.cif
+  xtal_73.cif
+  xtal_59.cif
+  xtal_40.cif
+  xtal_12.cif
+  xtal_83.cif
+  xtal_90.cif
+
+===== SG 13 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=13)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_44.cif
+  xtal_84.cif
+  xtal_77.cif
+  xtal_12.cif
+  xtal_51.cif
+  xtal_35.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_19.cif
+  xtal_87.cif
+  xtal_4.cif
+  xtal_11.cif
+  xtal_8.cif
+  xtal_24.cif
+  xtal_47.cif
+  xtal_53.cif
+  xtal_50.cif
+  xtal_15.cif
+  xtal_96.cif
+  xtal_68.cif
+  xtal_3.cif
+  xtal_7.cif
+  xtal_86.cif
+  xtal_40.cif
+  xtal_48.cif
+  xtal_61.cif
+  xtal_21.cif
+  xtal_72.cif
+  xtal_88.cif
+  xtal_41.cif
+  xtal_63.cif
+  xtal_28.cif
+  xtal_38.cif
+  xtal_52.cif
+  xtal_69.cif
+  xtal_90.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_57.cif
+  xtal_95.cif
+  xtal_58.cif
+  xtal_26.cif
+  xtal_25.cif
+  xtal_59.cif
+  xtal_33.cif
+  xtal_75.cif
+  xtal_14.cif
+  xtal_82.cif
+  xtal_37.cif
+
+===== SG 14 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=14)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_40.cif
+  xtal_96.cif
+  xtal_73.cif
+  xtal_20.cif
+  xtal_55.cif
+  xtal_32.cif
+  xtal_1.cif
+  xtal_47.cif
+  xtal_94.cif
+  xtal_57.cif
+  xtal_39.cif
+  xtal_16.cif
+  xtal_82.cif
+  xtal_51.cif
+  xtal_87.cif
+  xtal_65.cif
+  xtal_85.cif
+  xtal_15.cif
+  xtal_97.cif
+  xtal_26.cif
+  xtal_95.cif
+  xtal_5.cif
+  xtal_86.cif
+  xtal_44.cif
+  xtal_50.cif
+  xtal_90.cif
+  xtal_28.cif
+  xtal_10.cif
+  xtal_38.cif
+  xtal_23.cif
+  xtal_49.cif
+  xtal_84.cif
+  xtal_6.cif
+  xtal_22.cif
+  xtal_69.cif
+  xtal_83.cif
+  xtal_34.cif
+  xtal_11.cif
+  xtal_21.cif
+  xtal_93.cif
+  xtal_60.cif
+  xtal_45.cif
+  xtal_52.cif
+  xtal_92.cif
+  xtal_62.cif
+  xtal_3.cif
+  xtal_13.cif
+  xtal_61.cif
+  xtal_75.cif
+
+===== SG 16 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=16)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_25.cif
+  xtal_97.cif
+  xtal_81.cif
+  xtal_43.cif
+  xtal_76.cif
+  xtal_41.cif
+  xtal_34.cif
+  xtal_87.cif
+  xtal_86.cif
+  xtal_20.cif
+  xtal_70.cif
+  xtal_58.cif
+  xtal_22.cif
+  xtal_79.cif
+  xtal_45.cif
+  xtal_91.cif
+  xtal_95.cif
+  xtal_53.cif
+  xtal_39.cif
+  xtal_10.cif
+  xtal_27.cif
+  xtal_38.cif
+  xtal_30.cif
+  xtal_12.cif
+  xtal_92.cif
+  xtal_82.cif
+  xtal_52.cif
+  xtal_59.cif
+  xtal_51.cif
+  xtal_36.cif
+  xtal_44.cif
+  xtal_80.cif
+  xtal_35.cif
+  xtal_65.cif
+  xtal_3.cif
+  xtal_23.cif
+  xtal_99.cif
+  xtal_88.cif
+  xtal_61.cif
+  xtal_4.cif
+  xtal_32.cif
+  xtal_47.cif
+  xtal_83.cif
+  xtal_71.cif
+  xtal_63.cif
+  xtal_73.cif
+  xtal_6.cif
+  xtal_17.cif
+  xtal_49.cif
+
+===== SG 17 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=17)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_4.cif
+  xtal_74.cif
+  xtal_20.cif
+  xtal_25.cif
+  xtal_66.cif
+  xtal_62.cif
+  xtal_5.cif
+  xtal_88.cif
+  xtal_93.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_52.cif
+  xtal_89.cif
+  xtal_78.cif
+  xtal_84.cif
+  xtal_91.cif
+  xtal_82.cif
+  xtal_46.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_86.cif
+  xtal_22.cif
+  xtal_38.cif
+  xtal_49.cif
+  xtal_12.cif
+  xtal_40.cif
+  xtal_48.cif
+  xtal_56.cif
+  xtal_16.cif
+  xtal_41.cif
+  xtal_69.cif
+  xtal_14.cif
+  xtal_2.cif
+  xtal_58.cif
+  xtal_19.cif
+  xtal_31.cif
+  xtal_99.cif
+  xtal_8.cif
+  xtal_30.cif
+  xtal_70.cif
+  xtal_47.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_34.cif
+  xtal_85.cif
+  xtal_7.cif
+  xtal_80.cif
+  xtal_28.cif
+  xtal_60.cif
+
+===== SG 18 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=18)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_2.cif
+  xtal_66.cif
+  xtal_97.cif
+  xtal_38.cif
+  xtal_8.cif
+  xtal_55.cif
+  xtal_23.cif
+  xtal_34.cif
+  xtal_51.cif
+  xtal_59.cif
+  xtal_92.cif
+  xtal_25.cif
+  xtal_4.cif
+  xtal_20.cif
+  xtal_84.cif
+  xtal_26.cif
+  xtal_39.cif
+  xtal_68.cif
+  xtal_50.cif
+  xtal_11.cif
+  xtal_69.cif
+  xtal_47.cif
+  xtal_21.cif
+  xtal_6.cif
+  xtal_48.cif
+  xtal_96.cif
+  xtal_28.cif
+  xtal_60.cif
+  xtal_3.cif
+  xtal_91.cif
+  xtal_17.cif
+  xtal_79.cif
+  xtal_62.cif
+  xtal_7.cif
+  xtal_58.cif
+  xtal_32.cif
+  xtal_15.cif
+  xtal_87.cif
+  xtal_72.cif
+  xtal_80.cif
+  xtal_93.cif
+  xtal_14.cif
+  xtal_30.cif
+  xtal_88.cif
+  xtal_61.cif
+  xtal_98.cif
+  xtal_49.cif
+  xtal_13.cif
+  xtal_40.cif
+
+===== SG 21 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=21)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_68.cif
+  xtal_88.cif
+  xtal_85.cif
+  xtal_64.cif
+  xtal_58.cif
+  xtal_13.cif
+  xtal_37.cif
+  xtal_63.cif
+  xtal_53.cif
+  xtal_1.cif
+  xtal_59.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_78.cif
+  xtal_15.cif
+  xtal_87.cif
+  xtal_92.cif
+  xtal_75.cif
+  xtal_89.cif
+  xtal_49.cif
+  xtal_99.cif
+  xtal_25.cif
+  xtal_45.cif
+  xtal_39.cif
+  xtal_86.cif
+  xtal_41.cif
+  xtal_74.cif
+  xtal_23.cif
+  xtal_83.cif
+  xtal_43.cif
+  xtal_96.cif
+  xtal_17.cif
+  xtal_35.cif
+  xtal_22.cif
+  xtal_67.cif
+  xtal_82.cif
+  xtal_29.cif
+  xtal_10.cif
+  xtal_97.cif
+  xtal_61.cif
+  xtal_50.cif
+  xtal_24.cif
+  xtal_14.cif
+  xtal_70.cif
+  xtal_56.cif
+  xtal_27.cif
+  xtal_65.cif
+  xtal_55.cif
+  xtal_91.cif
+
+===== SG 23 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=23)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_19.cif
+  xtal_25.cif
+  xtal_8.cif
+  xtal_65.cif
+  xtal_48.cif
+  xtal_14.cif
+  xtal_10.cif
+  xtal_64.cif
+  xtal_20.cif
+  xtal_68.cif
+  xtal_56.cif
+  xtal_41.cif
+  xtal_11.cif
+  xtal_76.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_92.cif
+  xtal_99.cif
+  xtal_89.cif
+  xtal_30.cif
+  xtal_73.cif
+  xtal_32.cif
+  xtal_5.cif
+  xtal_87.cif
+  xtal_43.cif
+  xtal_94.cif
+  xtal_60.cif
+  xtal_97.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_62.cif
+  xtal_96.cif
+  xtal_15.cif
+  xtal_31.cif
+  xtal_45.cif
+  xtal_53.cif
+  xtal_50.cif
+  xtal_37.cif
+  xtal_6.cif
+  xtal_82.cif
+  xtal_63.cif
+  xtal_36.cif
+  xtal_42.cif
+  xtal_7.cif
+  xtal_79.cif
+  xtal_59.cif
+  xtal_58.cif
+  xtal_98.cif
+  xtal_70.cif
+
+===== SG 25 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=25)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_56.cif
+  xtal_23.cif
+  xtal_54.cif
+  xtal_96.cif
+  xtal_95.cif
+  xtal_33.cif
+  xtal_8.cif
+  xtal_43.cif
+  xtal_53.cif
+  xtal_98.cif
+  xtal_89.cif
+  xtal_80.cif
+  xtal_87.cif
+  xtal_31.cif
+  xtal_21.cif
+  xtal_26.cif
+  xtal_42.cif
+  xtal_99.cif
+  xtal_47.cif
+  xtal_19.cif
+  xtal_25.cif
+  xtal_40.cif
+  xtal_67.cif
+  xtal_20.cif
+  xtal_73.cif
+  xtal_24.cif
+  xtal_15.cif
+  xtal_59.cif
+  xtal_97.cif
+  xtal_57.cif
+  xtal_71.cif
+  xtal_91.cif
+  xtal_35.cif
+  xtal_82.cif
+  xtal_41.cif
+  xtal_70.cif
+  xtal_38.cif
+  xtal_66.cif
+  xtal_2.cif
+  xtal_4.cif
+  xtal_94.cif
+  xtal_16.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_18.cif
+
+===== SG 26 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=26)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_4.cif
+  xtal_83.cif
+  xtal_57.cif
+  xtal_60.cif
+  xtal_51.cif
+  xtal_82.cif
+  xtal_7.cif
+  xtal_41.cif
+  xtal_28.cif
+  xtal_36.cif
+  xtal_75.cif
+  xtal_54.cif
+  xtal_14.cif
+  xtal_76.cif
+  xtal_70.cif
+  xtal_8.cif
+  xtal_44.cif
+  xtal_32.cif
+  xtal_69.cif
+  xtal_43.cif
+  xtal_52.cif
+  xtal_10.cif
+  xtal_49.cif
+  xtal_2.cif
+  xtal_1.cif
+  xtal_84.cif
+  xtal_80.cif
+  xtal_79.cif
+  xtal_89.cif
+  xtal_38.cif
+  xtal_90.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_59.cif
+  xtal_78.cif
+  xtal_58.cif
+  xtal_20.cif
+  xtal_17.cif
+  xtal_71.cif
+  xtal_97.cif
+  xtal_73.cif
+  xtal_5.cif
+  xtal_65.cif
+  xtal_3.cif
+  xtal_26.cif
+  xtal_55.cif
+  xtal_27.cif
+  xtal_64.cif
+  xtal_9.cif
+
+===== SG 27 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=27)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_83.cif
+  xtal_27.cif
+  xtal_63.cif
+  xtal_91.cif
+  xtal_51.cif
+  xtal_6.cif
+  xtal_54.cif
+  xtal_14.cif
+  xtal_59.cif
+  xtal_77.cif
+  xtal_70.cif
+  xtal_40.cif
+  xtal_5.cif
+  xtal_11.cif
+  xtal_97.cif
+  xtal_47.cif
+  xtal_25.cif
+  xtal_81.cif
+  xtal_41.cif
+  xtal_69.cif
+  xtal_30.cif
+  xtal_90.cif
+  xtal_15.cif
+  xtal_12.cif
+  xtal_43.cif
+  xtal_10.cif
+  xtal_1.cif
+  xtal_7.cif
+  xtal_2.cif
+  xtal_35.cif
+  xtal_13.cif
+  xtal_85.cif
+  xtal_18.cif
+  xtal_37.cif
+  xtal_60.cif
+  xtal_26.cif
+  xtal_55.cif
+  xtal_17.cif
+  xtal_34.cif
+  xtal_56.cif
+  xtal_48.cif
+  xtal_53.cif
+  xtal_93.cif
+  xtal_65.cif
+  xtal_28.cif
+  xtal_62.cif
+  xtal_16.cif
+  xtal_98.cif
+  xtal_68.cif
+
+===== SG 28 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=28)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_43.cif
+  xtal_29.cif
+  xtal_65.cif
+  xtal_78.cif
+  xtal_35.cif
+  xtal_92.cif
+  xtal_67.cif
+  xtal_12.cif
+  xtal_61.cif
+  xtal_41.cif
+  xtal_27.cif
+  xtal_74.cif
+  xtal_38.cif
+  xtal_7.cif
+  xtal_56.cif
+  xtal_34.cif
+  xtal_63.cif
+  xtal_91.cif
+  xtal_51.cif
+  xtal_49.cif
+  xtal_54.cif
+  xtal_15.cif
+  xtal_45.cif
+  xtal_60.cif
+  xtal_26.cif
+  xtal_14.cif
+  xtal_37.cif
+  xtal_80.cif
+  xtal_5.cif
+  xtal_40.cif
+  xtal_82.cif
+  xtal_48.cif
+  xtal_96.cif
+  xtal_53.cif
+  xtal_16.cif
+  xtal_59.cif
+  xtal_83.cif
+  xtal_20.cif
+  xtal_76.cif
+  xtal_4.cif
+  xtal_62.cif
+  xtal_55.cif
+  xtal_52.cif
+  xtal_3.cif
+  xtal_97.cif
+  xtal_6.cif
+  xtal_8.cif
+  xtal_69.cif
+  xtal_94.cif
+
+===== SG 30 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=30)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_29.cif
+  xtal_80.cif
+  xtal_93.cif
+  xtal_89.cif
+  xtal_10.cif
+  xtal_69.cif
+  xtal_92.cif
+  xtal_96.cif
+  xtal_54.cif
+  xtal_52.cif
+  xtal_7.cif
+  xtal_88.cif
+  xtal_58.cif
+  xtal_99.cif
+  xtal_45.cif
+  xtal_40.cif
+  xtal_17.cif
+  xtal_33.cif
+  xtal_94.cif
+  xtal_42.cif
+  xtal_48.cif
+  xtal_91.cif
+  xtal_26.cif
+  xtal_14.cif
+  xtal_41.cif
+  xtal_77.cif
+  xtal_81.cif
+  xtal_95.cif
+  xtal_15.cif
+  xtal_62.cif
+  xtal_16.cif
+  xtal_75.cif
+  xtal_8.cif
+  xtal_56.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_44.cif
+  xtal_35.cif
+  xtal_21.cif
+  xtal_9.cif
+  xtal_39.cif
+  xtal_60.cif
+  xtal_22.cif
+  xtal_71.cif
+  xtal_98.cif
+  xtal_46.cif
+  xtal_31.cif
+  xtal_86.cif
+  xtal_5.cif
+
+===== SG 31 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=31)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_2.cif
+  xtal_70.cif
+  xtal_93.cif
+  xtal_86.cif
+  xtal_30.cif
+  xtal_27.cif
+  xtal_61.cif
+  xtal_94.cif
+  xtal_26.cif
+  xtal_18.cif
+  xtal_72.cif
+  xtal_79.cif
+  xtal_100.cif
+  xtal_91.cif
+  xtal_42.cif
+  xtal_97.cif
+  xtal_3.cif
+  xtal_98.cif
+  xtal_28.cif
+  xtal_5.cif
+  xtal_22.cif
+  xtal_9.cif
+  xtal_43.cif
+  xtal_90.cif
+  xtal_46.cif
+  xtal_53.cif
+  xtal_17.cif
+  xtal_80.cif
+  xtal_14.cif
+  xtal_69.cif
+  xtal_8.cif
+  xtal_55.cif
+  xtal_81.cif
+  xtal_60.cif
+  xtal_68.cif
+  xtal_36.cif
+  xtal_50.cif
+  xtal_92.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_29.cif
+  xtal_11.cif
+  xtal_21.cif
+  xtal_52.cif
+  xtal_49.cif
+  xtal_63.cif
+  xtal_62.cif
+  xtal_44.cif
+  xtal_32.cif
+
+===== SG 32 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=32)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_46.cif
+  xtal_20.cif
+  xtal_13.cif
+  xtal_47.cif
+  xtal_100.cif
+  xtal_9.cif
+  xtal_11.cif
+  xtal_60.cif
+  xtal_4.cif
+  xtal_44.cif
+  xtal_90.cif
+  xtal_28.cif
+  xtal_17.cif
+  xtal_54.cif
+  xtal_3.cif
+  xtal_39.cif
+  xtal_56.cif
+  xtal_18.cif
+  xtal_61.cif
+  xtal_15.cif
+  xtal_72.cif
+  xtal_22.cif
+  xtal_92.cif
+  xtal_1.cif
+  xtal_16.cif
+  xtal_24.cif
+  xtal_48.cif
+  xtal_71.cif
+  xtal_65.cif
+  xtal_19.cif
+  xtal_55.cif
+  xtal_27.cif
+  xtal_76.cif
+  xtal_83.cif
+  xtal_95.cif
+  xtal_6.cif
+  xtal_89.cif
+  xtal_64.cif
+  xtal_38.cif
+  xtal_59.cif
+  xtal_70.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_37.cif
+  xtal_84.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_5.cif
+
+===== SG 34 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=34)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_59.cif
+  xtal_76.cif
+  xtal_14.cif
+  xtal_65.cif
+  xtal_39.cif
+  xtal_43.cif
+  xtal_55.cif
+  xtal_81.cif
+  xtal_17.cif
+  xtal_31.cif
+  xtal_36.cif
+  xtal_95.cif
+  xtal_25.cif
+  xtal_41.cif
+  xtal_99.cif
+  xtal_71.cif
+  xtal_58.cif
+  xtal_4.cif
+  xtal_20.cif
+  xtal_77.cif
+  xtal_6.cif
+  xtal_69.cif
+  xtal_13.cif
+  xtal_3.cif
+  xtal_60.cif
+  xtal_98.cif
+  xtal_88.cif
+  xtal_22.cif
+  xtal_96.cif
+  xtal_70.cif
+  xtal_11.cif
+  xtal_24.cif
+  xtal_45.cif
+  xtal_53.cif
+  xtal_72.cif
+  xtal_56.cif
+  xtal_46.cif
+  xtal_33.cif
+  xtal_62.cif
+  xtal_49.cif
+  xtal_100.cif
+  xtal_16.cif
+  xtal_2.cif
+  xtal_34.cif
+  xtal_8.cif
+  xtal_44.cif
+  xtal_83.cif
+  xtal_29.cif
+  xtal_93.cif
+  xtal_1.cif
+
+===== SG 35 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=35)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_80.cif
+  xtal_19.cif
+  xtal_57.cif
+  xtal_27.cif
+  xtal_7.cif
+  xtal_5.cif
+  xtal_100.cif
+  xtal_45.cif
+  xtal_66.cif
+  xtal_84.cif
+  xtal_20.cif
+  xtal_38.cif
+  xtal_35.cif
+  xtal_2.cif
+  xtal_55.cif
+  xtal_32.cif
+  xtal_86.cif
+  xtal_92.cif
+  xtal_37.cif
+  xtal_26.cif
+  xtal_77.cif
+  xtal_59.cif
+  xtal_23.cif
+  xtal_46.cif
+  xtal_39.cif
+  xtal_43.cif
+  xtal_60.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_51.cif
+  xtal_95.cif
+  xtal_8.cif
+  xtal_68.cif
+  xtal_22.cif
+  xtal_6.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_4.cif
+  xtal_98.cif
+  xtal_87.cif
+  xtal_61.cif
+  xtal_96.cif
+  xtal_18.cif
+  xtal_49.cif
+  xtal_10.cif
+  xtal_47.cif
+  xtal_53.cif
+  xtal_65.cif
+  xtal_74.cif
+  xtal_69.cif
+
+===== SG 38 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=38)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_33.cif
+  xtal_89.cif
+  xtal_79.cif
+  xtal_52.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_88.cif
+  xtal_45.cif
+  xtal_87.cif
+  xtal_26.cif
+  xtal_57.cif
+  xtal_21.cif
+  xtal_96.cif
+  xtal_61.cif
+  xtal_27.cif
+  xtal_68.cif
+  xtal_14.cif
+  xtal_81.cif
+  xtal_48.cif
+  xtal_74.cif
+  xtal_34.cif
+  xtal_64.cif
+  xtal_47.cif
+  xtal_53.cif
+  xtal_10.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_32.cif
+  xtal_18.cif
+  xtal_44.cif
+  xtal_41.cif
+  xtal_66.cif
+  xtal_19.cif
+  xtal_72.cif
+  xtal_30.cif
+  xtal_49.cif
+  xtal_2.cif
+  xtal_16.cif
+  xtal_38.cif
+  xtal_51.cif
+  xtal_20.cif
+  xtal_25.cif
+  xtal_36.cif
+  xtal_7.cif
+  xtal_93.cif
+  xtal_58.cif
+  xtal_100.cif
+  xtal_31.cif
+  xtal_1.cif
+
+===== SG 44 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=44)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_83.cif
+  xtal_24.cif
+  xtal_23.cif
+  xtal_33.cif
+  xtal_51.cif
+  xtal_12.cif
+  xtal_35.cif
+  xtal_76.cif
+  xtal_2.cif
+  xtal_47.cif
+  xtal_6.cif
+  xtal_46.cif
+  xtal_59.cif
+  xtal_25.cif
+  xtal_58.cif
+  xtal_9.cif
+  xtal_16.cif
+  xtal_45.cif
+  xtal_37.cif
+  xtal_48.cif
+  xtal_27.cif
+  xtal_31.cif
+  xtal_100.cif
+  xtal_71.cif
+  xtal_44.cif
+  xtal_88.cif
+  xtal_93.cif
+  xtal_57.cif
+  xtal_99.cif
+  xtal_17.cif
+  xtal_5.cif
+  xtal_87.cif
+  xtal_1.cif
+  xtal_19.cif
+  xtal_40.cif
+  xtal_82.cif
+  xtal_10.cif
+  xtal_15.cif
+  xtal_67.cif
+  xtal_18.cif
+  xtal_3.cif
+  xtal_34.cif
+  xtal_13.cif
+  xtal_77.cif
+  xtal_89.cif
+  xtal_84.cif
+  xtal_32.cif
+  xtal_70.cif
+  xtal_90.cif
+
+===== SG 47 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=47)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_3.cif
+  xtal_34.cif
+  xtal_49.cif
+  xtal_76.cif
+  xtal_53.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_66.cif
+  xtal_70.cif
+  xtal_61.cif
+  xtal_37.cif
+  xtal_81.cif
+  xtal_10.cif
+  xtal_80.cif
+  xtal_50.cif
+  xtal_88.cif
+  xtal_73.cif
+  xtal_12.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_25.cif
+  xtal_17.cif
+  xtal_64.cif
+  xtal_79.cif
+  xtal_24.cif
+  xtal_59.cif
+  xtal_62.cif
+  xtal_69.cif
+  xtal_31.cif
+  xtal_71.cif
+  xtal_87.cif
+  xtal_57.cif
+  xtal_82.cif
+  xtal_68.cif
+  xtal_77.cif
+  xtal_18.cif
+  xtal_85.cif
+  xtal_97.cif
+  xtal_4.cif
+  xtal_94.cif
+  xtal_15.cif
+  xtal_36.cif
+  xtal_89.cif
+  xtal_46.cif
+  xtal_43.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_47.cif
+  xtal_28.cif
+
+===== SG 48 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=48)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_61.cif
+  xtal_38.cif
+  xtal_67.cif
+  xtal_95.cif
+  xtal_30.cif
+  xtal_98.cif
+  xtal_50.cif
+  xtal_84.cif
+  xtal_8.cif
+  xtal_6.cif
+  xtal_14.cif
+  xtal_51.cif
+  xtal_10.cif
+  xtal_27.cif
+  xtal_40.cif
+  xtal_52.cif
+  xtal_77.cif
+  xtal_46.cif
+  xtal_29.cif
+  xtal_64.cif
+  xtal_49.cif
+  xtal_11.cif
+  xtal_42.cif
+  xtal_88.cif
+  xtal_1.cif
+  xtal_24.cif
+  xtal_74.cif
+  xtal_58.cif
+  xtal_55.cif
+  xtal_41.cif
+  xtal_62.cif
+  xtal_57.cif
+  xtal_73.cif
+  xtal_97.cif
+  xtal_26.cif
+  xtal_16.cif
+  xtal_96.cif
+  xtal_86.cif
+  xtal_3.cif
+  xtal_23.cif
+  xtal_15.cif
+  xtal_5.cif
+  xtal_2.cif
+  xtal_75.cif
+  xtal_37.cif
+  xtal_92.cif
+  xtal_82.cif
+  xtal_65.cif
+  xtal_39.cif
+
+===== SG 49 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=49)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_91.cif
+  xtal_22.cif
+  xtal_61.cif
+  xtal_75.cif
+  xtal_5.cif
+  xtal_54.cif
+  xtal_17.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_21.cif
+  xtal_59.cif
+  xtal_68.cif
+  xtal_34.cif
+  xtal_100.cif
+  xtal_25.cif
+  xtal_8.cif
+  xtal_32.cif
+  xtal_2.cif
+  xtal_35.cif
+  xtal_67.cif
+  xtal_45.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_95.cif
+  xtal_10.cif
+  xtal_87.cif
+  xtal_37.cif
+  xtal_79.cif
+  xtal_33.cif
+  xtal_94.cif
+  xtal_74.cif
+  xtal_4.cif
+  xtal_1.cif
+  xtal_50.cif
+  xtal_77.cif
+  xtal_57.cif
+  xtal_18.cif
+  xtal_16.cif
+  xtal_86.cif
+  xtal_96.cif
+  xtal_72.cif
+  xtal_84.cif
+  xtal_15.cif
+  xtal_93.cif
+  xtal_89.cif
+  xtal_14.cif
+  xtal_62.cif
+  xtal_44.cif
+  xtal_39.cif
+
+===== SG 50 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=50)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_20.cif
+  xtal_40.cif
+  xtal_71.cif
+  xtal_64.cif
+  xtal_92.cif
+  xtal_53.cif
+  xtal_84.cif
+  xtal_15.cif
+  xtal_62.cif
+  xtal_8.cif
+  xtal_17.cif
+  xtal_59.cif
+  xtal_90.cif
+  xtal_6.cif
+  xtal_11.cif
+  xtal_94.cif
+  xtal_37.cif
+  xtal_70.cif
+  xtal_3.cif
+  xtal_22.cif
+  xtal_26.cif
+  xtal_89.cif
+  xtal_33.cif
+  xtal_54.cif
+  xtal_88.cif
+  xtal_55.cif
+  xtal_68.cif
+  xtal_85.cif
+  xtal_98.cif
+  xtal_86.cif
+  xtal_30.cif
+  xtal_28.cif
+  xtal_19.cif
+  xtal_83.cif
+  xtal_21.cif
+  xtal_51.cif
+  xtal_87.cif
+  xtal_46.cif
+  xtal_12.cif
+  xtal_58.cif
+  xtal_48.cif
+  xtal_18.cif
+  xtal_96.cif
+  xtal_25.cif
+  xtal_91.cif
+  xtal_66.cif
+  xtal_7.cif
+  xtal_16.cif
+  xtal_76.cif
+  xtal_41.cif
+
+===== SG 51 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=51)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_93.cif
+  xtal_64.cif
+  xtal_44.cif
+  xtal_71.cif
+  xtal_3.cif
+  xtal_27.cif
+  xtal_80.cif
+  xtal_58.cif
+  xtal_50.cif
+  xtal_94.cif
+  xtal_47.cif
+  xtal_31.cif
+  xtal_67.cif
+  xtal_19.cif
+  xtal_13.cif
+  xtal_61.cif
+  xtal_25.cif
+  xtal_15.cif
+  xtal_35.cif
+  xtal_18.cif
+  xtal_82.cif
+  xtal_98.cif
+  xtal_8.cif
+  xtal_92.cif
+  xtal_29.cif
+  xtal_88.cif
+  xtal_55.cif
+  xtal_24.cif
+  xtal_10.cif
+  xtal_34.cif
+  xtal_65.cif
+  xtal_42.cif
+  xtal_57.cif
+  xtal_81.cif
+  xtal_62.cif
+  xtal_46.cif
+  xtal_100.cif
+  xtal_89.cif
+  xtal_56.cif
+  xtal_7.cif
+  xtal_6.cif
+  xtal_14.cif
+  xtal_75.cif
+  xtal_84.cif
+  xtal_83.cif
+  xtal_4.cif
+  xtal_99.cif
+  xtal_69.cif
+  xtal_45.cif
+
+===== SG 53 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=53)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_3.cif
+  xtal_70.cif
+  xtal_95.cif
+  xtal_33.cif
+  xtal_39.cif
+  xtal_53.cif
+  xtal_20.cif
+  xtal_68.cif
+  xtal_10.cif
+  xtal_24.cif
+  xtal_46.cif
+  xtal_13.cif
+  xtal_34.cif
+  xtal_79.cif
+  xtal_71.cif
+  xtal_77.cif
+  xtal_37.cif
+  xtal_19.cif
+  xtal_54.cif
+  xtal_30.cif
+  xtal_91.cif
+  xtal_74.cif
+  xtal_62.cif
+  xtal_23.cif
+  xtal_17.cif
+  xtal_1.cif
+  xtal_18.cif
+  xtal_40.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_21.cif
+  xtal_44.cif
+  xtal_16.cif
+  xtal_64.cif
+  xtal_100.cif
+  xtal_96.cif
+  xtal_92.cif
+  xtal_31.cif
+  xtal_65.cif
+  xtal_80.cif
+  xtal_60.cif
+  xtal_58.cif
+  xtal_27.cif
+  xtal_36.cif
+  xtal_43.cif
+  xtal_98.cif
+  xtal_52.cif
+  xtal_25.cif
+  xtal_94.cif
+
+===== SG 55 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=55)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_43.cif
+  xtal_40.cif
+  xtal_34.cif
+  xtal_9.cif
+  xtal_93.cif
+  xtal_100.cif
+  xtal_44.cif
+  xtal_73.cif
+  xtal_4.cif
+  xtal_54.cif
+  xtal_66.cif
+  xtal_89.cif
+  xtal_60.cif
+  xtal_51.cif
+  xtal_17.cif
+  xtal_12.cif
+  xtal_37.cif
+  xtal_28.cif
+  xtal_92.cif
+  xtal_25.cif
+  xtal_97.cif
+  xtal_57.cif
+  xtal_87.cif
+  xtal_55.cif
+  xtal_59.cif
+  xtal_2.cif
+  xtal_47.cif
+  xtal_1.cif
+  xtal_11.cif
+  xtal_81.cif
+  xtal_30.cif
+  xtal_35.cif
+  xtal_19.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_95.cif
+  xtal_22.cif
+  xtal_13.cif
+  xtal_84.cif
+  xtal_23.cif
+  xtal_68.cif
+  xtal_14.cif
+  xtal_21.cif
+  xtal_56.cif
+  xtal_8.cif
+  xtal_46.cif
+  xtal_75.cif
+  xtal_71.cif
+  xtal_6.cif
+
+===== SG 58 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=58)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_16.cif
+  xtal_22.cif
+  xtal_6.cif
+  xtal_84.cif
+  xtal_45.cif
+  xtal_38.cif
+  xtal_12.cif
+  xtal_98.cif
+  xtal_71.cif
+  xtal_50.cif
+  xtal_55.cif
+  xtal_92.cif
+  xtal_25.cif
+  xtal_68.cif
+  xtal_36.cif
+  xtal_80.cif
+  xtal_37.cif
+  xtal_65.cif
+  xtal_64.cif
+  xtal_56.cif
+  xtal_43.cif
+  xtal_27.cif
+  xtal_78.cif
+  xtal_20.cif
+  xtal_23.cif
+  xtal_33.cif
+  xtal_66.cif
+  xtal_21.cif
+  xtal_94.cif
+  xtal_51.cif
+  xtal_3.cif
+  xtal_19.cif
+  xtal_79.cif
+  xtal_72.cif
+  xtal_10.cif
+  xtal_54.cif
+  xtal_2.cif
+  xtal_30.cif
+  xtal_63.cif
+  xtal_9.cif
+  xtal_76.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_34.cif
+  xtal_77.cif
+  xtal_46.cif
+  xtal_83.cif
+  xtal_26.cif
+  xtal_93.cif
+  xtal_90.cif
+
+===== SG 59 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=59)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_93.cif
+  xtal_85.cif
+  xtal_22.cif
+  xtal_94.cif
+  xtal_71.cif
+  xtal_63.cif
+  xtal_34.cif
+  xtal_13.cif
+  xtal_78.cif
+  xtal_5.cif
+  xtal_70.cif
+  xtal_92.cif
+  xtal_87.cif
+  xtal_72.cif
+  xtal_46.cif
+  xtal_79.cif
+  xtal_99.cif
+  xtal_3.cif
+  xtal_17.cif
+  xtal_66.cif
+  xtal_88.cif
+  xtal_41.cif
+  xtal_49.cif
+  xtal_48.cif
+  xtal_62.cif
+  xtal_10.cif
+  xtal_74.cif
+  xtal_89.cif
+  xtal_23.cif
+  xtal_27.cif
+  xtal_86.cif
+  xtal_68.cif
+  xtal_19.cif
+  xtal_40.cif
+  xtal_15.cif
+  xtal_36.cif
+  xtal_47.cif
+  xtal_31.cif
+  xtal_7.cif
+  xtal_57.cif
+  xtal_61.cif
+  xtal_56.cif
+  xtal_12.cif
+  xtal_52.cif
+  xtal_97.cif
+  xtal_77.cif
+  xtal_75.cif
+  xtal_9.cif
+  xtal_4.cif
+
+===== SG 65 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=65)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_64.cif
+  xtal_53.cif
+  xtal_76.cif
+  xtal_22.cif
+  xtal_68.cif
+  xtal_21.cif
+  xtal_75.cif
+  xtal_54.cif
+  xtal_19.cif
+  xtal_24.cif
+  xtal_39.cif
+  xtal_35.cif
+  xtal_25.cif
+  xtal_17.cif
+  xtal_87.cif
+  xtal_7.cif
+  xtal_5.cif
+  xtal_56.cif
+  xtal_4.cif
+  xtal_6.cif
+  xtal_98.cif
+  xtal_100.cif
+  xtal_49.cif
+  xtal_44.cif
+  xtal_74.cif
+  xtal_58.cif
+  xtal_20.cif
+  xtal_97.cif
+  xtal_32.cif
+  xtal_79.cif
+  xtal_1.cif
+  xtal_8.cif
+  xtal_83.cif
+  xtal_34.cif
+  xtal_55.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_37.cif
+  xtal_96.cif
+  xtal_51.cif
+  xtal_10.cif
+  xtal_28.cif
+  xtal_67.cif
+  xtal_81.cif
+  xtal_11.cif
+  xtal_46.cif
+  xtal_12.cif
+  xtal_60.cif
+  xtal_69.cif
+
+===== SG 71 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=71)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_29.cif
+  xtal_45.cif
+  xtal_78.cif
+  xtal_11.cif
+  xtal_48.cif
+  xtal_1.cif
+  xtal_80.cif
+  xtal_53.cif
+  xtal_79.cif
+  xtal_99.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_26.cif
+  xtal_2.cif
+  xtal_93.cif
+  xtal_4.cif
+  xtal_34.cif
+  xtal_31.cif
+  xtal_41.cif
+  xtal_25.cif
+  xtal_69.cif
+  xtal_28.cif
+  xtal_76.cif
+  xtal_89.cif
+  xtal_47.cif
+  xtal_92.cif
+  xtal_16.cif
+  xtal_24.cif
+  xtal_86.cif
+  xtal_44.cif
+  xtal_67.cif
+  xtal_32.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_73.cif
+  xtal_85.cif
+  xtal_17.cif
+  xtal_5.cif
+  xtal_64.cif
+  xtal_90.cif
+  xtal_18.cif
+  xtal_30.cif
+  xtal_7.cif
+  xtal_37.cif
+  xtal_95.cif
+  xtal_68.cif
+  xtal_12.cif
+  xtal_77.cif
+  xtal_38.cif
+
+===== SG 75 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=75)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_81.cif
+  xtal_10.cif
+  xtal_62.cif
+  xtal_13.cif
+  xtal_23.cif
+  xtal_17.cif
+  xtal_20.cif
+  xtal_11.cif
+  xtal_6.cif
+  xtal_66.cif
+  xtal_30.cif
+  xtal_44.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_60.cif
+  xtal_75.cif
+  xtal_14.cif
+  xtal_93.cif
+  xtal_21.cif
+  xtal_97.cif
+  xtal_50.cif
+  xtal_90.cif
+  xtal_83.cif
+  xtal_68.cif
+  xtal_53.cif
+  xtal_92.cif
+  xtal_70.cif
+  xtal_65.cif
+  xtal_73.cif
+  xtal_9.cif
+  xtal_58.cif
+  xtal_69.cif
+  xtal_80.cif
+  xtal_40.cif
+  xtal_36.cif
+  xtal_22.cif
+  xtal_64.cif
+  xtal_38.cif
+  xtal_27.cif
+  xtal_52.cif
+  xtal_42.cif
+  xtal_8.cif
+  xtal_91.cif
+  xtal_76.cif
+  xtal_15.cif
+  xtal_47.cif
+  xtal_26.cif
+  xtal_32.cif
+  xtal_41.cif
+
+===== SG 77 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=77)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_36.cif
+  xtal_40.cif
+  xtal_46.cif
+  xtal_19.cif
+  xtal_48.cif
+  xtal_61.cif
+  xtal_65.cif
+  xtal_31.cif
+  xtal_87.cif
+  xtal_59.cif
+  xtal_79.cif
+  xtal_3.cif
+  xtal_84.cif
+  xtal_76.cif
+  xtal_33.cif
+  xtal_7.cif
+  xtal_25.cif
+  xtal_22.cif
+  xtal_39.cif
+  xtal_85.cif
+  xtal_21.cif
+  xtal_16.cif
+  xtal_4.cif
+  xtal_92.cif
+  xtal_17.cif
+  xtal_23.cif
+  xtal_53.cif
+  xtal_78.cif
+  xtal_34.cif
+  xtal_24.cif
+  xtal_50.cif
+  xtal_68.cif
+  xtal_80.cif
+  xtal_8.cif
+  xtal_10.cif
+  xtal_71.cif
+  xtal_52.cif
+  xtal_64.cif
+  xtal_75.cif
+  xtal_35.cif
+  xtal_66.cif
+  xtal_100.cif
+  xtal_96.cif
+  xtal_47.cif
+  xtal_45.cif
+  xtal_55.cif
+  xtal_20.cif
+  xtal_44.cif
+  xtal_42.cif
+
+===== SG 79 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=79)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_69.cif
+  xtal_80.cif
+  xtal_66.cif
+  xtal_20.cif
+  xtal_36.cif
+  xtal_14.cif
+  xtal_47.cif
+  xtal_76.cif
+  xtal_15.cif
+  xtal_83.cif
+  xtal_2.cif
+  xtal_6.cif
+  xtal_72.cif
+  xtal_49.cif
+  xtal_19.cif
+  xtal_3.cif
+  xtal_84.cif
+  xtal_77.cif
+  xtal_40.cif
+  xtal_54.cif
+  xtal_88.cif
+  xtal_21.cif
+  xtal_46.cif
+  xtal_28.cif
+  xtal_8.cif
+  xtal_24.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_16.cif
+  xtal_67.cif
+  xtal_78.cif
+  xtal_55.cif
+  xtal_13.cif
+  xtal_51.cif
+  xtal_62.cif
+  xtal_52.cif
+  xtal_22.cif
+  xtal_10.cif
+  xtal_26.cif
+  xtal_93.cif
+  xtal_39.cif
+  xtal_100.cif
+  xtal_70.cif
+  xtal_5.cif
+  xtal_34.cif
+  xtal_64.cif
+  xtal_95.cif
+  xtal_11.cif
+  xtal_29.cif
+
+===== SG 81 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=81)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_14.cif
+  xtal_13.cif
+  xtal_29.cif
+  xtal_37.cif
+  xtal_35.cif
+  xtal_27.cif
+  xtal_25.cif
+  xtal_74.cif
+  xtal_72.cif
+  xtal_3.cif
+  xtal_94.cif
+  xtal_16.cif
+  xtal_66.cif
+  xtal_99.cif
+  xtal_78.cif
+  xtal_40.cif
+  xtal_15.cif
+  xtal_90.cif
+  xtal_80.cif
+  xtal_62.cif
+  xtal_91.cif
+  xtal_33.cif
+  xtal_69.cif
+  xtal_83.cif
+  xtal_97.cif
+  xtal_58.cif
+  xtal_96.cif
+  xtal_71.cif
+  xtal_36.cif
+  xtal_64.cif
+  xtal_98.cif
+  xtal_34.cif
+  xtal_63.cif
+  xtal_12.cif
+  xtal_68.cif
+  xtal_5.cif
+  xtal_9.cif
+  xtal_51.cif
+  xtal_81.cif
+  xtal_79.cif
+  xtal_2.cif
+  xtal_31.cif
+  xtal_84.cif
+  xtal_43.cif
+  xtal_100.cif
+  xtal_39.cif
+  xtal_21.cif
+  xtal_10.cif
+  xtal_93.cif
+
+===== SG 82 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=82)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_57.cif
+  xtal_95.cif
+  xtal_14.cif
+  xtal_24.cif
+  xtal_36.cif
+  xtal_73.cif
+  xtal_70.cif
+  xtal_16.cif
+  xtal_2.cif
+  xtal_91.cif
+  xtal_62.cif
+  xtal_8.cif
+  xtal_48.cif
+  xtal_44.cif
+  xtal_80.cif
+  xtal_1.cif
+  xtal_22.cif
+  xtal_45.cif
+  xtal_37.cif
+  xtal_71.cif
+  xtal_20.cif
+  xtal_7.cif
+  xtal_83.cif
+  xtal_90.cif
+  xtal_64.cif
+  xtal_92.cif
+  xtal_10.cif
+  xtal_40.cif
+  xtal_97.cif
+  xtal_39.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_72.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_25.cif
+  xtal_47.cif
+  xtal_17.cif
+  xtal_87.cif
+  xtal_41.cif
+  xtal_89.cif
+  xtal_68.cif
+  xtal_74.cif
+  xtal_32.cif
+  xtal_86.cif
+  xtal_13.cif
+  xtal_66.cif
+  xtal_52.cif
+  xtal_98.cif
+  xtal_94.cif
+
+===== SG 83 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=83)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_47.cif
+  xtal_64.cif
+  xtal_17.cif
+  xtal_61.cif
+  xtal_53.cif
+  xtal_29.cif
+  xtal_63.cif
+  xtal_34.cif
+  xtal_62.cif
+  xtal_19.cif
+  xtal_93.cif
+  xtal_6.cif
+  xtal_28.cif
+  xtal_95.cif
+  xtal_50.cif
+  xtal_43.cif
+  xtal_4.cif
+  xtal_13.cif
+  xtal_78.cif
+  xtal_91.cif
+  xtal_7.cif
+  xtal_94.cif
+  xtal_81.cif
+  xtal_87.cif
+  xtal_22.cif
+  xtal_82.cif
+  xtal_15.cif
+  xtal_68.cif
+  xtal_38.cif
+  xtal_75.cif
+  xtal_2.cif
+  xtal_84.cif
+  xtal_79.cif
+  xtal_58.cif
+  xtal_10.cif
+  xtal_33.cif
+  xtal_30.cif
+  xtal_27.cif
+  xtal_18.cif
+  xtal_42.cif
+  xtal_36.cif
+  xtal_14.cif
+  xtal_23.cif
+  xtal_52.cif
+  xtal_37.cif
+  xtal_24.cif
+  xtal_41.cif
+  xtal_55.cif
+  xtal_69.cif
+
+===== SG 84 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=84)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_26.cif
+  xtal_47.cif
+  xtal_77.cif
+  xtal_6.cif
+  xtal_18.cif
+  xtal_54.cif
+  xtal_14.cif
+  xtal_55.cif
+  xtal_72.cif
+  xtal_98.cif
+  xtal_56.cif
+  xtal_100.cif
+  xtal_28.cif
+  xtal_23.cif
+  xtal_86.cif
+  xtal_16.cif
+  xtal_41.cif
+  xtal_73.cif
+  xtal_32.cif
+  xtal_59.cif
+  xtal_85.cif
+  xtal_11.cif
+  xtal_27.cif
+  xtal_34.cif
+  xtal_65.cif
+  xtal_90.cif
+  xtal_67.cif
+  xtal_31.cif
+  xtal_82.cif
+  xtal_22.cif
+  xtal_97.cif
+  xtal_76.cif
+  xtal_38.cif
+  xtal_63.cif
+  xtal_20.cif
+  xtal_78.cif
+  xtal_50.cif
+  xtal_2.cif
+  xtal_10.cif
+  xtal_1.cif
+  xtal_53.cif
+  xtal_71.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_15.cif
+  xtal_33.cif
+  xtal_99.cif
+  xtal_45.cif
+  xtal_30.cif
+
+===== SG 85 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=85)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_30.cif
+  xtal_38.cif
+  xtal_81.cif
+  xtal_68.cif
+  xtal_72.cif
+  xtal_19.cif
+  xtal_13.cif
+  xtal_34.cif
+  xtal_2.cif
+  xtal_31.cif
+  xtal_76.cif
+  xtal_46.cif
+  xtal_61.cif
+  xtal_70.cif
+  xtal_7.cif
+  xtal_48.cif
+  xtal_90.cif
+  xtal_54.cif
+  xtal_82.cif
+  xtal_10.cif
+  xtal_28.cif
+  xtal_23.cif
+  xtal_45.cif
+  xtal_99.cif
+  xtal_58.cif
+  xtal_44.cif
+  xtal_18.cif
+  xtal_74.cif
+  xtal_86.cif
+  xtal_39.cif
+  xtal_36.cif
+  xtal_12.cif
+  xtal_85.cif
+  xtal_100.cif
+  xtal_75.cif
+  xtal_92.cif
+  xtal_96.cif
+  xtal_17.cif
+  xtal_97.cif
+  xtal_1.cif
+  xtal_64.cif
+  xtal_94.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_60.cif
+  xtal_49.cif
+  xtal_57.cif
+  xtal_37.cif
+  xtal_3.cif
+
+===== SG 86 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=86)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_76.cif
+  xtal_29.cif
+  xtal_77.cif
+  xtal_92.cif
+  xtal_19.cif
+  xtal_32.cif
+  xtal_48.cif
+  xtal_63.cif
+  xtal_80.cif
+  xtal_53.cif
+  xtal_59.cif
+  xtal_74.cif
+  xtal_6.cif
+  xtal_22.cif
+  xtal_12.cif
+  xtal_4.cif
+  xtal_47.cif
+  xtal_56.cif
+  xtal_33.cif
+  xtal_79.cif
+  xtal_98.cif
+  xtal_100.cif
+  xtal_42.cif
+  xtal_14.cif
+  xtal_44.cif
+  xtal_3.cif
+  xtal_99.cif
+  xtal_28.cif
+  xtal_24.cif
+  xtal_66.cif
+  xtal_96.cif
+  xtal_16.cif
+  xtal_58.cif
+  xtal_70.cif
+  xtal_11.cif
+  xtal_81.cif
+  xtal_18.cif
+  xtal_38.cif
+  xtal_35.cif
+  xtal_54.cif
+  xtal_62.cif
+  xtal_30.cif
+  xtal_17.cif
+  xtal_64.cif
+  xtal_68.cif
+  xtal_31.cif
+  xtal_21.cif
+  xtal_83.cif
+  xtal_72.cif
+
+===== SG 87 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=87)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_21.cif
+  xtal_7.cif
+  xtal_28.cif
+  xtal_19.cif
+  xtal_89.cif
+  xtal_22.cif
+  xtal_84.cif
+  xtal_18.cif
+  xtal_37.cif
+  xtal_58.cif
+  xtal_52.cif
+  xtal_26.cif
+  xtal_4.cif
+  xtal_99.cif
+  xtal_74.cif
+  xtal_17.cif
+  xtal_14.cif
+  xtal_67.cif
+  xtal_38.cif
+  xtal_100.cif
+  xtal_54.cif
+  xtal_43.cif
+  xtal_25.cif
+  xtal_6.cif
+  xtal_48.cif
+  xtal_3.cif
+  xtal_94.cif
+  xtal_59.cif
+  xtal_56.cif
+  xtal_15.cif
+  xtal_27.cif
+  xtal_79.cif
+  xtal_2.cif
+  xtal_16.cif
+  xtal_11.cif
+  xtal_95.cif
+  xtal_9.cif
+  xtal_61.cif
+  xtal_71.cif
+  xtal_90.cif
+  xtal_31.cif
+  xtal_24.cif
+  xtal_96.cif
+  xtal_8.cif
+  xtal_39.cif
+  xtal_47.cif
+  xtal_77.cif
+  xtal_72.cif
+  xtal_45.cif
+
+===== SG 89 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=89)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_50.cif
+  xtal_21.cif
+  xtal_68.cif
+  xtal_73.cif
+  xtal_58.cif
+  xtal_57.cif
+  xtal_55.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_59.cif
+  xtal_34.cif
+  xtal_53.cif
+  xtal_100.cif
+  xtal_81.cif
+  xtal_78.cif
+  xtal_77.cif
+  xtal_75.cif
+  xtal_24.cif
+  xtal_23.cif
+  xtal_87.cif
+  xtal_20.cif
+  xtal_95.cif
+  xtal_4.cif
+  xtal_96.cif
+  xtal_19.cif
+  xtal_60.cif
+  xtal_6.cif
+  xtal_85.cif
+  xtal_42.cif
+  xtal_28.cif
+  xtal_41.cif
+  xtal_39.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_52.cif
+  xtal_36.cif
+  xtal_83.cif
+  xtal_61.cif
+  xtal_71.cif
+  xtal_35.cif
+  xtal_11.cif
+  xtal_10.cif
+  xtal_18.cif
+  xtal_76.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_17.cif
+  xtal_51.cif
+  xtal_67.cif
+
+===== SG 90 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=90)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_3.cif
+  xtal_36.cif
+  xtal_79.cif
+  xtal_59.cif
+  xtal_67.cif
+  xtal_94.cif
+  xtal_68.cif
+  xtal_98.cif
+  xtal_84.cif
+  xtal_27.cif
+  xtal_34.cif
+  xtal_88.cif
+  xtal_73.cif
+  xtal_54.cif
+  xtal_12.cif
+  xtal_99.cif
+  xtal_25.cif
+  xtal_1.cif
+  xtal_91.cif
+  xtal_40.cif
+  xtal_44.cif
+  xtal_63.cif
+  xtal_76.cif
+  xtal_32.cif
+  xtal_38.cif
+  xtal_56.cif
+  xtal_2.cif
+  xtal_82.cif
+  xtal_26.cif
+  xtal_61.cif
+  xtal_81.cif
+  xtal_28.cif
+  xtal_83.cif
+  xtal_75.cif
+  xtal_65.cif
+  xtal_4.cif
+  xtal_24.cif
+  xtal_53.cif
+  xtal_7.cif
+  xtal_93.cif
+  xtal_23.cif
+  xtal_49.cif
+  xtal_96.cif
+  xtal_10.cif
+  xtal_22.cif
+  xtal_37.cif
+  xtal_20.cif
+  xtal_17.cif
+  xtal_30.cif
+
+===== SG 93 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=93)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_12.cif
+  xtal_9.cif
+  xtal_60.cif
+  xtal_27.cif
+  xtal_82.cif
+  xtal_50.cif
+  xtal_20.cif
+  xtal_97.cif
+  xtal_4.cif
+  xtal_80.cif
+  xtal_90.cif
+  xtal_73.cif
+  xtal_35.cif
+  xtal_7.cif
+  xtal_25.cif
+  xtal_13.cif
+  xtal_81.cif
+  xtal_39.cif
+  xtal_28.cif
+  xtal_15.cif
+  xtal_51.cif
+  xtal_87.cif
+  xtal_67.cif
+  xtal_88.cif
+  xtal_54.cif
+  xtal_98.cif
+  xtal_89.cif
+  xtal_92.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_58.cif
+  xtal_77.cif
+  xtal_69.cif
+  xtal_1.cif
+  xtal_47.cif
+  xtal_61.cif
+  xtal_83.cif
+  xtal_96.cif
+  xtal_99.cif
+  xtal_48.cif
+  xtal_63.cif
+  xtal_14.cif
+  xtal_66.cif
+  xtal_84.cif
+  xtal_5.cif
+  xtal_55.cif
+  xtal_41.cif
+  xtal_40.cif
+  xtal_85.cif
+  xtal_24.cif
+
+===== SG 94 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=94)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_27.cif
+  xtal_42.cif
+  xtal_28.cif
+  xtal_17.cif
+  xtal_44.cif
+  xtal_89.cif
+  xtal_6.cif
+  xtal_19.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_59.cif
+  xtal_100.cif
+  xtal_62.cif
+  xtal_73.cif
+  xtal_5.cif
+  xtal_33.cif
+  xtal_88.cif
+  xtal_43.cif
+  xtal_57.cif
+  xtal_23.cif
+  xtal_93.cif
+  xtal_67.cif
+  xtal_2.cif
+  xtal_26.cif
+  xtal_24.cif
+  xtal_56.cif
+  xtal_20.cif
+  xtal_36.cif
+  xtal_75.cif
+  xtal_31.cif
+  xtal_12.cif
+  xtal_77.cif
+  xtal_25.cif
+  xtal_22.cif
+  xtal_86.cif
+  xtal_46.cif
+  xtal_4.cif
+  xtal_8.cif
+  xtal_60.cif
+  xtal_34.cif
+  xtal_13.cif
+  xtal_66.cif
+  xtal_1.cif
+  xtal_7.cif
+  xtal_11.cif
+  xtal_71.cif
+  xtal_47.cif
+  xtal_98.cif
+  xtal_55.cif
+  xtal_15.cif
+
+===== SG 97 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=97)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_72.cif
+  xtal_13.cif
+  xtal_82.cif
+  xtal_56.cif
+  xtal_20.cif
+  xtal_62.cif
+  xtal_9.cif
+  xtal_50.cif
+  xtal_53.cif
+  xtal_31.cif
+  xtal_57.cif
+  xtal_37.cif
+  xtal_29.cif
+  xtal_81.cif
+  xtal_70.cif
+  xtal_88.cif
+  xtal_63.cif
+  xtal_91.cif
+  xtal_74.cif
+  xtal_10.cif
+  xtal_27.cif
+  xtal_3.cif
+  xtal_95.cif
+  xtal_55.cif
+  xtal_23.cif
+  xtal_98.cif
+  xtal_96.cif
+  xtal_36.cif
+  xtal_26.cif
+  xtal_52.cif
+  xtal_18.cif
+  xtal_73.cif
+  xtal_15.cif
+  xtal_59.cif
+  xtal_66.cif
+  xtal_33.cif
+  xtal_44.cif
+  xtal_54.cif
+  xtal_32.cif
+  xtal_68.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_28.cif
+  xtal_41.cif
+  xtal_17.cif
+  xtal_93.cif
+  xtal_22.cif
+  xtal_12.cif
+  xtal_2.cif
+
+===== SG 99 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=99)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_11.cif
+  xtal_97.cif
+  xtal_66.cif
+  xtal_21.cif
+  xtal_20.cif
+  xtal_53.cif
+  xtal_60.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_100.cif
+  xtal_14.cif
+  xtal_77.cif
+  xtal_13.cif
+  xtal_83.cif
+  xtal_82.cif
+  xtal_47.cif
+  xtal_51.cif
+  xtal_25.cif
+  xtal_6.cif
+  xtal_96.cif
+  xtal_33.cif
+  xtal_94.cif
+  xtal_40.cif
+  xtal_62.cif
+  xtal_91.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_26.cif
+  xtal_55.cif
+  xtal_34.cif
+  xtal_22.cif
+  xtal_43.cif
+  xtal_50.cif
+  xtal_73.cif
+  xtal_84.cif
+  xtal_17.cif
+  xtal_48.cif
+  xtal_46.cif
+  xtal_71.cif
+  xtal_16.cif
+  xtal_39.cif
+  xtal_23.cif
+  xtal_30.cif
+  xtal_35.cif
+  xtal_78.cif
+  xtal_99.cif
+  xtal_95.cif
+  xtal_44.cif
+
+===== SG 100 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=100)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_66.cif
+  xtal_36.cif
+  xtal_61.cif
+  xtal_87.cif
+  xtal_70.cif
+  xtal_55.cif
+  xtal_42.cif
+  xtal_50.cif
+  xtal_12.cif
+  xtal_79.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_39.cif
+  xtal_96.cif
+  xtal_33.cif
+  xtal_6.cif
+  xtal_64.cif
+  xtal_57.cif
+  xtal_53.cif
+  xtal_67.cif
+  xtal_88.cif
+  xtal_81.cif
+  xtal_44.cif
+  xtal_52.cif
+  xtal_100.cif
+  xtal_91.cif
+  xtal_24.cif
+  xtal_77.cif
+  xtal_3.cif
+  xtal_43.cif
+  xtal_56.cif
+  xtal_92.cif
+  xtal_38.cif
+  xtal_97.cif
+  xtal_72.cif
+  xtal_58.cif
+  xtal_37.cif
+  xtal_68.cif
+  xtal_99.cif
+  xtal_5.cif
+  xtal_4.cif
+  xtal_10.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_86.cif
+  xtal_9.cif
+  xtal_95.cif
+  xtal_63.cif
+  xtal_29.cif
+
+===== SG 101 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=101)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_99.cif
+  xtal_53.cif
+  xtal_47.cif
+  xtal_12.cif
+  xtal_84.cif
+  xtal_38.cif
+  xtal_60.cif
+  xtal_1.cif
+  xtal_94.cif
+  xtal_30.cif
+  xtal_63.cif
+  xtal_33.cif
+  xtal_6.cif
+  xtal_80.cif
+  xtal_68.cif
+  xtal_5.cif
+  xtal_31.cif
+  xtal_50.cif
+  xtal_23.cif
+  xtal_89.cif
+  xtal_95.cif
+  xtal_57.cif
+  xtal_51.cif
+  xtal_34.cif
+  xtal_16.cif
+  xtal_42.cif
+  xtal_36.cif
+  xtal_11.cif
+  xtal_65.cif
+  xtal_22.cif
+  xtal_56.cif
+  xtal_75.cif
+  xtal_96.cif
+  xtal_14.cif
+  xtal_86.cif
+  xtal_32.cif
+  xtal_4.cif
+  xtal_26.cif
+  xtal_52.cif
+  xtal_37.cif
+  xtal_58.cif
+  xtal_74.cif
+  xtal_8.cif
+  xtal_10.cif
+  xtal_98.cif
+  xtal_72.cif
+  xtal_29.cif
+  xtal_61.cif
+  xtal_77.cif
+
+===== SG 102 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=102)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_83.cif
+  xtal_48.cif
+  xtal_55.cif
+  xtal_60.cif
+  xtal_79.cif
+  xtal_94.cif
+  xtal_34.cif
+  xtal_1.cif
+  xtal_11.cif
+  xtal_23.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_91.cif
+  xtal_62.cif
+  xtal_37.cif
+  xtal_16.cif
+  xtal_49.cif
+  xtal_69.cif
+  xtal_14.cif
+  xtal_27.cif
+  xtal_41.cif
+  xtal_50.cif
+  xtal_46.cif
+  xtal_68.cif
+  xtal_42.cif
+  xtal_64.cif
+  xtal_58.cif
+  xtal_35.cif
+  xtal_95.cif
+  xtal_70.cif
+  xtal_86.cif
+  xtal_61.cif
+  xtal_80.cif
+  xtal_36.cif
+  xtal_33.cif
+  xtal_45.cif
+  xtal_20.cif
+  xtal_26.cif
+  xtal_63.cif
+  xtal_44.cif
+  xtal_30.cif
+  xtal_29.cif
+  xtal_53.cif
+  xtal_92.cif
+  xtal_9.cif
+  xtal_40.cif
+  xtal_10.cif
+  xtal_3.cif
+  xtal_78.cif
+
+===== SG 103 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=103)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_95.cif
+  xtal_25.cif
+  xtal_18.cif
+  xtal_73.cif
+  xtal_81.cif
+  xtal_46.cif
+  xtal_69.cif
+  xtal_40.cif
+  xtal_15.cif
+  xtal_22.cif
+  xtal_30.cif
+  xtal_66.cif
+  xtal_34.cif
+  xtal_86.cif
+  xtal_57.cif
+  xtal_7.cif
+  xtal_31.cif
+  xtal_19.cif
+  xtal_78.cif
+  xtal_67.cif
+  xtal_55.cif
+  xtal_13.cif
+  xtal_65.cif
+  xtal_51.cif
+  xtal_17.cif
+  xtal_16.cif
+  xtal_10.cif
+  xtal_91.cif
+  xtal_88.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_44.cif
+  xtal_96.cif
+  xtal_94.cif
+  xtal_75.cif
+  xtal_56.cif
+  xtal_21.cif
+  xtal_62.cif
+  xtal_61.cif
+  xtal_8.cif
+  xtal_12.cif
+  xtal_50.cif
+  xtal_11.cif
+  xtal_42.cif
+  xtal_97.cif
+  xtal_85.cif
+  xtal_64.cif
+  xtal_84.cif
+  xtal_93.cif
+
+===== SG 104 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=104)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_70.cif
+  xtal_81.cif
+  xtal_58.cif
+  xtal_57.cif
+  xtal_43.cif
+  xtal_61.cif
+  xtal_66.cif
+  xtal_18.cif
+  xtal_69.cif
+  xtal_37.cif
+  xtal_92.cif
+  xtal_39.cif
+  xtal_60.cif
+  xtal_14.cif
+  xtal_85.cif
+  xtal_4.cif
+  xtal_33.cif
+  xtal_90.cif
+  xtal_54.cif
+  xtal_47.cif
+  xtal_32.cif
+  xtal_77.cif
+  xtal_95.cif
+  xtal_79.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_23.cif
+  xtal_97.cif
+  xtal_11.cif
+  xtal_91.cif
+  xtal_53.cif
+  xtal_73.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_1.cif
+  xtal_41.cif
+  xtal_26.cif
+  xtal_56.cif
+  xtal_12.cif
+  xtal_20.cif
+  xtal_6.cif
+  xtal_10.cif
+  xtal_22.cif
+  xtal_74.cif
+  xtal_28.cif
+  xtal_63.cif
+  xtal_5.cif
+  xtal_25.cif
+  xtal_52.cif
+
+===== SG 105 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=105)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_100.cif
+  xtal_87.cif
+  xtal_41.cif
+  xtal_94.cif
+  xtal_49.cif
+  xtal_12.cif
+  xtal_80.cif
+  xtal_34.cif
+  xtal_21.cif
+  xtal_28.cif
+  xtal_54.cif
+  xtal_42.cif
+  xtal_61.cif
+  xtal_69.cif
+  xtal_86.cif
+  xtal_71.cif
+  xtal_29.cif
+  xtal_27.cif
+  xtal_35.cif
+  xtal_81.cif
+  xtal_66.cif
+  xtal_10.cif
+  xtal_56.cif
+  xtal_36.cif
+  xtal_65.cif
+  xtal_43.cif
+  xtal_64.cif
+  xtal_26.cif
+  xtal_22.cif
+  xtal_60.cif
+  xtal_97.cif
+  xtal_96.cif
+  xtal_83.cif
+  xtal_58.cif
+  xtal_74.cif
+  xtal_84.cif
+  xtal_16.cif
+  xtal_82.cif
+  xtal_72.cif
+  xtal_1.cif
+  xtal_20.cif
+  xtal_31.cif
+  xtal_19.cif
+  xtal_93.cif
+  xtal_92.cif
+  xtal_33.cif
+  xtal_15.cif
+  xtal_5.cif
+  xtal_32.cif
+
+===== SG 107 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=107)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_27.cif
+  xtal_70.cif
+  xtal_22.cif
+  xtal_49.cif
+  xtal_100.cif
+  xtal_47.cif
+  xtal_51.cif
+  xtal_16.cif
+  xtal_95.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_56.cif
+  xtal_12.cif
+  xtal_74.cif
+  xtal_10.cif
+  xtal_57.cif
+  xtal_66.cif
+  xtal_54.cif
+  xtal_81.cif
+  xtal_29.cif
+  xtal_53.cif
+  xtal_37.cif
+  xtal_31.cif
+  xtal_85.cif
+  xtal_14.cif
+  xtal_34.cif
+  xtal_60.cif
+  xtal_23.cif
+  xtal_35.cif
+  xtal_32.cif
+  xtal_93.cif
+  xtal_62.cif
+  xtal_21.cif
+  xtal_99.cif
+  xtal_25.cif
+  xtal_19.cif
+  xtal_65.cif
+  xtal_9.cif
+  xtal_41.cif
+  xtal_83.cif
+  xtal_20.cif
+  xtal_13.cif
+  xtal_45.cif
+  xtal_71.cif
+  xtal_94.cif
+  xtal_26.cif
+  xtal_8.cif
+  xtal_87.cif
+  xtal_48.cif
+
+===== SG 111 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=111)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_26.cif
+  xtal_39.cif
+  xtal_2.cif
+  xtal_41.cif
+  xtal_51.cif
+  xtal_59.cif
+  xtal_32.cif
+  xtal_88.cif
+  xtal_3.cif
+  xtal_67.cif
+  xtal_19.cif
+  xtal_28.cif
+  xtal_17.cif
+  xtal_22.cif
+  xtal_1.cif
+  xtal_44.cif
+  xtal_94.cif
+  xtal_54.cif
+  xtal_31.cif
+  xtal_60.cif
+  xtal_58.cif
+  xtal_12.cif
+  xtal_23.cif
+  xtal_75.cif
+  xtal_82.cif
+  xtal_79.cif
+  xtal_78.cif
+  xtal_72.cif
+  xtal_61.cif
+  xtal_42.cif
+  xtal_52.cif
+  xtal_68.cif
+  xtal_47.cif
+  xtal_7.cif
+  xtal_11.cif
+  xtal_93.cif
+  xtal_49.cif
+  xtal_85.cif
+  xtal_95.cif
+  xtal_38.cif
+  xtal_16.cif
+  xtal_43.cif
+  xtal_14.cif
+  xtal_96.cif
+  xtal_92.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_27.cif
+  xtal_89.cif
+
+===== SG 112 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=112)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_67.cif
+  xtal_70.cif
+  xtal_30.cif
+  xtal_39.cif
+  xtal_69.cif
+  xtal_25.cif
+  xtal_63.cif
+  xtal_97.cif
+  xtal_82.cif
+  xtal_27.cif
+  xtal_35.cif
+  xtal_52.cif
+  xtal_6.cif
+  xtal_50.cif
+  xtal_23.cif
+  xtal_78.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_43.cif
+  xtal_80.cif
+  xtal_61.cif
+  xtal_54.cif
+  xtal_21.cif
+  xtal_100.cif
+  xtal_42.cif
+  xtal_22.cif
+  xtal_3.cif
+  xtal_71.cif
+  xtal_12.cif
+  xtal_8.cif
+  xtal_72.cif
+  xtal_60.cif
+  xtal_59.cif
+  xtal_73.cif
+  xtal_90.cif
+  xtal_86.cif
+  xtal_84.cif
+  xtal_62.cif
+  xtal_13.cif
+  xtal_55.cif
+  xtal_66.cif
+  xtal_58.cif
+  xtal_96.cif
+  xtal_1.cif
+  xtal_57.cif
+  xtal_51.cif
+  xtal_28.cif
+  xtal_94.cif
+  xtal_40.cif
+
+===== SG 113 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=113)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_37.cif
+  xtal_21.cif
+  xtal_67.cif
+  xtal_93.cif
+  xtal_18.cif
+  xtal_26.cif
+  xtal_1.cif
+  xtal_54.cif
+  xtal_89.cif
+  xtal_72.cif
+  xtal_71.cif
+  xtal_38.cif
+  xtal_65.cif
+  xtal_19.cif
+  xtal_17.cif
+  xtal_4.cif
+  xtal_11.cif
+  xtal_14.cif
+  xtal_97.cif
+  xtal_28.cif
+  xtal_96.cif
+  xtal_15.cif
+  xtal_49.cif
+  xtal_43.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_29.cif
+  xtal_25.cif
+  xtal_52.cif
+  xtal_40.cif
+  xtal_27.cif
+  xtal_92.cif
+  xtal_79.cif
+  xtal_23.cif
+  xtal_53.cif
+  xtal_62.cif
+  xtal_88.cif
+  xtal_16.cif
+  xtal_90.cif
+  xtal_64.cif
+  xtal_5.cif
+  xtal_33.cif
+  xtal_13.cif
+  xtal_77.cif
+  xtal_100.cif
+  xtal_69.cif
+  xtal_2.cif
+  xtal_46.cif
+  xtal_36.cif
+
+===== SG 114 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=114)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_66.cif
+  xtal_58.cif
+  xtal_16.cif
+  xtal_82.cif
+  xtal_62.cif
+  xtal_12.cif
+  xtal_24.cif
+  xtal_5.cif
+  xtal_57.cif
+  xtal_11.cif
+  xtal_69.cif
+  xtal_68.cif
+  xtal_3.cif
+  xtal_47.cif
+  xtal_41.cif
+  xtal_98.cif
+  xtal_42.cif
+  xtal_10.cif
+  xtal_44.cif
+  xtal_17.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_36.cif
+  xtal_48.cif
+  xtal_20.cif
+  xtal_84.cif
+  xtal_2.cif
+  xtal_95.cif
+  xtal_29.cif
+  xtal_72.cif
+  xtal_14.cif
+  xtal_53.cif
+  xtal_88.cif
+  xtal_64.cif
+  xtal_13.cif
+  xtal_28.cif
+  xtal_34.cif
+  xtal_99.cif
+  xtal_50.cif
+  xtal_92.cif
+  xtal_45.cif
+  xtal_15.cif
+  xtal_93.cif
+  xtal_71.cif
+  xtal_46.cif
+  xtal_43.cif
+  xtal_6.cif
+  xtal_51.cif
+  xtal_4.cif
+
+===== SG 115 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=115)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_8.cif
+  xtal_45.cif
+  xtal_30.cif
+  xtal_15.cif
+  xtal_5.cif
+  xtal_63.cif
+  xtal_33.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_74.cif
+  xtal_65.cif
+  xtal_26.cif
+  xtal_59.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_29.cif
+  xtal_55.cif
+  xtal_86.cif
+  xtal_49.cif
+  xtal_11.cif
+  xtal_61.cif
+  xtal_99.cif
+  xtal_47.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_16.cif
+  xtal_84.cif
+  xtal_7.cif
+  xtal_76.cif
+  xtal_21.cif
+  xtal_18.cif
+  xtal_85.cif
+  xtal_56.cif
+  xtal_9.cif
+  xtal_66.cif
+  xtal_17.cif
+  xtal_46.cif
+  xtal_28.cif
+  xtal_92.cif
+  xtal_80.cif
+  xtal_10.cif
+  xtal_22.cif
+  xtal_6.cif
+  xtal_41.cif
+  xtal_95.cif
+  xtal_44.cif
+  xtal_68.cif
+  xtal_12.cif
+  xtal_3.cif
+
+===== SG 116 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=116)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_99.cif
+  xtal_71.cif
+  xtal_70.cif
+  xtal_28.cif
+  xtal_19.cif
+  xtal_11.cif
+  xtal_33.cif
+  xtal_42.cif
+  xtal_29.cif
+  xtal_67.cif
+  xtal_49.cif
+  xtal_45.cif
+  xtal_27.cif
+  xtal_7.cif
+  xtal_48.cif
+  xtal_84.cif
+  xtal_73.cif
+  xtal_41.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_55.cif
+  xtal_38.cif
+  xtal_22.cif
+  xtal_31.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_58.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_3.cif
+  xtal_1.cif
+  xtal_50.cif
+  xtal_69.cif
+  xtal_52.cif
+  xtal_80.cif
+  xtal_74.cif
+  xtal_72.cif
+  xtal_66.cif
+  xtal_53.cif
+  xtal_44.cif
+  xtal_12.cif
+  xtal_25.cif
+  xtal_89.cif
+  xtal_51.cif
+  xtal_54.cif
+  xtal_6.cif
+  xtal_24.cif
+
+===== SG 117 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=117)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_62.cif
+  xtal_70.cif
+  xtal_77.cif
+  xtal_2.cif
+  xtal_67.cif
+  xtal_14.cif
+  xtal_10.cif
+  xtal_54.cif
+  xtal_8.cif
+  xtal_65.cif
+  xtal_72.cif
+  xtal_40.cif
+  xtal_6.cif
+  xtal_64.cif
+  xtal_73.cif
+  xtal_16.cif
+  xtal_53.cif
+  xtal_13.cif
+  xtal_85.cif
+  xtal_51.cif
+  xtal_96.cif
+  xtal_26.cif
+  xtal_21.cif
+  xtal_11.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_68.cif
+  xtal_55.cif
+  xtal_38.cif
+  xtal_84.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_82.cif
+  xtal_91.cif
+  xtal_57.cif
+  xtal_94.cif
+  xtal_99.cif
+  xtal_93.cif
+  xtal_1.cif
+  xtal_71.cif
+  xtal_27.cif
+  xtal_52.cif
+  xtal_90.cif
+  xtal_3.cif
+  xtal_66.cif
+  xtal_56.cif
+  xtal_76.cif
+
+===== SG 118 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=118)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_57.cif
+  xtal_28.cif
+  xtal_50.cif
+  xtal_17.cif
+  xtal_77.cif
+  xtal_25.cif
+  xtal_33.cif
+  xtal_95.cif
+  xtal_9.cif
+  xtal_47.cif
+  xtal_65.cif
+  xtal_48.cif
+  xtal_71.cif
+  xtal_19.cif
+  xtal_87.cif
+  xtal_76.cif
+  xtal_15.cif
+  xtal_60.cif
+  xtal_83.cif
+  xtal_82.cif
+  xtal_58.cif
+  xtal_52.cif
+  xtal_100.cif
+  xtal_61.cif
+  xtal_46.cif
+  xtal_85.cif
+  xtal_24.cif
+  xtal_41.cif
+  xtal_54.cif
+  xtal_18.cif
+  xtal_56.cif
+  xtal_89.cif
+  xtal_59.cif
+  xtal_75.cif
+  xtal_73.cif
+  xtal_5.cif
+  xtal_86.cif
+  xtal_49.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_38.cif
+  xtal_32.cif
+  xtal_20.cif
+  xtal_8.cif
+  xtal_92.cif
+  xtal_14.cif
+  xtal_12.cif
+  xtal_4.cif
+  xtal_81.cif
+
+===== SG 119 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=119)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_12.cif
+  xtal_44.cif
+  xtal_15.cif
+  xtal_67.cif
+  xtal_33.cif
+  xtal_27.cif
+  xtal_89.cif
+  xtal_17.cif
+  xtal_53.cif
+  xtal_13.cif
+  xtal_80.cif
+  xtal_10.cif
+  xtal_72.cif
+  xtal_23.cif
+  xtal_37.cif
+  xtal_93.cif
+  xtal_42.cif
+  xtal_25.cif
+  xtal_6.cif
+  xtal_29.cif
+  xtal_58.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_86.cif
+  xtal_46.cif
+  xtal_21.cif
+  xtal_2.cif
+  xtal_19.cif
+  xtal_60.cif
+  xtal_57.cif
+  xtal_76.cif
+  xtal_73.cif
+  xtal_24.cif
+  xtal_52.cif
+  xtal_100.cif
+  xtal_99.cif
+  xtal_45.cif
+  xtal_41.cif
+  xtal_16.cif
+  xtal_26.cif
+  xtal_55.cif
+  xtal_31.cif
+  xtal_5.cif
+  xtal_48.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_40.cif
+
+===== SG 121 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=121)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_96.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_91.cif
+  xtal_43.cif
+  xtal_9.cif
+  xtal_8.cif
+  xtal_60.cif
+  xtal_34.cif
+  xtal_19.cif
+  xtal_94.cif
+  xtal_69.cif
+  xtal_32.cif
+  xtal_51.cif
+  xtal_6.cif
+  xtal_22.cif
+  xtal_44.cif
+  xtal_2.cif
+  xtal_25.cif
+  xtal_72.cif
+  xtal_42.cif
+  xtal_14.cif
+  xtal_67.cif
+  xtal_50.cif
+  xtal_90.cif
+  xtal_37.cif
+  xtal_31.cif
+  xtal_88.cif
+  xtal_81.cif
+  xtal_35.cif
+  xtal_76.cif
+  xtal_52.cif
+  xtal_1.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_45.cif
+  xtal_79.cif
+  xtal_17.cif
+  xtal_56.cif
+  xtal_80.cif
+  xtal_73.cif
+  xtal_46.cif
+  xtal_18.cif
+  xtal_29.cif
+  xtal_10.cif
+  xtal_89.cif
+  xtal_65.cif
+  xtal_12.cif
+  xtal_3.cif
+
+===== SG 123 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=123)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_8.cif
+  xtal_30.cif
+  xtal_73.cif
+  xtal_62.cif
+  xtal_52.cif
+  xtal_100.cif
+  xtal_64.cif
+  xtal_26.cif
+  xtal_90.cif
+  xtal_54.cif
+  xtal_58.cif
+  xtal_24.cif
+  xtal_56.cif
+  xtal_60.cif
+  xtal_29.cif
+  xtal_86.cif
+  xtal_35.cif
+  xtal_84.cif
+  xtal_16.cif
+  xtal_78.cif
+  xtal_3.cif
+  xtal_2.cif
+  xtal_79.cif
+  xtal_34.cif
+  xtal_27.cif
+  xtal_55.cif
+  xtal_85.cif
+  xtal_71.cif
+  xtal_13.cif
+  xtal_97.cif
+  xtal_18.cif
+  xtal_32.cif
+  xtal_88.cif
+  xtal_63.cif
+  xtal_39.cif
+  xtal_53.cif
+  xtal_74.cif
+  xtal_14.cif
+  xtal_66.cif
+  xtal_65.cif
+  xtal_68.cif
+  xtal_19.cif
+  xtal_48.cif
+  xtal_4.cif
+  xtal_75.cif
+  xtal_37.cif
+  xtal_11.cif
+  xtal_47.cif
+  xtal_33.cif
+
+===== SG 124 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=124)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_83.cif
+  xtal_91.cif
+  xtal_99.cif
+  xtal_75.cif
+  xtal_35.cif
+  xtal_84.cif
+  xtal_78.cif
+  xtal_13.cif
+  xtal_58.cif
+  xtal_8.cif
+  xtal_5.cif
+  xtal_45.cif
+  xtal_79.cif
+  xtal_94.cif
+  xtal_21.cif
+  xtal_18.cif
+  xtal_46.cif
+  xtal_11.cif
+  xtal_17.cif
+  xtal_27.cif
+  xtal_57.cif
+  xtal_30.cif
+  xtal_6.cif
+  xtal_93.cif
+  xtal_48.cif
+  xtal_16.cif
+  xtal_51.cif
+  xtal_72.cif
+  xtal_28.cif
+  xtal_77.cif
+  xtal_50.cif
+  xtal_55.cif
+  xtal_22.cif
+  xtal_43.cif
+  xtal_7.cif
+  xtal_88.cif
+  xtal_20.cif
+  xtal_71.cif
+  xtal_19.cif
+  xtal_85.cif
+  xtal_59.cif
+  xtal_100.cif
+  xtal_68.cif
+  xtal_42.cif
+  xtal_96.cif
+  xtal_2.cif
+  xtal_86.cif
+  xtal_62.cif
+  xtal_34.cif
+
+===== SG 125 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=125)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_70.cif
+  xtal_14.cif
+  xtal_64.cif
+  xtal_5.cif
+  xtal_8.cif
+  xtal_11.cif
+  xtal_24.cif
+  xtal_20.cif
+  xtal_100.cif
+  xtal_31.cif
+  xtal_93.cif
+  xtal_36.cif
+  xtal_59.cif
+  xtal_99.cif
+  xtal_72.cif
+  xtal_43.cif
+  xtal_41.cif
+  xtal_63.cif
+  xtal_77.cif
+  xtal_49.cif
+  xtal_39.cif
+  xtal_47.cif
+  xtal_4.cif
+  xtal_25.cif
+  xtal_19.cif
+  xtal_60.cif
+  xtal_33.cif
+  xtal_98.cif
+  xtal_79.cif
+  xtal_89.cif
+  xtal_18.cif
+  xtal_76.cif
+  xtal_61.cif
+  xtal_65.cif
+  xtal_28.cif
+  xtal_91.cif
+  xtal_9.cif
+  xtal_55.cif
+  xtal_6.cif
+  xtal_58.cif
+  xtal_56.cif
+  xtal_16.cif
+  xtal_62.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_48.cif
+  xtal_50.cif
+  xtal_10.cif
+  xtal_44.cif
+
+===== SG 126 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=126)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_19.cif
+  xtal_18.cif
+  xtal_39.cif
+  xtal_100.cif
+  xtal_29.cif
+  xtal_25.cif
+  xtal_63.cif
+  xtal_7.cif
+  xtal_52.cif
+  xtal_8.cif
+  xtal_31.cif
+  xtal_43.cif
+  xtal_76.cif
+  xtal_40.cif
+  xtal_32.cif
+  xtal_55.cif
+  xtal_9.cif
+  xtal_57.cif
+  xtal_42.cif
+  xtal_72.cif
+  xtal_45.cif
+  xtal_78.cif
+  xtal_10.cif
+  xtal_3.cif
+  xtal_46.cif
+  xtal_15.cif
+  xtal_1.cif
+  xtal_91.cif
+  xtal_47.cif
+  xtal_33.cif
+  xtal_49.cif
+  xtal_81.cif
+  xtal_87.cif
+  xtal_90.cif
+  xtal_48.cif
+  xtal_24.cif
+  xtal_11.cif
+  xtal_51.cif
+  xtal_98.cif
+  xtal_60.cif
+  xtal_94.cif
+  xtal_89.cif
+  xtal_64.cif
+  xtal_86.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_27.cif
+  xtal_65.cif
+  xtal_54.cif
+
+===== SG 127 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=127)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_47.cif
+  xtal_61.cif
+  xtal_22.cif
+  xtal_89.cif
+  xtal_30.cif
+  xtal_93.cif
+  xtal_59.cif
+  xtal_7.cif
+  xtal_96.cif
+  xtal_29.cif
+  xtal_72.cif
+  xtal_66.cif
+  xtal_10.cif
+  xtal_56.cif
+  xtal_36.cif
+  xtal_91.cif
+  xtal_32.cif
+  xtal_99.cif
+  xtal_94.cif
+  xtal_92.cif
+  xtal_1.cif
+  xtal_28.cif
+  xtal_4.cif
+  xtal_90.cif
+  xtal_20.cif
+  xtal_81.cif
+  xtal_17.cif
+  xtal_67.cif
+  xtal_18.cif
+  xtal_73.cif
+  xtal_15.cif
+  xtal_40.cif
+  xtal_8.cif
+  xtal_62.cif
+  xtal_26.cif
+  xtal_76.cif
+  xtal_52.cif
+  xtal_2.cif
+  xtal_13.cif
+  xtal_68.cif
+  xtal_35.cif
+  xtal_24.cif
+  xtal_88.cif
+  xtal_49.cif
+  xtal_70.cif
+  xtal_34.cif
+  xtal_27.cif
+  xtal_45.cif
+  xtal_69.cif
+
+===== SG 128 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=128)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_62.cif
+  xtal_52.cif
+  xtal_8.cif
+  xtal_48.cif
+  xtal_45.cif
+  xtal_54.cif
+  xtal_35.cif
+  xtal_95.cif
+  xtal_87.cif
+  xtal_26.cif
+  xtal_71.cif
+  xtal_69.cif
+  xtal_32.cif
+  xtal_9.cif
+  xtal_58.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_77.cif
+  xtal_34.cif
+  xtal_37.cif
+  xtal_3.cif
+  xtal_6.cif
+  xtal_80.cif
+  xtal_74.cif
+  xtal_42.cif
+  xtal_49.cif
+  xtal_13.cif
+  xtal_73.cif
+  xtal_79.cif
+  xtal_23.cif
+  xtal_2.cif
+  xtal_70.cif
+  xtal_63.cif
+  xtal_47.cif
+  xtal_19.cif
+  xtal_28.cif
+  xtal_40.cif
+  xtal_31.cif
+  xtal_90.cif
+  xtal_89.cif
+  xtal_64.cif
+  xtal_16.cif
+  xtal_66.cif
+  xtal_39.cif
+  xtal_43.cif
+  xtal_51.cif
+  xtal_41.cif
+  xtal_7.cif
+  xtal_50.cif
+  xtal_46.cif
+
+===== SG 129 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=129)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_28.cif
+  xtal_89.cif
+  xtal_23.cif
+  xtal_57.cif
+  xtal_39.cif
+  xtal_60.cif
+  xtal_2.cif
+  xtal_8.cif
+  xtal_31.cif
+  xtal_42.cif
+  xtal_64.cif
+  xtal_93.cif
+  xtal_22.cif
+  xtal_94.cif
+  xtal_98.cif
+  xtal_63.cif
+  xtal_77.cif
+  xtal_53.cif
+  xtal_27.cif
+  xtal_46.cif
+  xtal_95.cif
+  xtal_45.cif
+  xtal_74.cif
+  xtal_5.cif
+  xtal_14.cif
+  xtal_58.cif
+  xtal_88.cif
+  xtal_86.cif
+  xtal_25.cif
+  xtal_6.cif
+  xtal_40.cif
+  xtal_24.cif
+  xtal_55.cif
+  xtal_80.cif
+  xtal_41.cif
+  xtal_90.cif
+  xtal_54.cif
+  xtal_29.cif
+  xtal_16.cif
+  xtal_20.cif
+  xtal_34.cif
+  xtal_83.cif
+  xtal_21.cif
+  xtal_49.cif
+  xtal_71.cif
+  xtal_4.cif
+  xtal_51.cif
+  xtal_30.cif
+  xtal_13.cif
+
+===== SG 131 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=131)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_51.cif
+  xtal_40.cif
+  xtal_28.cif
+  xtal_69.cif
+  xtal_49.cif
+  xtal_98.cif
+  xtal_68.cif
+  xtal_99.cif
+  xtal_93.cif
+  xtal_22.cif
+  xtal_70.cif
+  xtal_85.cif
+  xtal_10.cif
+  xtal_27.cif
+  xtal_41.cif
+  xtal_46.cif
+  xtal_95.cif
+  xtal_52.cif
+  xtal_15.cif
+  xtal_11.cif
+  xtal_55.cif
+  xtal_24.cif
+  xtal_30.cif
+  xtal_57.cif
+  xtal_61.cif
+  xtal_8.cif
+  xtal_53.cif
+  xtal_73.cif
+  xtal_48.cif
+  xtal_42.cif
+  xtal_72.cif
+  xtal_14.cif
+  xtal_34.cif
+  xtal_96.cif
+  xtal_2.cif
+  xtal_100.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_60.cif
+  xtal_16.cif
+  xtal_32.cif
+  xtal_58.cif
+  xtal_12.cif
+  xtal_50.cif
+  xtal_94.cif
+  xtal_9.cif
+  xtal_78.cif
+  xtal_64.cif
+  xtal_36.cif
+
+===== SG 132 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=132)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_96.cif
+  xtal_93.cif
+  xtal_71.cif
+  xtal_2.cif
+  xtal_38.cif
+  xtal_91.cif
+  xtal_69.cif
+  xtal_13.cif
+  xtal_29.cif
+  xtal_34.cif
+  xtal_6.cif
+  xtal_97.cif
+  xtal_27.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_22.cif
+  xtal_40.cif
+  xtal_85.cif
+  xtal_14.cif
+  xtal_19.cif
+  xtal_86.cif
+  xtal_18.cif
+  xtal_89.cif
+  xtal_49.cif
+  xtal_78.cif
+  xtal_37.cif
+  xtal_79.cif
+  xtal_73.cif
+  xtal_9.cif
+  xtal_81.cif
+  xtal_15.cif
+  xtal_33.cif
+  xtal_10.cif
+  xtal_57.cif
+  xtal_76.cif
+  xtal_50.cif
+  xtal_23.cif
+  xtal_60.cif
+  xtal_95.cif
+  xtal_94.cif
+  xtal_56.cif
+  xtal_84.cif
+  xtal_55.cif
+  xtal_52.cif
+  xtal_25.cif
+  xtal_11.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_31.cif
+
+===== SG 134 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=134)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_40.cif
+  xtal_58.cif
+  xtal_64.cif
+  xtal_53.cif
+  xtal_76.cif
+  xtal_28.cif
+  xtal_18.cif
+  xtal_27.cif
+  xtal_60.cif
+  xtal_55.cif
+  xtal_41.cif
+  xtal_35.cif
+  xtal_30.cif
+  xtal_73.cif
+  xtal_19.cif
+  xtal_100.cif
+  xtal_16.cif
+  xtal_62.cif
+  xtal_81.cif
+  xtal_98.cif
+  xtal_17.cif
+  xtal_66.cif
+  xtal_7.cif
+  xtal_23.cif
+  xtal_57.cif
+  xtal_51.cif
+  xtal_4.cif
+  xtal_59.cif
+  xtal_26.cif
+  xtal_97.cif
+  xtal_63.cif
+  xtal_67.cif
+  xtal_79.cif
+  xtal_32.cif
+  xtal_88.cif
+  xtal_24.cif
+  xtal_68.cif
+  xtal_3.cif
+  xtal_43.cif
+  xtal_92.cif
+  xtal_74.cif
+  xtal_85.cif
+  xtal_75.cif
+  xtal_89.cif
+  xtal_82.cif
+  xtal_77.cif
+  xtal_47.cif
+  xtal_94.cif
+  xtal_42.cif
+  xtal_11.cif
+
+===== SG 136 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=136)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_95.cif
+  xtal_10.cif
+  xtal_28.cif
+  xtal_36.cif
+  xtal_53.cif
+  xtal_23.cif
+  xtal_93.cif
+  xtal_68.cif
+  xtal_31.cif
+  xtal_39.cif
+  xtal_91.cif
+  xtal_40.cif
+  xtal_96.cif
+  xtal_79.cif
+  xtal_83.cif
+  xtal_2.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_25.cif
+  xtal_13.cif
+  xtal_67.cif
+  xtal_17.cif
+  xtal_22.cif
+  xtal_26.cif
+  xtal_49.cif
+  xtal_48.cif
+  xtal_30.cif
+  xtal_75.cif
+  xtal_35.cif
+  xtal_69.cif
+  xtal_99.cif
+  xtal_77.cif
+  xtal_64.cif
+  xtal_63.cif
+  xtal_29.cif
+  xtal_57.cif
+  xtal_9.cif
+  xtal_15.cif
+  xtal_72.cif
+  xtal_82.cif
+  xtal_14.cif
+  xtal_19.cif
+  xtal_70.cif
+  xtal_86.cif
+  xtal_33.cif
+  xtal_98.cif
+  xtal_55.cif
+  xtal_1.cif
+  xtal_92.cif
+
+===== SG 137 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=137)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_99.cif
+  xtal_76.cif
+  xtal_50.cif
+  xtal_45.cif
+  xtal_34.cif
+  xtal_60.cif
+  xtal_94.cif
+  xtal_18.cif
+  xtal_37.cif
+  xtal_90.cif
+  xtal_51.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_23.cif
+  xtal_75.cif
+  xtal_16.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_52.cif
+  xtal_40.cif
+  xtal_10.cif
+  xtal_21.cif
+  xtal_9.cif
+  xtal_88.cif
+  xtal_78.cif
+  xtal_85.cif
+  xtal_97.cif
+  xtal_87.cif
+  xtal_54.cif
+  xtal_8.cif
+  xtal_96.cif
+  xtal_24.cif
+  xtal_31.cif
+  xtal_25.cif
+  xtal_2.cif
+  xtal_91.cif
+  xtal_63.cif
+  xtal_30.cif
+  xtal_13.cif
+  xtal_82.cif
+  xtal_19.cif
+  xtal_27.cif
+  xtal_43.cif
+  xtal_93.cif
+  xtal_4.cif
+  xtal_29.cif
+
+===== SG 139 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=139)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_12.cif
+  xtal_33.cif
+  xtal_49.cif
+  xtal_43.cif
+  xtal_30.cif
+  xtal_47.cif
+  xtal_98.cif
+  xtal_55.cif
+  xtal_23.cif
+  xtal_45.cif
+  xtal_13.cif
+  xtal_3.cif
+  xtal_61.cif
+  xtal_6.cif
+  xtal_100.cif
+  xtal_44.cif
+  xtal_39.cif
+  xtal_35.cif
+  xtal_10.cif
+  xtal_70.cif
+  xtal_84.cif
+  xtal_26.cif
+  xtal_95.cif
+  xtal_94.cif
+  xtal_31.cif
+  xtal_57.cif
+  xtal_34.cif
+  xtal_82.cif
+  xtal_63.cif
+  xtal_20.cif
+  xtal_62.cif
+  xtal_90.cif
+  xtal_56.cif
+  xtal_19.cif
+  xtal_78.cif
+  xtal_64.cif
+  xtal_46.cif
+  xtal_91.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_83.cif
+  xtal_14.cif
+  xtal_72.cif
+  xtal_2.cif
+  xtal_22.cif
+  xtal_28.cif
+  xtal_50.cif
+  xtal_74.cif
+  xtal_42.cif
+
+===== SG 143 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=143)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_21.cif
+  xtal_59.cif
+  xtal_85.cif
+  xtal_33.cif
+  xtal_17.cif
+  xtal_4.cif
+  xtal_80.cif
+  xtal_32.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_63.cif
+  xtal_36.cif
+  xtal_31.cif
+  xtal_13.cif
+  xtal_44.cif
+  xtal_16.cif
+  xtal_39.cif
+  xtal_65.cif
+  xtal_77.cif
+  xtal_100.cif
+  xtal_55.cif
+  xtal_43.cif
+  xtal_68.cif
+  xtal_84.cif
+  xtal_51.cif
+  xtal_10.cif
+  xtal_41.cif
+  xtal_97.cif
+  xtal_35.cif
+  xtal_14.cif
+  xtal_98.cif
+  xtal_18.cif
+  xtal_86.cif
+  xtal_66.cif
+  xtal_25.cif
+  xtal_64.cif
+  xtal_87.cif
+  xtal_81.cif
+  xtal_89.cif
+  xtal_75.cif
+  xtal_15.cif
+  xtal_67.cif
+  xtal_71.cif
+  xtal_62.cif
+  xtal_40.cif
+  xtal_96.cif
+  xtal_57.cif
+  xtal_11.cif
+  xtal_91.cif
+
+===== SG 147 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=147)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_46.cif
+  xtal_29.cif
+  xtal_55.cif
+  xtal_8.cif
+  xtal_95.cif
+  xtal_98.cif
+  xtal_30.cif
+  xtal_34.cif
+  xtal_7.cif
+  xtal_80.cif
+  xtal_52.cif
+  xtal_6.cif
+  xtal_100.cif
+  xtal_25.cif
+  xtal_22.cif
+  xtal_94.cif
+  xtal_89.cif
+  xtal_47.cif
+  xtal_1.cif
+  xtal_40.cif
+  xtal_83.cif
+  xtal_27.cif
+  xtal_88.cif
+  xtal_91.cif
+  xtal_43.cif
+  xtal_65.cif
+  xtal_93.cif
+  xtal_73.cif
+  xtal_97.cif
+  xtal_20.cif
+  xtal_49.cif
+  xtal_42.cif
+  xtal_51.cif
+  xtal_19.cif
+  xtal_63.cif
+  xtal_68.cif
+  xtal_23.cif
+  xtal_15.cif
+  xtal_38.cif
+  xtal_58.cif
+  xtal_86.cif
+  xtal_57.cif
+  xtal_32.cif
+  xtal_67.cif
+  xtal_61.cif
+  xtal_92.cif
+  xtal_75.cif
+  xtal_12.cif
+  xtal_79.cif
+  xtal_77.cif
+
+===== SG 149 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=149)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_69.cif
+  xtal_16.cif
+  xtal_62.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_99.cif
+  xtal_2.cif
+  xtal_81.cif
+  xtal_38.cif
+  xtal_63.cif
+  xtal_7.cif
+  xtal_61.cif
+  xtal_13.cif
+  xtal_24.cif
+  xtal_34.cif
+  xtal_65.cif
+  xtal_22.cif
+  xtal_37.cif
+  xtal_41.cif
+  xtal_75.cif
+  xtal_23.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_20.cif
+  xtal_18.cif
+  xtal_11.cif
+  xtal_78.cif
+  xtal_90.cif
+  xtal_27.cif
+  xtal_40.cif
+  xtal_55.cif
+  xtal_5.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_64.cif
+  xtal_43.cif
+  xtal_10.cif
+  xtal_4.cif
+  xtal_31.cif
+  xtal_28.cif
+  xtal_97.cif
+  xtal_3.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_49.cif
+  xtal_60.cif
+  xtal_30.cif
+  xtal_29.cif
+  xtal_26.cif
+
+===== SG 150 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=150)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_99.cif
+  xtal_67.cif
+  xtal_49.cif
+  xtal_84.cif
+  xtal_44.cif
+  xtal_25.cif
+  xtal_93.cif
+  xtal_22.cif
+  xtal_53.cif
+  xtal_88.cif
+  xtal_7.cif
+  xtal_100.cif
+  xtal_71.cif
+  xtal_2.cif
+  xtal_15.cif
+  xtal_94.cif
+  xtal_77.cif
+  xtal_11.cif
+  xtal_23.cif
+  xtal_61.cif
+  xtal_52.cif
+  xtal_86.cif
+  xtal_17.cif
+  xtal_45.cif
+  xtal_62.cif
+  xtal_89.cif
+  xtal_29.cif
+  xtal_8.cif
+  xtal_12.cif
+  xtal_74.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_10.cif
+  xtal_42.cif
+  xtal_34.cif
+  xtal_75.cif
+  xtal_47.cif
+  xtal_32.cif
+  xtal_90.cif
+  xtal_65.cif
+  xtal_16.cif
+  xtal_56.cif
+  xtal_58.cif
+  xtal_79.cif
+  xtal_46.cif
+  xtal_57.cif
+  xtal_40.cif
+  xtal_78.cif
+  xtal_55.cif
+
+===== SG 156 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=156)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_100.cif
+  xtal_54.cif
+  xtal_89.cif
+  xtal_20.cif
+  xtal_17.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_95.cif
+  xtal_4.cif
+  xtal_91.cif
+  xtal_9.cif
+  xtal_93.cif
+  xtal_3.cif
+  xtal_45.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_55.cif
+  xtal_94.cif
+  xtal_83.cif
+  xtal_47.cif
+  xtal_22.cif
+  xtal_51.cif
+  xtal_32.cif
+  xtal_75.cif
+  xtal_21.cif
+  xtal_50.cif
+  xtal_61.cif
+  xtal_88.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_18.cif
+  xtal_40.cif
+  xtal_82.cif
+  xtal_1.cif
+  xtal_14.cif
+  xtal_64.cif
+  xtal_42.cif
+  xtal_34.cif
+  xtal_16.cif
+  xtal_38.cif
+  xtal_48.cif
+  xtal_35.cif
+  xtal_25.cif
+  xtal_58.cif
+  xtal_92.cif
+  xtal_33.cif
+  xtal_77.cif
+  xtal_97.cif
+  xtal_29.cif
+  xtal_10.cif
+
+===== SG 157 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=157)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_35.cif
+  xtal_87.cif
+  xtal_36.cif
+  xtal_89.cif
+  xtal_7.cif
+  xtal_74.cif
+  xtal_39.cif
+  xtal_67.cif
+  xtal_63.cif
+  xtal_59.cif
+  xtal_51.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_73.cif
+  xtal_34.cif
+  xtal_84.cif
+  xtal_78.cif
+  xtal_29.cif
+  xtal_42.cif
+  xtal_82.cif
+  xtal_61.cif
+  xtal_99.cif
+  xtal_88.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_56.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_19.cif
+  xtal_8.cif
+  xtal_4.cif
+  xtal_69.cif
+  xtal_6.cif
+  xtal_37.cif
+  xtal_58.cif
+  xtal_33.cif
+  xtal_81.cif
+  xtal_10.cif
+  xtal_31.cif
+  xtal_26.cif
+  xtal_57.cif
+  xtal_23.cif
+  xtal_70.cif
+  xtal_54.cif
+  xtal_43.cif
+  xtal_40.cif
+  xtal_95.cif
+  xtal_52.cif
+  xtal_17.cif
+
+===== SG 158 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=158)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_47.cif
+  xtal_98.cif
+  xtal_28.cif
+  xtal_46.cif
+  xtal_13.cif
+  xtal_97.cif
+  xtal_52.cif
+  xtal_79.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_39.cif
+  xtal_50.cif
+  xtal_41.cif
+  xtal_68.cif
+  xtal_38.cif
+  xtal_30.cif
+  xtal_85.cif
+  xtal_45.cif
+  xtal_15.cif
+  xtal_72.cif
+  xtal_34.cif
+  xtal_11.cif
+  xtal_20.cif
+  xtal_25.cif
+  xtal_14.cif
+  xtal_27.cif
+  xtal_3.cif
+  xtal_36.cif
+  xtal_51.cif
+  xtal_32.cif
+  xtal_91.cif
+  xtal_24.cif
+  xtal_5.cif
+  xtal_62.cif
+  xtal_23.cif
+  xtal_16.cif
+  xtal_53.cif
+  xtal_95.cif
+  xtal_64.cif
+  xtal_81.cif
+  xtal_31.cif
+  xtal_56.cif
+  xtal_22.cif
+  xtal_8.cif
+  xtal_44.cif
+  xtal_29.cif
+  xtal_87.cif
+  xtal_83.cif
+  xtal_6.cif
+
+===== SG 159 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=159)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_69.cif
+  xtal_55.cif
+  xtal_68.cif
+  xtal_86.cif
+  xtal_83.cif
+  xtal_27.cif
+  xtal_10.cif
+  xtal_33.cif
+  xtal_20.cif
+  xtal_24.cif
+  xtal_1.cif
+  xtal_4.cif
+  xtal_34.cif
+  xtal_25.cif
+  xtal_61.cif
+  xtal_76.cif
+  xtal_17.cif
+  xtal_41.cif
+  xtal_72.cif
+  xtal_79.cif
+  xtal_2.cif
+  xtal_59.cif
+  xtal_99.cif
+  xtal_80.cif
+  xtal_93.cif
+  xtal_30.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_70.cif
+  xtal_96.cif
+  xtal_26.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_22.cif
+  xtal_42.cif
+  xtal_63.cif
+  xtal_38.cif
+  xtal_11.cif
+  xtal_37.cif
+  xtal_75.cif
+  xtal_73.cif
+  xtal_43.cif
+  xtal_14.cif
+  xtal_21.cif
+  xtal_35.cif
+  xtal_81.cif
+  xtal_46.cif
+  xtal_98.cif
+  xtal_18.cif
+  xtal_23.cif
+
+===== SG 162 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=162)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_97.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_89.cif
+  xtal_34.cif
+  xtal_87.cif
+  xtal_80.cif
+  xtal_37.cif
+  xtal_31.cif
+  xtal_83.cif
+  xtal_12.cif
+  xtal_53.cif
+  xtal_15.cif
+  xtal_44.cif
+  xtal_71.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_88.cif
+  xtal_70.cif
+  xtal_81.cif
+  xtal_62.cif
+  xtal_69.cif
+  xtal_59.cif
+  xtal_29.cif
+  xtal_7.cif
+  xtal_35.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_98.cif
+  xtal_9.cif
+  xtal_50.cif
+  xtal_36.cif
+  xtal_94.cif
+  xtal_28.cif
+  xtal_77.cif
+  xtal_5.cif
+  xtal_19.cif
+  xtal_18.cif
+  xtal_96.cif
+  xtal_39.cif
+  xtal_20.cif
+  xtal_92.cif
+  xtal_48.cif
+  xtal_54.cif
+  xtal_65.cif
+  xtal_85.cif
+  xtal_6.cif
+  xtal_72.cif
+  xtal_24.cif
+
+===== SG 163 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=163)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_51.cif
+  xtal_33.cif
+  xtal_42.cif
+  xtal_79.cif
+  xtal_46.cif
+  xtal_53.cif
+  xtal_20.cif
+  xtal_14.cif
+  xtal_17.cif
+  xtal_9.cif
+  xtal_48.cif
+  xtal_86.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_85.cif
+  xtal_1.cif
+  xtal_44.cif
+  xtal_15.cif
+  xtal_81.cif
+  xtal_28.cif
+  xtal_98.cif
+  xtal_62.cif
+  xtal_82.cif
+  xtal_23.cif
+  xtal_3.cif
+  xtal_89.cif
+  xtal_30.cif
+  xtal_75.cif
+  xtal_10.cif
+  xtal_50.cif
+  xtal_83.cif
+  xtal_52.cif
+  xtal_73.cif
+  xtal_13.cif
+  xtal_24.cif
+  xtal_39.cif
+  xtal_27.cif
+  xtal_99.cif
+  xtal_69.cif
+  xtal_66.cif
+  xtal_74.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_12.cif
+  xtal_40.cif
+  xtal_18.cif
+  xtal_70.cif
+  xtal_21.cif
+  xtal_29.cif
+
+===== SG 164 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=164)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_3.cif
+  xtal_99.cif
+  xtal_93.cif
+  xtal_57.cif
+  xtal_69.cif
+  xtal_44.cif
+  xtal_1.cif
+  xtal_92.cif
+  xtal_79.cif
+  xtal_64.cif
+  xtal_70.cif
+  xtal_53.cif
+  xtal_27.cif
+  xtal_9.cif
+  xtal_37.cif
+  xtal_43.cif
+  xtal_34.cif
+  xtal_14.cif
+  xtal_67.cif
+  xtal_19.cif
+  xtal_24.cif
+  xtal_54.cif
+  xtal_38.cif
+  xtal_87.cif
+  xtal_22.cif
+  xtal_32.cif
+  xtal_17.cif
+  xtal_86.cif
+  xtal_36.cif
+  xtal_16.cif
+  xtal_56.cif
+  xtal_83.cif
+  xtal_89.cif
+  xtal_65.cif
+  xtal_76.cif
+  xtal_25.cif
+  xtal_13.cif
+  xtal_68.cif
+  xtal_48.cif
+  xtal_18.cif
+  xtal_84.cif
+  xtal_63.cif
+  xtal_88.cif
+  xtal_50.cif
+  xtal_49.cif
+  xtal_73.cif
+  xtal_31.cif
+  xtal_95.cif
+  xtal_98.cif
+
+===== SG 165 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=165)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_18.cif
+  xtal_36.cif
+  xtal_35.cif
+  xtal_98.cif
+  xtal_26.cif
+  xtal_40.cif
+  xtal_79.cif
+  xtal_38.cif
+  xtal_5.cif
+  xtal_62.cif
+  xtal_57.cif
+  xtal_91.cif
+  xtal_74.cif
+  xtal_51.cif
+  xtal_45.cif
+  xtal_23.cif
+  xtal_83.cif
+  xtal_30.cif
+  xtal_12.cif
+  xtal_54.cif
+  xtal_49.cif
+  xtal_80.cif
+  xtal_21.cif
+  xtal_61.cif
+  xtal_6.cif
+  xtal_27.cif
+  xtal_37.cif
+  xtal_33.cif
+  xtal_92.cif
+  xtal_85.cif
+  xtal_43.cif
+  xtal_50.cif
+  xtal_46.cif
+  xtal_13.cif
+  xtal_31.cif
+  xtal_82.cif
+  xtal_64.cif
+  xtal_77.cif
+  xtal_15.cif
+  xtal_99.cif
+  xtal_96.cif
+  xtal_63.cif
+  xtal_48.cif
+  xtal_52.cif
+  xtal_95.cif
+  xtal_20.cif
+  xtal_10.cif
+  xtal_72.cif
+  xtal_60.cif
+  xtal_2.cif
+
+===== SG 168 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=168)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_75.cif
+  xtal_54.cif
+  xtal_41.cif
+  xtal_28.cif
+  xtal_88.cif
+  xtal_10.cif
+  xtal_26.cif
+  xtal_100.cif
+  xtal_95.cif
+  xtal_64.cif
+  xtal_82.cif
+  xtal_87.cif
+  xtal_71.cif
+  xtal_8.cif
+  xtal_12.cif
+  xtal_29.cif
+  xtal_84.cif
+  xtal_63.cif
+  xtal_2.cif
+  xtal_72.cif
+  xtal_31.cif
+  xtal_22.cif
+  xtal_7.cif
+  xtal_21.cif
+  xtal_4.cif
+  xtal_42.cif
+  xtal_90.cif
+  xtal_38.cif
+  xtal_58.cif
+  xtal_25.cif
+  xtal_17.cif
+  xtal_80.cif
+  xtal_57.cif
+  xtal_23.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_49.cif
+  xtal_34.cif
+  xtal_5.cif
+  xtal_70.cif
+  xtal_46.cif
+  xtal_69.cif
+  xtal_6.cif
+  xtal_51.cif
+  xtal_65.cif
+  xtal_52.cif
+  xtal_3.cif
+  xtal_99.cif
+  xtal_33.cif
+
+===== SG 173 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=173)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_42.cif
+  xtal_3.cif
+  xtal_93.cif
+  xtal_55.cif
+  xtal_54.cif
+  xtal_99.cif
+  xtal_9.cif
+  xtal_67.cif
+  xtal_45.cif
+  xtal_56.cif
+  xtal_13.cif
+  xtal_60.cif
+  xtal_84.cif
+  xtal_83.cif
+  xtal_35.cif
+  xtal_43.cif
+  xtal_72.cif
+  xtal_11.cif
+  xtal_69.cif
+  xtal_87.cif
+  xtal_78.cif
+  xtal_63.cif
+  xtal_26.cif
+  xtal_16.cif
+  xtal_52.cif
+  xtal_49.cif
+  xtal_19.cif
+  xtal_86.cif
+  xtal_36.cif
+  xtal_28.cif
+  xtal_57.cif
+  xtal_80.cif
+  xtal_79.cif
+  xtal_82.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_31.cif
+  xtal_62.cif
+  xtal_91.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_53.cif
+  xtal_71.cif
+  xtal_33.cif
+  xtal_65.cif
+  xtal_8.cif
+  xtal_27.cif
+  xtal_14.cif
+  xtal_58.cif
+
+===== SG 174 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=174)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_37.cif
+  xtal_29.cif
+  xtal_20.cif
+  xtal_90.cif
+  xtal_24.cif
+  xtal_87.cif
+  xtal_44.cif
+  xtal_77.cif
+  xtal_99.cif
+  xtal_27.cif
+  xtal_60.cif
+  xtal_68.cif
+  xtal_6.cif
+  xtal_97.cif
+  xtal_19.cif
+  xtal_12.cif
+  xtal_38.cif
+  xtal_57.cif
+  xtal_28.cif
+  xtal_41.cif
+  xtal_96.cif
+  xtal_15.cif
+  xtal_76.cif
+  xtal_45.cif
+  xtal_8.cif
+  xtal_49.cif
+  xtal_66.cif
+  xtal_21.cif
+  xtal_7.cif
+  xtal_23.cif
+  xtal_53.cif
+  xtal_34.cif
+  xtal_22.cif
+  xtal_42.cif
+  xtal_63.cif
+  xtal_80.cif
+  xtal_88.cif
+  xtal_1.cif
+  xtal_35.cif
+  xtal_100.cif
+  xtal_32.cif
+  xtal_92.cif
+  xtal_65.cif
+  xtal_56.cif
+  xtal_5.cif
+  xtal_46.cif
+  xtal_55.cif
+  xtal_14.cif
+  xtal_71.cif
+
+===== SG 175 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=175)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_9.cif
+  xtal_43.cif
+  xtal_37.cif
+  xtal_68.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_55.cif
+  xtal_16.cif
+  xtal_67.cif
+  xtal_3.cif
+  xtal_69.cif
+  xtal_10.cif
+  xtal_18.cif
+  xtal_25.cif
+  xtal_12.cif
+  xtal_62.cif
+  xtal_41.cif
+  xtal_60.cif
+  xtal_15.cif
+  xtal_33.cif
+  xtal_87.cif
+  xtal_81.cif
+  xtal_24.cif
+  xtal_11.cif
+  xtal_47.cif
+  xtal_63.cif
+  xtal_49.cif
+  xtal_66.cif
+  xtal_30.cif
+  xtal_91.cif
+  xtal_42.cif
+  xtal_31.cif
+  xtal_82.cif
+  xtal_17.cif
+  xtal_52.cif
+  xtal_35.cif
+  xtal_89.cif
+  xtal_2.cif
+  xtal_40.cif
+  xtal_90.cif
+  xtal_93.cif
+  xtal_58.cif
+  xtal_39.cif
+  xtal_53.cif
+  xtal_83.cif
+  xtal_61.cif
+  xtal_28.cif
+  xtal_97.cif
+  xtal_78.cif
+  xtal_51.cif
+
+===== SG 176 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=176)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_56.cif
+  xtal_40.cif
+  xtal_65.cif
+  xtal_77.cif
+  xtal_17.cif
+  xtal_7.cif
+  xtal_20.cif
+  xtal_13.cif
+  xtal_42.cif
+  xtal_19.cif
+  xtal_35.cif
+  xtal_70.cif
+  xtal_46.cif
+  xtal_79.cif
+  xtal_75.cif
+  xtal_57.cif
+  xtal_72.cif
+  xtal_5.cif
+  xtal_31.cif
+  xtal_96.cif
+  xtal_6.cif
+  xtal_30.cif
+  xtal_69.cif
+  xtal_36.cif
+  xtal_43.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_67.cif
+  xtal_32.cif
+  xtal_41.cif
+  xtal_34.cif
+  xtal_45.cif
+  xtal_27.cif
+  xtal_84.cif
+  xtal_66.cif
+  xtal_74.cif
+  xtal_68.cif
+  xtal_100.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_48.cif
+  xtal_50.cif
+  xtal_33.cif
+  xtal_14.cif
+  xtal_83.cif
+  xtal_10.cif
+  xtal_4.cif
+  xtal_16.cif
+  xtal_81.cif
+  xtal_78.cif
+
+===== SG 177 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=177)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_82.cif
+  xtal_71.cif
+  xtal_97.cif
+  xtal_77.cif
+  xtal_5.cif
+  xtal_93.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_80.cif
+  xtal_55.cif
+  xtal_33.cif
+  xtal_53.cif
+  xtal_36.cif
+  xtal_78.cif
+  xtal_59.cif
+  xtal_73.cif
+  xtal_18.cif
+  xtal_62.cif
+  xtal_30.cif
+  xtal_4.cif
+  xtal_23.cif
+  xtal_85.cif
+  xtal_76.cif
+  xtal_88.cif
+  xtal_24.cif
+  xtal_79.cif
+  xtal_86.cif
+  xtal_96.cif
+  xtal_29.cif
+  xtal_48.cif
+  xtal_32.cif
+  xtal_61.cif
+  xtal_83.cif
+  xtal_41.cif
+  xtal_66.cif
+  xtal_65.cif
+  xtal_3.cif
+  xtal_51.cif
+  xtal_15.cif
+  xtal_34.cif
+  xtal_91.cif
+  xtal_35.cif
+  xtal_68.cif
+  xtal_67.cif
+  xtal_56.cif
+  xtal_25.cif
+  xtal_45.cif
+  xtal_50.cif
+  xtal_98.cif
+
+===== SG 182 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=182)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_38.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_42.cif
+  xtal_21.cif
+  xtal_1.cif
+  xtal_32.cif
+  xtal_9.cif
+  xtal_76.cif
+  xtal_40.cif
+  xtal_57.cif
+  xtal_78.cif
+  xtal_51.cif
+  xtal_65.cif
+  xtal_62.cif
+  xtal_59.cif
+  xtal_83.cif
+  xtal_27.cif
+  xtal_25.cif
+  xtal_80.cif
+  xtal_75.cif
+  xtal_54.cif
+  xtal_49.cif
+  xtal_100.cif
+  xtal_56.cif
+  xtal_43.cif
+  xtal_33.cif
+  xtal_55.cif
+  xtal_81.cif
+  xtal_30.cif
+  xtal_2.cif
+  xtal_46.cif
+  xtal_58.cif
+  xtal_72.cif
+  xtal_91.cif
+  xtal_87.cif
+  xtal_50.cif
+  xtal_85.cif
+  xtal_4.cif
+  xtal_86.cif
+  xtal_98.cif
+  xtal_88.cif
+  xtal_31.cif
+  xtal_52.cif
+  xtal_90.cif
+  xtal_69.cif
+  xtal_5.cif
+  xtal_18.cif
+  xtal_71.cif
+  xtal_95.cif
+
+===== SG 183 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=183)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_33.cif
+  xtal_60.cif
+  xtal_98.cif
+  xtal_83.cif
+  xtal_73.cif
+  xtal_12.cif
+  xtal_64.cif
+  xtal_46.cif
+  xtal_81.cif
+  xtal_59.cif
+  xtal_30.cif
+  xtal_70.cif
+  xtal_62.cif
+  xtal_43.cif
+  xtal_27.cif
+  xtal_100.cif
+  xtal_39.cif
+  xtal_2.cif
+  xtal_5.cif
+  xtal_86.cif
+  xtal_68.cif
+  xtal_72.cif
+  xtal_3.cif
+  xtal_1.cif
+  xtal_85.cif
+  xtal_10.cif
+  xtal_4.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_29.cif
+  xtal_14.cif
+  xtal_6.cif
+  xtal_54.cif
+  xtal_17.cif
+  xtal_65.cif
+  xtal_15.cif
+  xtal_13.cif
+  xtal_49.cif
+  xtal_93.cif
+  xtal_75.cif
+  xtal_53.cif
+  xtal_19.cif
+  xtal_57.cif
+  xtal_36.cif
+  xtal_31.cif
+  xtal_97.cif
+  xtal_78.cif
+  xtal_74.cif
+  xtal_88.cif
+  xtal_9.cif
+
+===== SG 184 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=184)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_44.cif
+  xtal_55.cif
+  xtal_4.cif
+  xtal_77.cif
+  xtal_76.cif
+  xtal_11.cif
+  xtal_85.cif
+  xtal_20.cif
+  xtal_31.cif
+  xtal_42.cif
+  xtal_29.cif
+  xtal_92.cif
+  xtal_21.cif
+  xtal_71.cif
+  xtal_2.cif
+  xtal_5.cif
+  xtal_8.cif
+  xtal_9.cif
+  xtal_24.cif
+  xtal_61.cif
+  xtal_27.cif
+  xtal_58.cif
+  xtal_13.cif
+  xtal_51.cif
+  xtal_50.cif
+  xtal_63.cif
+  xtal_41.cif
+  xtal_74.cif
+  xtal_17.cif
+  xtal_25.cif
+  xtal_75.cif
+  xtal_10.cif
+  xtal_16.cif
+  xtal_60.cif
+  xtal_45.cif
+  xtal_1.cif
+  xtal_81.cif
+  xtal_49.cif
+  xtal_99.cif
+  xtal_33.cif
+  xtal_68.cif
+  xtal_86.cif
+  xtal_66.cif
+  xtal_40.cif
+  xtal_14.cif
+  xtal_37.cif
+  xtal_7.cif
+  xtal_12.cif
+  xtal_79.cif
+
+===== SG 185 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=185)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_42.cif
+  xtal_95.cif
+  xtal_35.cif
+  xtal_24.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_13.cif
+  xtal_83.cif
+  xtal_33.cif
+  xtal_93.cif
+  xtal_22.cif
+  xtal_91.cif
+  xtal_37.cif
+  xtal_57.cif
+  xtal_20.cif
+  xtal_10.cif
+  xtal_17.cif
+  xtal_4.cif
+  xtal_44.cif
+  xtal_6.cif
+  xtal_58.cif
+  xtal_68.cif
+  xtal_30.cif
+  xtal_9.cif
+  xtal_94.cif
+  xtal_19.cif
+  xtal_31.cif
+  xtal_96.cif
+  xtal_16.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_51.cif
+  xtal_29.cif
+  xtal_65.cif
+  xtal_3.cif
+  xtal_59.cif
+  xtal_97.cif
+  xtal_89.cif
+  xtal_28.cif
+  xtal_67.cif
+  xtal_76.cif
+  xtal_21.cif
+  xtal_25.cif
+  xtal_32.cif
+  xtal_84.cif
+  xtal_34.cif
+  xtal_46.cif
+  xtal_73.cif
+  xtal_66.cif
+  xtal_90.cif
+
+===== SG 186 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=186)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_23.cif
+  xtal_42.cif
+  xtal_49.cif
+  xtal_69.cif
+  xtal_40.cif
+  xtal_100.cif
+  xtal_34.cif
+  xtal_62.cif
+  xtal_91.cif
+  xtal_41.cif
+  xtal_80.cif
+  xtal_43.cif
+  xtal_37.cif
+  xtal_58.cif
+  xtal_65.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_35.cif
+  xtal_18.cif
+  xtal_74.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_76.cif
+  xtal_57.cif
+  xtal_26.cif
+  xtal_14.cif
+  xtal_31.cif
+  xtal_39.cif
+  xtal_53.cif
+  xtal_75.cif
+  xtal_4.cif
+  xtal_47.cif
+  xtal_95.cif
+  xtal_67.cif
+  xtal_32.cif
+  xtal_38.cif
+  xtal_68.cif
+  xtal_24.cif
+  xtal_77.cif
+  xtal_16.cif
+  xtal_36.cif
+  xtal_7.cif
+  xtal_22.cif
+  xtal_20.cif
+  xtal_97.cif
+  xtal_17.cif
+  xtal_12.cif
+  xtal_52.cif
+  xtal_3.cif
+
+===== SG 187 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=187)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_51.cif
+  xtal_4.cif
+  xtal_19.cif
+  xtal_83.cif
+  xtal_63.cif
+  xtal_7.cif
+  xtal_23.cif
+  xtal_95.cif
+  xtal_87.cif
+  xtal_17.cif
+  xtal_38.cif
+  xtal_62.cif
+  xtal_57.cif
+  xtal_72.cif
+  xtal_28.cif
+  xtal_43.cif
+  xtal_33.cif
+  xtal_78.cif
+  xtal_92.cif
+  xtal_14.cif
+  xtal_3.cif
+  xtal_52.cif
+  xtal_37.cif
+  xtal_75.cif
+  xtal_44.cif
+  xtal_61.cif
+  xtal_18.cif
+  xtal_82.cif
+  xtal_69.cif
+  xtal_71.cif
+  xtal_86.cif
+  xtal_36.cif
+  xtal_88.cif
+  xtal_60.cif
+  xtal_1.cif
+  xtal_54.cif
+  xtal_30.cif
+  xtal_27.cif
+  xtal_10.cif
+  xtal_39.cif
+  xtal_13.cif
+  xtal_11.cif
+  xtal_96.cif
+  xtal_50.cif
+  xtal_16.cif
+  xtal_22.cif
+  xtal_32.cif
+  xtal_9.cif
+  xtal_47.cif
+
+===== SG 188 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=188)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_63.cif
+  xtal_32.cif
+  xtal_30.cif
+  xtal_2.cif
+  xtal_16.cif
+  xtal_1.cif
+  xtal_96.cif
+  xtal_35.cif
+  xtal_79.cif
+  xtal_15.cif
+  xtal_49.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_27.cif
+  xtal_20.cif
+  xtal_6.cif
+  xtal_65.cif
+  xtal_17.cif
+  xtal_44.cif
+  xtal_57.cif
+  xtal_26.cif
+  xtal_41.cif
+  xtal_50.cif
+  xtal_13.cif
+  xtal_21.cif
+  xtal_94.cif
+  xtal_40.cif
+  xtal_62.cif
+  xtal_82.cif
+  xtal_36.cif
+  xtal_72.cif
+  xtal_66.cif
+  xtal_29.cif
+  xtal_10.cif
+  xtal_76.cif
+  xtal_43.cif
+  xtal_47.cif
+  xtal_3.cif
+  xtal_37.cif
+  xtal_81.cif
+  xtal_59.cif
+  xtal_46.cif
+  xtal_77.cif
+  xtal_64.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_53.cif
+  xtal_100.cif
+  xtal_92.cif
+  xtal_75.cif
+
+===== SG 189 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=189)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_14.cif
+  xtal_32.cif
+  xtal_48.cif
+  xtal_72.cif
+  xtal_57.cif
+  xtal_8.cif
+  xtal_19.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_78.cif
+  xtal_50.cif
+  xtal_60.cif
+  xtal_77.cif
+  xtal_4.cif
+  xtal_71.cif
+  xtal_80.cif
+  xtal_79.cif
+  xtal_97.cif
+  xtal_40.cif
+  xtal_12.cif
+  xtal_6.cif
+  xtal_47.cif
+  xtal_100.cif
+  xtal_15.cif
+  xtal_66.cif
+  xtal_28.cif
+  xtal_74.cif
+  xtal_58.cif
+  xtal_69.cif
+  xtal_1.cif
+  xtal_21.cif
+  xtal_90.cif
+  xtal_53.cif
+  xtal_76.cif
+  xtal_99.cif
+  xtal_24.cif
+  xtal_13.cif
+  xtal_64.cif
+  xtal_23.cif
+  xtal_30.cif
+  xtal_9.cif
+  xtal_3.cif
+  xtal_11.cif
+  xtal_49.cif
+  xtal_62.cif
+  xtal_85.cif
+  xtal_26.cif
+  xtal_82.cif
+  xtal_22.cif
+  xtal_86.cif
+
+===== SG 190 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=190)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_70.cif
+  xtal_33.cif
+  xtal_2.cif
+  xtal_25.cif
+  xtal_85.cif
+  xtal_77.cif
+  xtal_27.cif
+  xtal_95.cif
+  xtal_39.cif
+  xtal_14.cif
+  xtal_13.cif
+  xtal_59.cif
+  xtal_56.cif
+  xtal_93.cif
+  xtal_5.cif
+  xtal_75.cif
+  xtal_31.cif
+  xtal_37.cif
+  xtal_28.cif
+  xtal_15.cif
+  xtal_51.cif
+  xtal_55.cif
+  xtal_29.cif
+  xtal_50.cif
+  xtal_7.cif
+  xtal_60.cif
+  xtal_11.cif
+  xtal_94.cif
+  xtal_57.cif
+  xtal_52.cif
+  xtal_63.cif
+  xtal_47.cif
+  xtal_21.cif
+  xtal_71.cif
+  xtal_10.cif
+  xtal_40.cif
+  xtal_38.cif
+  xtal_91.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_76.cif
+  xtal_100.cif
+  xtal_87.cif
+  xtal_8.cif
+  xtal_41.cif
+  xtal_82.cif
+  xtal_1.cif
+  xtal_53.cif
+  xtal_68.cif
+
+===== SG 191 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=191)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_32.cif
+  xtal_68.cif
+  xtal_33.cif
+  xtal_3.cif
+  xtal_35.cif
+  xtal_25.cif
+  xtal_6.cif
+  xtal_17.cif
+  xtal_12.cif
+  xtal_51.cif
+  xtal_50.cif
+  xtal_53.cif
+  xtal_34.cif
+  xtal_70.cif
+  xtal_74.cif
+  xtal_69.cif
+  xtal_54.cif
+  xtal_14.cif
+  xtal_5.cif
+  xtal_46.cif
+  xtal_55.cif
+  xtal_67.cif
+  xtal_58.cif
+  xtal_4.cif
+  xtal_19.cif
+  xtal_75.cif
+  xtal_85.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_38.cif
+  xtal_64.cif
+  xtal_37.cif
+  xtal_97.cif
+  xtal_30.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_22.cif
+  xtal_66.cif
+  xtal_84.cif
+  xtal_92.cif
+  xtal_52.cif
+  xtal_23.cif
+  xtal_13.cif
+  xtal_57.cif
+  xtal_10.cif
+  xtal_89.cif
+  xtal_59.cif
+  xtal_21.cif
+  xtal_88.cif
+
+===== SG 192 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=192)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_96.cif
+  xtal_2.cif
+  xtal_32.cif
+  xtal_43.cif
+  xtal_22.cif
+  xtal_31.cif
+  xtal_89.cif
+  xtal_100.cif
+  xtal_24.cif
+  xtal_36.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_65.cif
+  xtal_75.cif
+  xtal_52.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_81.cif
+  xtal_77.cif
+  xtal_51.cif
+  xtal_55.cif
+  xtal_25.cif
+  xtal_23.cif
+  xtal_3.cif
+  xtal_29.cif
+  xtal_53.cif
+  xtal_21.cif
+  xtal_39.cif
+  xtal_10.cif
+  xtal_35.cif
+  xtal_82.cif
+  xtal_5.cif
+  xtal_73.cif
+  xtal_69.cif
+  xtal_44.cif
+  xtal_62.cif
+  xtal_8.cif
+  xtal_87.cif
+  xtal_93.cif
+  xtal_19.cif
+  xtal_18.cif
+  xtal_84.cif
+  xtal_20.cif
+  xtal_47.cif
+  xtal_6.cif
+  xtal_14.cif
+  xtal_46.cif
+  xtal_74.cif
+  xtal_11.cif
+  xtal_79.cif
+
+===== SG 193 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=193)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_74.cif
+  xtal_56.cif
+  xtal_42.cif
+  xtal_90.cif
+  xtal_21.cif
+  xtal_86.cif
+  xtal_73.cif
+  xtal_22.cif
+  xtal_93.cif
+  xtal_85.cif
+  xtal_11.cif
+  xtal_50.cif
+  xtal_89.cif
+  xtal_88.cif
+  xtal_94.cif
+  xtal_49.cif
+  xtal_99.cif
+  xtal_66.cif
+  xtal_97.cif
+  xtal_61.cif
+  xtal_81.cif
+  xtal_45.cif
+  xtal_57.cif
+  xtal_23.cif
+  xtal_82.cif
+  xtal_20.cif
+  xtal_26.cif
+  xtal_12.cif
+  xtal_28.cif
+  xtal_37.cif
+  xtal_48.cif
+  xtal_35.cif
+  xtal_51.cif
+  xtal_75.cif
+  xtal_55.cif
+  xtal_1.cif
+  xtal_64.cif
+  xtal_36.cif
+  xtal_30.cif
+  xtal_69.cif
+  xtal_9.cif
+  xtal_62.cif
+  xtal_34.cif
+  xtal_79.cif
+  xtal_100.cif
+  xtal_25.cif
+  xtal_40.cif
+  xtal_6.cif
+  xtal_4.cif
+  xtal_3.cif
+
+===== SG 194 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=194)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_48.cif
+  xtal_12.cif
+  xtal_93.cif
+  xtal_21.cif
+  xtal_58.cif
+  xtal_36.cif
+  xtal_11.cif
+  xtal_2.cif
+  xtal_87.cif
+  xtal_4.cif
+  xtal_94.cif
+  xtal_39.cif
+  xtal_96.cif
+  xtal_80.cif
+  xtal_43.cif
+  xtal_91.cif
+  xtal_13.cif
+  xtal_34.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_30.cif
+  xtal_66.cif
+  xtal_15.cif
+  xtal_63.cif
+  xtal_100.cif
+  xtal_49.cif
+  xtal_51.cif
+  xtal_41.cif
+  xtal_10.cif
+  xtal_50.cif
+  xtal_84.cif
+  xtal_88.cif
+  xtal_70.cif
+  xtal_17.cif
+  xtal_5.cif
+  xtal_64.cif
+  xtal_60.cif
+  xtal_9.cif
+  xtal_27.cif
+  xtal_6.cif
+  xtal_1.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_65.cif
+  xtal_40.cif
+  xtal_81.cif
+  xtal_38.cif
+  xtal_28.cif
+  xtal_57.cif
+  xtal_19.cif
+
+===== SG 195 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=195)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_60.cif
+  xtal_34.cif
+  xtal_86.cif
+  xtal_85.cif
+  xtal_22.cif
+  xtal_67.cif
+  xtal_38.cif
+  xtal_41.cif
+  xtal_13.cif
+  xtal_12.cif
+  xtal_51.cif
+  xtal_97.cif
+  xtal_21.cif
+  xtal_78.cif
+  xtal_40.cif
+  xtal_84.cif
+  xtal_68.cif
+  xtal_14.cif
+  xtal_46.cif
+  xtal_2.cif
+  xtal_98.cif
+  xtal_56.cif
+  xtal_47.cif
+  xtal_10.cif
+  xtal_6.cif
+  xtal_55.cif
+  xtal_31.cif
+  xtal_79.cif
+  xtal_83.cif
+  xtal_25.cif
+  xtal_24.cif
+  xtal_94.cif
+  xtal_27.cif
+  xtal_64.cif
+  xtal_75.cif
+  xtal_35.cif
+  xtal_20.cif
+  xtal_23.cif
+  xtal_4.cif
+  xtal_58.cif
+  xtal_57.cif
+  xtal_18.cif
+  xtal_88.cif
+  xtal_16.cif
+  xtal_44.cif
+  xtal_91.cif
+  xtal_66.cif
+  xtal_99.cif
+  xtal_77.cif
+  xtal_8.cif
+
+===== SG 197 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=197)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_3.cif
+  xtal_69.cif
+  xtal_5.cif
+  xtal_92.cif
+  xtal_75.cif
+  xtal_91.cif
+  xtal_67.cif
+  xtal_56.cif
+  xtal_86.cif
+  xtal_93.cif
+  xtal_29.cif
+  xtal_65.cif
+  xtal_70.cif
+  xtal_10.cif
+  xtal_25.cif
+  xtal_100.cif
+  xtal_48.cif
+  xtal_94.cif
+  xtal_57.cif
+  xtal_13.cif
+  xtal_71.cif
+  xtal_97.cif
+  xtal_24.cif
+  xtal_64.cif
+  xtal_60.cif
+  xtal_40.cif
+  xtal_79.cif
+  xtal_45.cif
+  xtal_90.cif
+  xtal_52.cif
+  xtal_1.cif
+  xtal_42.cif
+  xtal_53.cif
+  xtal_80.cif
+  xtal_99.cif
+  xtal_19.cif
+  xtal_85.cif
+  xtal_49.cif
+  xtal_7.cif
+  xtal_9.cif
+  xtal_41.cif
+  xtal_63.cif
+  xtal_6.cif
+  xtal_81.cif
+  xtal_73.cif
+  xtal_95.cif
+  xtal_43.cif
+  xtal_15.cif
+  xtal_20.cif
+  xtal_84.cif
+
+===== SG 200 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=200)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_72.cif
+  xtal_39.cif
+  xtal_28.cif
+  xtal_83.cif
+  xtal_30.cif
+  xtal_82.cif
+  xtal_62.cif
+  xtal_53.cif
+  xtal_49.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_86.cif
+  xtal_63.cif
+  xtal_76.cif
+  xtal_26.cif
+  xtal_4.cif
+  xtal_35.cif
+  xtal_27.cif
+  xtal_80.cif
+  xtal_85.cif
+  xtal_14.cif
+  xtal_37.cif
+  xtal_70.cif
+  xtal_96.cif
+  xtal_95.cif
+  xtal_88.cif
+  xtal_42.cif
+  xtal_77.cif
+  xtal_22.cif
+  xtal_67.cif
+  xtal_24.cif
+  xtal_54.cif
+  xtal_20.cif
+  xtal_19.cif
+  xtal_29.cif
+  xtal_41.cif
+  xtal_99.cif
+  xtal_23.cif
+  xtal_47.cif
+  xtal_100.cif
+  xtal_79.cif
+  xtal_56.cif
+  xtal_32.cif
+  xtal_40.cif
+  xtal_55.cif
+  xtal_3.cif
+  xtal_15.cif
+  xtal_81.cif
+  xtal_44.cif
+
+===== SG 201 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=201)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_94.cif
+  xtal_11.cif
+  xtal_66.cif
+  xtal_59.cif
+  xtal_7.cif
+  xtal_40.cif
+  xtal_70.cif
+  xtal_35.cif
+  xtal_24.cif
+  xtal_18.cif
+  xtal_62.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_19.cif
+  xtal_77.cif
+  xtal_82.cif
+  xtal_13.cif
+  xtal_86.cif
+  xtal_14.cif
+  xtal_29.cif
+  xtal_61.cif
+  xtal_81.cif
+  xtal_98.cif
+  xtal_44.cif
+  xtal_43.cif
+  xtal_63.cif
+  xtal_55.cif
+  xtal_84.cif
+  xtal_22.cif
+  xtal_27.cif
+  xtal_45.cif
+  xtal_32.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_20.cif
+  xtal_100.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_1.cif
+  xtal_69.cif
+  xtal_68.cif
+  xtal_15.cif
+  xtal_54.cif
+  xtal_93.cif
+  xtal_42.cif
+  xtal_2.cif
+  xtal_74.cif
+  xtal_38.cif
+
+===== SG 204 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=204)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_54.cif
+  xtal_16.cif
+  xtal_72.cif
+  xtal_71.cif
+  xtal_32.cif
+  xtal_49.cif
+  xtal_17.cif
+  xtal_83.cif
+  xtal_13.cif
+  xtal_2.cif
+  xtal_99.cif
+  xtal_84.cif
+  xtal_30.cif
+  xtal_70.cif
+  xtal_8.cif
+  xtal_89.cif
+  xtal_33.cif
+  xtal_9.cif
+  xtal_19.cif
+  xtal_1.cif
+  xtal_46.cif
+  xtal_12.cif
+  xtal_37.cif
+  xtal_88.cif
+  xtal_53.cif
+  xtal_14.cif
+  xtal_93.cif
+  xtal_34.cif
+  xtal_74.cif
+  xtal_25.cif
+  xtal_47.cif
+  xtal_57.cif
+  xtal_91.cif
+  xtal_24.cif
+  xtal_78.cif
+  xtal_65.cif
+  xtal_35.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_90.cif
+  xtal_66.cif
+  xtal_18.cif
+  xtal_58.cif
+  xtal_64.cif
+  xtal_96.cif
+  xtal_56.cif
+  xtal_6.cif
+  xtal_69.cif
+  xtal_98.cif
+  xtal_3.cif
+
+===== SG 207 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=207)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_63.cif
+  xtal_15.cif
+  xtal_86.cif
+  xtal_33.cif
+  xtal_76.cif
+  xtal_61.cif
+  xtal_93.cif
+  xtal_14.cif
+  xtal_13.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_96.cif
+  xtal_43.cif
+  xtal_7.cif
+  xtal_30.cif
+  xtal_45.cif
+  xtal_44.cif
+  xtal_53.cif
+  xtal_60.cif
+  xtal_10.cif
+  xtal_36.cif
+  xtal_32.cif
+  xtal_16.cif
+  xtal_6.cif
+  xtal_94.cif
+  xtal_59.cif
+  xtal_89.cif
+  xtal_2.cif
+  xtal_71.cif
+  xtal_62.cif
+  xtal_99.cif
+  xtal_5.cif
+  xtal_18.cif
+  xtal_27.cif
+  xtal_83.cif
+  xtal_46.cif
+  xtal_37.cif
+  xtal_66.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_24.cif
+  xtal_88.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_58.cif
+  xtal_98.cif
+  xtal_52.cif
+  xtal_23.cif
+  xtal_84.cif
+
+===== SG 208 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=208)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_85.cif
+  xtal_9.cif
+  xtal_81.cif
+  xtal_71.cif
+  xtal_31.cif
+  xtal_95.cif
+  xtal_30.cif
+  xtal_46.cif
+  xtal_10.cif
+  xtal_41.cif
+  xtal_94.cif
+  xtal_92.cif
+  xtal_29.cif
+  xtal_44.cif
+  xtal_63.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_70.cif
+  xtal_82.cif
+  xtal_12.cif
+  xtal_28.cif
+  xtal_53.cif
+  xtal_79.cif
+  xtal_67.cif
+  xtal_98.cif
+  xtal_62.cif
+  xtal_90.cif
+  xtal_83.cif
+  xtal_19.cif
+  xtal_49.cif
+  xtal_48.cif
+  xtal_66.cif
+  xtal_1.cif
+  xtal_5.cif
+  xtal_38.cif
+  xtal_51.cif
+  xtal_72.cif
+  xtal_20.cif
+  xtal_87.cif
+  xtal_65.cif
+  xtal_13.cif
+  xtal_7.cif
+  xtal_37.cif
+  xtal_17.cif
+  xtal_91.cif
+  xtal_89.cif
+  xtal_99.cif
+  xtal_35.cif
+  xtal_76.cif
+
+===== SG 211 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=211)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_94.cif
+  xtal_20.cif
+  xtal_88.cif
+  xtal_83.cif
+  xtal_38.cif
+  xtal_63.cif
+  xtal_11.cif
+  xtal_27.cif
+  xtal_21.cif
+  xtal_84.cif
+  xtal_33.cif
+  xtal_26.cif
+  xtal_35.cif
+  xtal_48.cif
+  xtal_99.cif
+  xtal_80.cif
+  xtal_12.cif
+  xtal_47.cif
+  xtal_23.cif
+  xtal_59.cif
+  xtal_100.cif
+  xtal_77.cif
+  xtal_81.cif
+  xtal_96.cif
+  xtal_58.cif
+  xtal_51.cif
+  xtal_1.cif
+  xtal_45.cif
+  xtal_98.cif
+  xtal_14.cif
+  xtal_61.cif
+  xtal_4.cif
+  xtal_74.cif
+  xtal_89.cif
+  xtal_7.cif
+  xtal_52.cif
+  xtal_95.cif
+  xtal_49.cif
+  xtal_40.cif
+  xtal_34.cif
+  xtal_68.cif
+  xtal_10.cif
+  xtal_57.cif
+  xtal_30.cif
+  xtal_85.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_17.cif
+  xtal_24.cif
+  xtal_97.cif
+
+===== SG 215 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=215)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_19.cif
+  xtal_42.cif
+  xtal_87.cif
+  xtal_49.cif
+  xtal_77.cif
+  xtal_15.cif
+  xtal_35.cif
+  xtal_76.cif
+  xtal_53.cif
+  xtal_10.cif
+  xtal_1.cif
+  xtal_75.cif
+  xtal_88.cif
+  xtal_65.cif
+  xtal_58.cif
+  xtal_83.cif
+  xtal_96.cif
+  xtal_46.cif
+  xtal_16.cif
+  xtal_31.cif
+  xtal_37.cif
+  xtal_6.cif
+  xtal_11.cif
+  xtal_60.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_93.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_68.cif
+  xtal_99.cif
+  xtal_13.cif
+  xtal_51.cif
+  xtal_24.cif
+  xtal_84.cif
+  xtal_80.cif
+  xtal_66.cif
+  xtal_44.cif
+  xtal_4.cif
+  xtal_21.cif
+  xtal_86.cif
+  xtal_32.cif
+  xtal_90.cif
+  xtal_89.cif
+  xtal_33.cif
+  xtal_50.cif
+  xtal_12.cif
+  xtal_43.cif
+  xtal_9.cif
+
+===== SG 217 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=217)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_91.cif
+  xtal_12.cif
+  xtal_87.cif
+  xtal_70.cif
+  xtal_43.cif
+  xtal_77.cif
+  xtal_17.cif
+  xtal_89.cif
+  xtal_29.cif
+  xtal_11.cif
+  xtal_47.cif
+  xtal_2.cif
+  xtal_7.cif
+  xtal_52.cif
+  xtal_22.cif
+  xtal_61.cif
+  xtal_71.cif
+  xtal_48.cif
+  xtal_65.cif
+  xtal_18.cif
+  xtal_54.cif
+  xtal_23.cif
+  xtal_83.cif
+  xtal_19.cif
+  xtal_74.cif
+  xtal_46.cif
+  xtal_8.cif
+  xtal_28.cif
+  xtal_34.cif
+  xtal_33.cif
+  xtal_66.cif
+  xtal_51.cif
+  xtal_69.cif
+  xtal_26.cif
+  xtal_73.cif
+  xtal_78.cif
+  xtal_50.cif
+  xtal_13.cif
+  xtal_44.cif
+  xtal_63.cif
+  xtal_5.cif
+  xtal_21.cif
+  xtal_35.cif
+  xtal_100.cif
+  xtal_9.cif
+  xtal_67.cif
+  xtal_56.cif
+  xtal_14.cif
+  xtal_38.cif
+  xtal_86.cif
+
+===== SG 218 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=218)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_39.cif
+  xtal_100.cif
+  xtal_47.cif
+  xtal_22.cif
+  xtal_74.cif
+  xtal_21.cif
+  xtal_15.cif
+  xtal_34.cif
+  xtal_14.cif
+  xtal_58.cif
+  xtal_44.cif
+  xtal_72.cif
+  xtal_37.cif
+  xtal_30.cif
+  xtal_56.cif
+  xtal_69.cif
+  xtal_79.cif
+  xtal_60.cif
+  xtal_57.cif
+  xtal_89.cif
+  xtal_7.cif
+  xtal_90.cif
+  xtal_9.cif
+  xtal_11.cif
+  xtal_73.cif
+  xtal_96.cif
+  xtal_87.cif
+  xtal_20.cif
+  xtal_77.cif
+  xtal_97.cif
+  xtal_13.cif
+  xtal_94.cif
+  xtal_75.cif
+  xtal_1.cif
+  xtal_28.cif
+  xtal_84.cif
+  xtal_59.cif
+  xtal_42.cif
+  xtal_27.cif
+  xtal_8.cif
+  xtal_67.cif
+  xtal_41.cif
+  xtal_86.cif
+  xtal_33.cif
+  xtal_88.cif
+  xtal_91.cif
+  xtal_2.cif
+  xtal_26.cif
+  xtal_82.cif
+  xtal_51.cif
+
+===== SG 221 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=221)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_36.cif
+  xtal_3.cif
+  xtal_66.cif
+  xtal_44.cif
+  xtal_87.cif
+  xtal_5.cif
+  xtal_11.cif
+  xtal_47.cif
+  xtal_69.cif
+  xtal_48.cif
+  xtal_77.cif
+  xtal_4.cif
+  xtal_20.cif
+  xtal_51.cif
+  xtal_7.cif
+  xtal_67.cif
+  xtal_14.cif
+  xtal_24.cif
+  xtal_61.cif
+  xtal_10.cif
+  xtal_89.cif
+  xtal_75.cif
+  xtal_57.cif
+  xtal_63.cif
+  xtal_40.cif
+  xtal_32.cif
+  xtal_60.cif
+  xtal_13.cif
+  xtal_71.cif
+  xtal_26.cif
+  xtal_30.cif
+  xtal_55.cif
+  xtal_39.cif
+  xtal_27.cif
+  xtal_17.cif
+  xtal_6.cif
+  xtal_42.cif
+  xtal_88.cif
+  xtal_25.cif
+  xtal_84.cif
+  xtal_49.cif
+  xtal_43.cif
+  xtal_64.cif
+  xtal_82.cif
+  xtal_59.cif
+  xtal_54.cif
+  xtal_18.cif
+  xtal_93.cif
+  xtal_8.cif
+  xtal_38.cif
+
+===== SG 222 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=222)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_81.cif
+  xtal_10.cif
+  xtal_76.cif
+  xtal_74.cif
+  xtal_19.cif
+  xtal_93.cif
+  xtal_47.cif
+  xtal_73.cif
+  xtal_11.cif
+  xtal_87.cif
+  xtal_22.cif
+  xtal_8.cif
+  xtal_44.cif
+  xtal_60.cif
+  xtal_59.cif
+  xtal_89.cif
+  xtal_61.cif
+  xtal_90.cif
+  xtal_65.cif
+  xtal_25.cif
+  xtal_13.cif
+  xtal_58.cif
+  xtal_7.cif
+  xtal_29.cif
+  xtal_68.cif
+  xtal_2.cif
+  xtal_4.cif
+  xtal_6.cif
+  xtal_5.cif
+  xtal_64.cif
+  xtal_3.cif
+  xtal_49.cif
+  xtal_45.cif
+  xtal_53.cif
+  xtal_18.cif
+  xtal_14.cif
+  xtal_56.cif
+  xtal_36.cif
+  xtal_82.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_41.cif
+  xtal_62.cif
+  xtal_77.cif
+  xtal_21.cif
+  xtal_70.cif
+  xtal_37.cif
+  xtal_71.cif
+  xtal_20.cif
+  xtal_34.cif
+
+===== SG 223 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=223)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_47.cif
+  xtal_97.cif
+  xtal_37.cif
+  xtal_21.cif
+  xtal_16.cif
+  xtal_81.cif
+  xtal_85.cif
+  xtal_52.cif
+  xtal_62.cif
+  xtal_24.cif
+  xtal_79.cif
+  xtal_25.cif
+  xtal_55.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_30.cif
+  xtal_56.cif
+  xtal_61.cif
+  xtal_20.cif
+  xtal_5.cif
+  xtal_22.cif
+  xtal_1.cif
+  xtal_53.cif
+  xtal_96.cif
+  xtal_57.cif
+  xtal_31.cif
+  xtal_42.cif
+  xtal_100.cif
+  xtal_69.cif
+  xtal_83.cif
+  xtal_93.cif
+  xtal_78.cif
+  xtal_44.cif
+  xtal_39.cif
+  xtal_65.cif
+  xtal_88.cif
+  xtal_19.cif
+  xtal_23.cif
+  xtal_2.cif
+  xtal_89.cif
+  xtal_41.cif
+  xtal_10.cif
+  xtal_48.cif
+  xtal_50.cif
+  xtal_36.cif
+  xtal_90.cif
+  xtal_12.cif
+  xtal_64.cif
+  xtal_92.cif
+  xtal_49.cif
+
+===== SG 224 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=224)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_56.cif
+  xtal_37.cif
+  xtal_33.cif
+  xtal_38.cif
+  xtal_86.cif
+  xtal_95.cif
+  xtal_26.cif
+  xtal_19.cif
+  xtal_51.cif
+  xtal_48.cif
+  xtal_60.cif
+  xtal_29.cif
+  xtal_94.cif
+  xtal_81.cif
+  xtal_10.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_20.cif
+  xtal_54.cif
+  xtal_44.cif
+  xtal_84.cif
+  xtal_47.cif
+  xtal_67.cif
+  xtal_14.cif
+  xtal_2.cif
+  xtal_52.cif
+  xtal_93.cif
+  xtal_97.cif
+  xtal_75.cif
+  xtal_58.cif
+  xtal_83.cif
+  xtal_28.cif
+  xtal_80.cif
+  xtal_79.cif
+  xtal_46.cif
+  xtal_72.cif
+  xtal_40.cif
+  xtal_69.cif
+  xtal_32.cif
+  xtal_13.cif
+  xtal_57.cif
+  xtal_96.cif
+  xtal_23.cif
+  xtal_92.cif
+  xtal_91.cif
+  xtal_12.cif
+  xtal_77.cif
+  xtal_25.cif
+  xtal_4.cif
+  xtal_45.cif
+
+===== SG 229 =====
+Dimension: 3D
+Selection method: medoid
+Descriptor: simple
+Storage: SQLite (SG=229)
+Target count: 50
+Total CIF files: 100
+Selected: 50
+Removed: 50
+
+Selected files:
+  xtal_18.cif
+  xtal_15.cif
+  xtal_32.cif
+  xtal_83.cif
+  xtal_52.cif
+  xtal_100.cif
+  xtal_93.cif
+  xtal_35.cif
+  xtal_82.cif
+  xtal_90.cif
+  xtal_22.cif
+  xtal_72.cif
+  xtal_41.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_40.cif
+  xtal_91.cif
+  xtal_68.cif
+  xtal_29.cif
+  xtal_81.cif
+  xtal_25.cif
+  xtal_9.cif
+  xtal_1.cif
+  xtal_48.cif
+  xtal_71.cif
+  xtal_17.cif
+  xtal_85.cif
+  xtal_45.cif
+  xtal_86.cif
+  xtal_19.cif
+  xtal_39.cif
+  xtal_75.cif
+  xtal_84.cif
+  xtal_14.cif
+  xtal_46.cif
+  xtal_30.cif
+  xtal_13.cif
+  xtal_51.cif
+  xtal_87.cif
+  xtal_95.cif
+  xtal_47.cif
+  xtal_66.cif
+  xtal_12.cif
+  xtal_80.cif
+  xtal_7.cif
+  xtal_31.cif
+  xtal_98.cif
+  xtal_55.cif
+  xtal_20.cif
+  xtal_50.cif
+

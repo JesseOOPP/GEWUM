@@ -1,0 +1,11496 @@
+===== SG 2 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=2)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 3 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=3)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 66
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 68
+Removed: 32
+
+Selected files:
+  xtal_99.cif
+  xtal_39.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 4 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=4)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 58
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 61
+Removed: 39
+
+Selected files:
+  xtal_30.cif
+  xtal_84.cif
+  xtal_78.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_88.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_98.cif
+
+===== SG 5 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=5)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 51
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 54
+Removed: 46
+
+Selected files:
+  xtal_49.cif
+  xtal_85.cif
+  xtal_44.cif
+  xtal_10.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_23.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_99.cif
+
+===== SG 6 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=6)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 44
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 46
+Removed: 54
+
+Selected files:
+  xtal_80.cif
+  xtal_69.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 7 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=7)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 8 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=8)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 51
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 54
+Removed: 46
+
+Selected files:
+  xtal_83.cif
+  xtal_65.cif
+  xtal_27.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_67.cif
+  xtal_70.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 10 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=10)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 65
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 67
+Removed: 33
+
+Selected files:
+  xtal_14.cif
+  xtal_33.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 11 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=11)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 84
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 86
+Removed: 14
+
+Selected files:
+  xtal_40.cif
+  xtal_10.cif
+  xtal_1.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 12 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=12)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 38
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 40
+Removed: 60
+
+Selected files:
+  xtal_40.cif
+  xtal_88.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_33.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 13 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=13)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 14 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=14)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 16 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=16)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 78
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 80
+Removed: 20
+
+Selected files:
+  xtal_16.cif
+  xtal_59.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 17 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=17)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 52
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 54
+Removed: 46
+
+Selected files:
+  xtal_70.cif
+  xtal_48.cif
+  xtal_10.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_83.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_96.cif
+  xtal_99.cif
+
+===== SG 18 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=18)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 83
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 85
+Removed: 15
+
+Selected files:
+  xtal_94.cif
+  xtal_82.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 21 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=21)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 60
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 63
+Removed: 37
+
+Selected files:
+  xtal_33.cif
+  xtal_44.cif
+  xtal_72.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_14.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 23 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=23)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 69
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 71
+Removed: 29
+
+Selected files:
+  xtal_61.cif
+  xtal_48.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 25 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=25)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 46
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 48
+Removed: 52
+
+Selected files:
+  xtal_84.cif
+  xtal_22.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_77.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 26 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=26)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 56
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 58
+Removed: 42
+
+Selected files:
+  xtal_12.cif
+  xtal_75.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_77.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 27 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=27)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 14
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 16
+Removed: 84
+
+Selected files:
+  xtal_11.cif
+  xtal_93.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_16.cif
+  xtal_28.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_43.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_86.cif
+  xtal_95.cif
+
+===== SG 28 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=28)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 74
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 77
+Removed: 23
+
+Selected files:
+  xtal_4.cif
+  xtal_40.cif
+  xtal_6.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 30 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=30)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 57
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 60
+Removed: 40
+
+Selected files:
+  xtal_67.cif
+  xtal_53.cif
+  xtal_6.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 31 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=31)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 33
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 35
+Removed: 65
+
+Selected files:
+  xtal_9.cif
+  xtal_30.cif
+  xtal_1.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_64.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_85.cif
+  xtal_91.cif
+
+===== SG 32 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=32)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 33
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 36
+Removed: 64
+
+Selected files:
+  xtal_81.cif
+  xtal_14.cif
+  xtal_76.cif
+  xtal_1.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_42.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_60.cif
+  xtal_64.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_93.cif
+
+===== SG 34 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=34)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 52
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 54
+Removed: 46
+
+Selected files:
+  xtal_41.cif
+  xtal_17.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_92.cif
+
+===== SG 35 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=35)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 32
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 34
+Removed: 66
+
+Selected files:
+  xtal_70.cif
+  xtal_91.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_16.cif
+  xtal_21.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_61.cif
+  xtal_65.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_85.cif
+  xtal_90.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 38 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=38)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 45
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 47
+Removed: 53
+
+Selected files:
+  xtal_20.cif
+  xtal_45.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 44 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=44)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 28
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 30
+Removed: 70
+
+Selected files:
+  xtal_57.cif
+  xtal_16.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_52.cif
+  xtal_59.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_79.cif
+  xtal_82.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 47 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=47)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 48 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=48)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 49 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=49)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 65
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 67
+Removed: 33
+
+Selected files:
+  xtal_59.cif
+  xtal_70.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_23.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 50 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=50)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 49
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 51
+Removed: 49
+
+Selected files:
+  xtal_30.cif
+  xtal_99.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 51 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=51)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 53 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=53)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 55 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=55)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 53
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 55
+Removed: 45
+
+Selected files:
+  xtal_62.cif
+  xtal_5.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_79.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+
+===== SG 58 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=58)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 41
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 43
+Removed: 57
+
+Selected files:
+  xtal_94.cif
+  xtal_60.cif
+  xtal_1.cif
+  xtal_12.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 59 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=59)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 76
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 78
+Removed: 22
+
+Selected files:
+  xtal_76.cif
+  xtal_26.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 65 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=65)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 50
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 52
+Removed: 48
+
+Selected files:
+  xtal_14.cif
+  xtal_48.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_97.cif
+
+===== SG 71 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=71)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 78
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 80
+Removed: 20
+
+Selected files:
+  xtal_21.cif
+  xtal_28.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 75 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=75)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 62
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 64
+Removed: 36
+
+Selected files:
+  xtal_68.cif
+  xtal_27.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 77 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=77)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 15
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 17
+Removed: 83
+
+Selected files:
+  xtal_62.cif
+  xtal_55.cif
+  xtal_13.cif
+  xtal_27.cif
+  xtal_34.cif
+  xtal_37.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_58.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_88.cif
+
+===== SG 79 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=79)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 42
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 45
+Removed: 55
+
+Selected files:
+  xtal_14.cif
+  xtal_25.cif
+  xtal_42.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_22.cif
+  xtal_27.cif
+  xtal_30.cif
+  xtal_34.cif
+  xtal_38.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_80.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 81 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=81)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 82 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=82)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 44
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 46
+Removed: 54
+
+Selected files:
+  xtal_5.cif
+  xtal_30.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_85.cif
+  xtal_90.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 83 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=83)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 72
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 74
+Removed: 26
+
+Selected files:
+  xtal_30.cif
+  xtal_69.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 84 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=84)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 85 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=85)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 26
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 28
+Removed: 72
+
+Selected files:
+  xtal_59.cif
+  xtal_75.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_30.cif
+  xtal_36.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_64.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_92.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 86 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=86)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 78
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 81
+Removed: 19
+
+Selected files:
+  xtal_18.cif
+  xtal_68.cif
+  xtal_45.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 87 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=87)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 34
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 36
+Removed: 64
+
+Selected files:
+  xtal_32.cif
+  xtal_71.cif
+  xtal_10.cif
+  xtal_12.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_51.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_74.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_80.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_99.cif
+
+===== SG 89 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=89)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 66
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 68
+Removed: 32
+
+Selected files:
+  xtal_74.cif
+  xtal_42.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 90 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=90)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 62
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 64
+Removed: 36
+
+Selected files:
+  xtal_66.cif
+  xtal_68.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 93 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=93)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 60
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 62
+Removed: 38
+
+Selected files:
+  xtal_34.cif
+  xtal_40.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_57.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 94 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=94)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 97 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=97)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 86
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 88
+Removed: 12
+
+Selected files:
+  xtal_10.cif
+  xtal_75.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 99 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=99)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 66
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 68
+Removed: 32
+
+Selected files:
+  xtal_57.cif
+  xtal_85.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 100 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=100)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 39
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 43
+Removed: 57
+
+Selected files:
+  xtal_75.cif
+  xtal_80.cif
+  xtal_11.cif
+  xtal_64.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_32.cif
+  xtal_35.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 101 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=101)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 10
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 12
+Removed: 88
+
+Selected files:
+  xtal_74.cif
+  xtal_87.cif
+  xtal_13.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_5.cif
+  xtal_7.cif
+  xtal_73.cif
+  xtal_83.cif
+  xtal_93.cif
+
+===== SG 102 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=102)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 44
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 46
+Removed: 54
+
+Selected files:
+  xtal_21.cif
+  xtal_34.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_32.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_76.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 103 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=103)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 78
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 82
+Removed: 18
+
+Selected files:
+  xtal_91.cif
+  xtal_23.cif
+  xtal_63.cif
+  xtal_32.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 104 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=104)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 31
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 34
+Removed: 66
+
+Selected files:
+  xtal_21.cif
+  xtal_96.cif
+  xtal_17.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_23.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_89.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_97.cif
+
+===== SG 105 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=105)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 55
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 57
+Removed: 43
+
+Selected files:
+  xtal_50.cif
+  xtal_71.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_14.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_99.cif
+
+===== SG 107 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=107)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 32
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 35
+Removed: 65
+
+Selected files:
+  xtal_33.cif
+  xtal_2.cif
+  xtal_79.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_23.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_56.cif
+  xtal_6.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_90.cif
+  xtal_93.cif
+
+===== SG 111 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=111)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 41
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 43
+Removed: 57
+
+Selected files:
+  xtal_77.cif
+  xtal_87.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_16.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_24.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_98.cif
+
+===== SG 112 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=112)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 113 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=113)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 63
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 65
+Removed: 35
+
+Selected files:
+  xtal_90.cif
+  xtal_64.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_24.cif
+  xtal_27.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 114 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=114)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 28
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 30
+Removed: 70
+
+Selected files:
+  xtal_58.cif
+  xtal_53.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_46.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_74.cif
+  xtal_78.cif
+  xtal_80.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 115 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=115)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 34
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 36
+Removed: 64
+
+Selected files:
+  xtal_54.cif
+  xtal_8.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_79.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 116 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=116)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 64
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 66
+Removed: 34
+
+Selected files:
+  xtal_42.cif
+  xtal_59.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_27.cif
+  xtal_3.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_99.cif
+
+===== SG 117 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=117)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 77
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 80
+Removed: 20
+
+Selected files:
+  xtal_69.cif
+  xtal_57.cif
+  xtal_7.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 118 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=118)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 38
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 41
+Removed: 59
+
+Selected files:
+  xtal_72.cif
+  xtal_65.cif
+  xtal_18.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_26.cif
+  xtal_30.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 119 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=119)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 61
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 64
+Removed: 36
+
+Selected files:
+  xtal_96.cif
+  xtal_45.cif
+  xtal_89.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_97.cif
+
+===== SG 121 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=121)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 58
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 60
+Removed: 40
+
+Selected files:
+  xtal_78.cif
+  xtal_39.cif
+  xtal_1.cif
+  xtal_11.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_95.cif
+  xtal_98.cif
+
+===== SG 123 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=123)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 124 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=124)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 67
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 70
+Removed: 30
+
+Selected files:
+  xtal_38.cif
+  xtal_66.cif
+  xtal_81.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 125 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=125)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 15
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 17
+Removed: 83
+
+Selected files:
+  xtal_85.cif
+  xtal_67.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_16.cif
+  xtal_2.cif
+  xtal_22.cif
+  xtal_27.cif
+  xtal_33.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_7.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_98.cif
+
+===== SG 126 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=126)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 49
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 52
+Removed: 48
+
+Selected files:
+  xtal_69.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_85.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 127 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=127)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 55
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 57
+Removed: 43
+
+Selected files:
+  xtal_100.cif
+  xtal_32.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 128 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=128)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 13
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 15
+Removed: 85
+
+Selected files:
+  xtal_89.cif
+  xtal_48.cif
+  xtal_11.cif
+  xtal_19.cif
+  xtal_28.cif
+  xtal_35.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_56.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_84.cif
+
+===== SG 129 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=129)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 69
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 71
+Removed: 29
+
+Selected files:
+  xtal_91.cif
+  xtal_19.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 131 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=131)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 132 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=132)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 134 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=134)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 11
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 13
+Removed: 87
+
+Selected files:
+  xtal_9.cif
+  xtal_27.cif
+  xtal_19.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_51.cif
+  xtal_58.cif
+  xtal_68.cif
+  xtal_82.cif
+  xtal_87.cif
+  xtal_93.cif
+  xtal_95.cif
+
+===== SG 136 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=136)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 93
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 95
+Removed: 5
+
+Selected files:
+  xtal_29.cif
+  xtal_26.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 137 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=137)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 91
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 93
+Removed: 7
+
+Selected files:
+  xtal_21.cif
+  xtal_76.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 139 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=139)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 143 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=143)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 59
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 62
+Removed: 38
+
+Selected files:
+  xtal_50.cif
+  xtal_85.cif
+  xtal_40.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 144 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=144)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 40
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 42
+Removed: 58
+
+Selected files:
+  xtal_8.cif
+  xtal_66.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_27.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_69.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_95.cif
+
+===== SG 145 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=145)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 74
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 76
+Removed: 24
+
+Selected files:
+  xtal_74.cif
+  xtal_73.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 146 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=146)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 82
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 84
+Removed: 16
+
+Selected files:
+  xtal_80.cif
+  xtal_40.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 147 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=147)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 62
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 66
+Removed: 34
+
+Selected files:
+  xtal_32.cif
+  xtal_60.cif
+  xtal_37.cif
+  xtal_5.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 148 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=148)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 14
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 16
+Removed: 84
+
+Selected files:
+  xtal_55.cif
+  xtal_42.cif
+  xtal_10.cif
+  xtal_22.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_52.cif
+  xtal_57.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_74.cif
+  xtal_79.cif
+
+===== SG 149 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=149)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 150 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=150)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 32
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 34
+Removed: 66
+
+Selected files:
+  xtal_18.cif
+  xtal_41.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_19.cif
+  xtal_22.cif
+  xtal_27.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_39.cif
+  xtal_43.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_66.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_99.cif
+
+===== SG 151 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=151)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 74
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 76
+Removed: 24
+
+Selected files:
+  xtal_1.cif
+  xtal_96.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 152 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=152)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 70
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 73
+Removed: 27
+
+Selected files:
+  xtal_31.cif
+  xtal_18.cif
+  xtal_74.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 153 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=153)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 66
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 68
+Removed: 32
+
+Selected files:
+  xtal_82.cif
+  xtal_42.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 154 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=154)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 155 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=155)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 66
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 68
+Removed: 32
+
+Selected files:
+  xtal_42.cif
+  xtal_48.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 156 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=156)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 88
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 90
+Removed: 10
+
+Selected files:
+  xtal_15.cif
+  xtal_75.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 157 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=157)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 39
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 41
+Removed: 59
+
+Selected files:
+  xtal_5.cif
+  xtal_38.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_31.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_48.cif
+  xtal_51.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_73.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_97.cif
+
+===== SG 158 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=158)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 51
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 53
+Removed: 47
+
+Selected files:
+  xtal_95.cif
+  xtal_70.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_90.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 159 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=159)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 38
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 41
+Removed: 59
+
+Selected files:
+  xtal_40.cif
+  xtal_26.cif
+  xtal_57.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_24.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 160 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=160)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 61
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 65
+Removed: 35
+
+Selected files:
+  xtal_86.cif
+  xtal_33.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 162 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=162)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 51
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 54
+Removed: 46
+
+Selected files:
+  xtal_100.cif
+  xtal_84.cif
+  xtal_60.cif
+  xtal_1.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 163 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=163)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 164 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=164)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 43
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 45
+Removed: 55
+
+Selected files:
+  xtal_75.cif
+  xtal_70.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_27.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_99.cif
+
+===== SG 165 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=165)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 49
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 51
+Removed: 49
+
+Selected files:
+  xtal_8.cif
+  xtal_17.cif
+  xtal_1.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_72.cif
+  xtal_75.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_99.cif
+
+===== SG 166 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=166)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 38
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 41
+Removed: 59
+
+Selected files:
+  xtal_80.cif
+  xtal_93.cif
+  xtal_58.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_79.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_88.cif
+  xtal_94.cif
+  xtal_95.cif
+
+===== SG 168 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=168)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 66
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 68
+Removed: 32
+
+Selected files:
+  xtal_82.cif
+  xtal_12.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_99.cif
+
+===== SG 171 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=171)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 62
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 64
+Removed: 36
+
+Selected files:
+  xtal_31.cif
+  xtal_84.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 172 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=172)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 37
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 40
+Removed: 60
+
+Selected files:
+  xtal_87.cif
+  xtal_77.cif
+  xtal_19.cif
+  xtal_1.cif
+  xtal_18.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_30.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_55.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_97.cif
+
+===== SG 173 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=173)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 76
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 80
+Removed: 20
+
+Selected files:
+  xtal_47.cif
+  xtal_4.cif
+  xtal_38.cif
+  xtal_24.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 174 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=174)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 20
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 22
+Removed: 78
+
+Selected files:
+  xtal_64.cif
+  xtal_33.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_24.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_48.cif
+  xtal_53.cif
+  xtal_65.cif
+  xtal_68.cif
+  xtal_76.cif
+  xtal_88.cif
+  xtal_98.cif
+
+===== SG 175 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=175)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 176 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=176)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 75
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 77
+Removed: 23
+
+Selected files:
+  xtal_85.cif
+  xtal_76.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_99.cif
+
+===== SG 177 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=177)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 180 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=180)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 47
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 49
+Removed: 51
+
+Selected files:
+  xtal_12.cif
+  xtal_93.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_15.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_5.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_78.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_97.cif
+
+===== SG 181 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=181)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 55
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 57
+Removed: 43
+
+Selected files:
+  xtal_97.cif
+  xtal_69.cif
+  xtal_1.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 182 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=182)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 76
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 78
+Removed: 22
+
+Selected files:
+  xtal_64.cif
+  xtal_43.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 183 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=183)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 75
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 77
+Removed: 23
+
+Selected files:
+  xtal_48.cif
+  xtal_99.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 184 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=184)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 48
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 52
+Removed: 48
+
+Selected files:
+  xtal_44.cif
+  xtal_82.cif
+  xtal_75.cif
+  xtal_21.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_13.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_98.cif
+
+===== SG 185 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=185)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 56
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 58
+Removed: 42
+
+Selected files:
+  xtal_84.cif
+  xtal_89.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 186 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=186)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 69
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 72
+Removed: 28
+
+Selected files:
+  xtal_11.cif
+  xtal_45.cif
+  xtal_73.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 187 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=187)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 57
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 60
+Removed: 40
+
+Selected files:
+  xtal_59.cif
+  xtal_76.cif
+  xtal_5.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_57.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 188 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=188)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 79
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 82
+Removed: 18
+
+Selected files:
+  xtal_52.cif
+  xtal_63.cif
+  xtal_99.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 189 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=189)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 87
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 89
+Removed: 11
+
+Selected files:
+  xtal_25.cif
+  xtal_49.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 190 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=190)
+HDBSCAN clusters: 0
+HDBSCAN noise points: 100
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 100
+Removed: 0
+
+Selected files:
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 191 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=191)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 81
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 84
+Removed: 16
+
+Selected files:
+  xtal_33.cif
+  xtal_99.cif
+  xtal_30.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 192 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=192)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 82
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 84
+Removed: 16
+
+Selected files:
+  xtal_65.cif
+  xtal_70.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 193 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=193)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 58
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 61
+Removed: 39
+
+Selected files:
+  xtal_67.cif
+  xtal_48.cif
+  xtal_83.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 194 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=194)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 57
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 59
+Removed: 41
+
+Selected files:
+  xtal_41.cif
+  xtal_37.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_49.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_99.cif
+
+===== SG 195 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=195)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 81
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 83
+Removed: 17
+
+Selected files:
+  xtal_4.cif
+  xtal_22.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 197 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=197)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 54
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 57
+Removed: 43
+
+Selected files:
+  xtal_95.cif
+  xtal_57.cif
+  xtal_70.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_85.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 200 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=200)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 68
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 71
+Removed: 29
+
+Selected files:
+  xtal_50.cif
+  xtal_53.cif
+  xtal_58.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 201 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=201)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 41
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 43
+Removed: 57
+
+Selected files:
+  xtal_31.cif
+  xtal_40.cif
+  xtal_14.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_45.cif
+  xtal_5.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_81.cif
+  xtal_84.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 204 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=204)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 83
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 86
+Removed: 14
+
+Selected files:
+  xtal_49.cif
+  xtal_74.cif
+  xtal_95.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 207 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=207)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 82
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 84
+Removed: 16
+
+Selected files:
+  xtal_5.cif
+  xtal_78.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_77.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_99.cif
+
+===== SG 208 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=208)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 54
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 56
+Removed: 44
+
+Selected files:
+  xtal_77.cif
+  xtal_86.cif
+  xtal_10.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 211 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=211)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 70
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 72
+Removed: 28
+
+Selected files:
+  xtal_13.cif
+  xtal_75.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_38.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_42.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_58.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+
+===== SG 215 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=215)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 50
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 52
+Removed: 48
+
+Selected files:
+  xtal_6.cif
+  xtal_81.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_3.cif
+  xtal_32.cif
+  xtal_34.cif
+  xtal_36.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_92.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 217 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=217)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 38
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 42
+Removed: 58
+
+Selected files:
+  xtal_23.cif
+  xtal_65.cif
+  xtal_40.cif
+  xtal_60.cif
+  xtal_1.cif
+  xtal_100.cif
+  xtal_12.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_2.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_28.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_59.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_75.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_89.cif
+  xtal_96.cif
+
+===== SG 218 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=218)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 54
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 56
+Removed: 44
+
+Selected files:
+  xtal_82.cif
+  xtal_42.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_22.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_31.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_39.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_54.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_59.cif
+  xtal_6.cif
+  xtal_62.cif
+  xtal_69.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_79.cif
+  xtal_80.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_89.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_92.cif
+  xtal_93.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+
+===== SG 221 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=221)
+HDBSCAN clusters: 4
+HDBSCAN noise points: 72
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 76
+Removed: 24
+
+Selected files:
+  xtal_75.cif
+  xtal_77.cif
+  xtal_67.cif
+  xtal_79.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_31.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_4.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_48.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_60.cif
+  xtal_61.cif
+  xtal_64.cif
+  xtal_68.cif
+  xtal_70.cif
+  xtal_71.cif
+  xtal_72.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_8.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_94.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 222 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=222)
+HDBSCAN clusters: 3
+HDBSCAN noise points: 77
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 80
+Removed: 20
+
+Selected files:
+  xtal_79.cif
+  xtal_59.cif
+  xtal_80.cif
+  xtal_1.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_13.cif
+  xtal_14.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_21.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_24.cif
+  xtal_25.cif
+  xtal_26.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_36.cif
+  xtal_38.cif
+  xtal_39.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_48.cif
+  xtal_49.cif
+  xtal_51.cif
+  xtal_52.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_6.cif
+  xtal_61.cif
+  xtal_62.cif
+  xtal_63.cif
+  xtal_64.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_67.cif
+  xtal_68.cif
+  xtal_7.cif
+  xtal_71.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_85.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_88.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_96.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 223 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=223)
+HDBSCAN clusters: 5
+HDBSCAN noise points: 55
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 60
+Removed: 40
+
+Selected files:
+  xtal_17.cif
+  xtal_89.cif
+  xtal_70.cif
+  xtal_66.cif
+  xtal_59.cif
+  xtal_10.cif
+  xtal_100.cif
+  xtal_13.cif
+  xtal_15.cif
+  xtal_16.cif
+  xtal_18.cif
+  xtal_19.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_25.cif
+  xtal_27.cif
+  xtal_28.cif
+  xtal_29.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_33.cif
+  xtal_35.cif
+  xtal_37.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_44.cif
+  xtal_45.cif
+  xtal_46.cif
+  xtal_52.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_57.cif
+  xtal_58.cif
+  xtal_61.cif
+  xtal_63.cif
+  xtal_65.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_77.cif
+  xtal_80.cif
+  xtal_81.cif
+  xtal_83.cif
+  xtal_86.cif
+  xtal_87.cif
+  xtal_9.cif
+  xtal_90.cif
+  xtal_91.cif
+  xtal_93.cif
+  xtal_94.cif
+  xtal_95.cif
+  xtal_97.cif
+  xtal_98.cif
+  xtal_99.cif
+
+===== SG 224 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=224)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 45
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 47
+Removed: 53
+
+Selected files:
+  xtal_39.cif
+  xtal_13.cif
+  xtal_10.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_2.cif
+  xtal_20.cif
+  xtal_22.cif
+  xtal_23.cif
+  xtal_32.cif
+  xtal_33.cif
+  xtal_34.cif
+  xtal_35.cif
+  xtal_38.cif
+  xtal_40.cif
+  xtal_41.cif
+  xtal_42.cif
+  xtal_43.cif
+  xtal_46.cif
+  xtal_47.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_61.cif
+  xtal_67.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_72.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_82.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_86.cif
+  xtal_88.cif
+  xtal_89.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_96.cif
+  xtal_98.cif
+
+===== SG 229 =====
+Dimension: 3D
+Selection method: hdbscan
+Descriptor: soap
+Storage: SQLite (SG=229)
+HDBSCAN clusters: 2
+HDBSCAN noise points: 44
+HDBSCAN keep_noise: True
+Total CIF files: 100
+Selected: 46
+Removed: 54
+
+Selected files:
+  xtal_10.cif
+  xtal_48.cif
+  xtal_1.cif
+  xtal_11.cif
+  xtal_12.cif
+  xtal_16.cif
+  xtal_17.cif
+  xtal_18.cif
+  xtal_21.cif
+  xtal_24.cif
+  xtal_26.cif
+  xtal_3.cif
+  xtal_30.cif
+  xtal_35.cif
+  xtal_4.cif
+  xtal_46.cif
+  xtal_49.cif
+  xtal_5.cif
+  xtal_50.cif
+  xtal_52.cif
+  xtal_53.cif
+  xtal_54.cif
+  xtal_55.cif
+  xtal_56.cif
+  xtal_59.cif
+  xtal_60.cif
+  xtal_65.cif
+  xtal_66.cif
+  xtal_69.cif
+  xtal_7.cif
+  xtal_70.cif
+  xtal_73.cif
+  xtal_74.cif
+  xtal_75.cif
+  xtal_76.cif
+  xtal_78.cif
+  xtal_79.cif
+  xtal_8.cif
+  xtal_83.cif
+  xtal_84.cif
+  xtal_87.cif
+  xtal_9.cif
+  xtal_91.cif
+  xtal_92.cif
+  xtal_97.cif
+  xtal_98.cif
+

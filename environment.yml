@@ -1,0 +1,45 @@
+# GEWUM tested conda environment
+#
+# Exported from the development cluster (Linux x86_64, Python 3.10.20) where all
+# GEWUM workflows were verified. Versions are pinned exactly as tested.
+#
+# To recreate this environment:
+#   conda env create -f environment.yml
+#   conda activate gewum
+#   pip install .            # or: pip install ".[ml]" for MatterSim support
+#
+# Note: numpy, matplotlib, phonopy, phono3py, pyyaml and spglib are conda-managed;
+# the remaining runtime dependencies are pip-managed (see the `pip:` section below
+# and requirements-lock.txt for the pip-managed lockfile).
+
+name: gewum
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # --- conda-managed packages ---
+  - python=3.10.20
+  - pip=26.0.1
+  - numpy=2.2.6
+  - matplotlib-base=3.10.8
+  - phonopy=3.5.0
+  - phono3py=3.30.1
+  - pyyaml=6.0.3
+  - spglib=2.7.0
+
+  # --- pip-managed GEWUM runtime dependencies ---
+  - pip:
+      - ase==3.28.0
+      - pandas==2.3.3
+      - scipy==1.15.3
+      - pymatgen==2025.6.14
+      - scikit-learn==1.7.2
+      - dscribe==2.1.2
+      - hdbscan==0.8.42
+      - umap-learn==0.5.12
+      - pyxtal==1.1.3
+      - mp-api==0.45.13
+      - tqdm==4.67.3
+      # Optional: machine-learning potential for structure relaxation (GEWUM[ml])
+      - mattersim==1.2.2

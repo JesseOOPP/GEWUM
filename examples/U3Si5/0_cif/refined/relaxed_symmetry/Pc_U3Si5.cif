@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_U3Si5
+_symmetry_space_group_name_H-M   Pc
+_cell_length_a   5.37788782
+_cell_length_b   5.12325872
+_cell_length_c   10.59648528
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.32812325
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   7
+_chemical_formula_structural  U3Si5
+_chemical_formula_sum  U3Si5
+_cell_volume   291.12505258
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  2  0.19942097  0.01621688  0.30198957  1
+  U  U1  2  0.60268872  0.02723685  0.56539768  1
+  U  U2  2  0.89232926  0.41169169  0.57312951  1
+  Si  Si3  2  0.10009146  0.10359091  0.04383024  1
+  Si  Si4  2  0.37616315  0.48927720  0.94119021  1
+  Si  Si5  2  0.38855557  0.49601074  0.68575374  1
+  Si  Si6  2  0.71789772  0.25394265  0.31032049  1
+  Si  Si7  2  0.72111769  0.23888977  0.82826733  1

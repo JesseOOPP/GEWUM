@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+nosetests.xml
+junit.xml
+test_run/
+test_output/
+
+# Environment
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and workflow outputs
+*.out
+*.err
+*.log
+slurm-*.out
+
+# Private / internal (manuscript under review, agent scratchpad)
+review/
+.qoder/
+.qoder-repomap/

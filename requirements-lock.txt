@@ -1,0 +1,30 @@
+# GEWUM pip-managed dependency lockfile
+#
+# Pinned versions of the pip-managed packages installed in the tested conda
+# environment (Python 3.10.20, Linux x86_64). conda-managed packages
+# (numpy, matplotlib, phonopy, phono3py, pyyaml, spglib) are listed in
+# environment.yml and are intentionally not repeated here.
+#
+# To install the full tested environment:
+#   conda env create -f environment.yml
+#
+# To update only the pip-managed packages inside an existing environment:
+#   pip install -r requirements-lock.txt
+
+ase==3.28.0
+dscribe==2.1.2
+hdbscan==0.8.42
+mattersim==1.2.2
+mp-api==0.45.13
+pandas==2.3.3
+pymatgen==2025.6.14
+pyxtal==1.1.3
+scikit-learn==1.7.2
+scipy==1.15.3
+tqdm==4.67.3
+umap-learn==0.5.12
+
+# ijson is optional: it is imported under a try/except guard in
+# src/common/ehull/mp_offline_loader.py and was not present in the tested
+# environment. Install it for faster offline Materials Project parsing:
+#   pip install "ijson>=3.1,<4.0"

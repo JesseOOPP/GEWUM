@@ -1,0 +1,21 @@
+# GEWUM Doping Configuration Template
+# Format: CIF_filename -> element replacements with counts
+#
+# Single doping example:
+# LiCoO2.cif:
+#   Li -> Na: 2              # Replace 2 Li atoms with Na
+#
+# Multiple doping example (simultaneous):
+# LiCoO2_multi.cif:
+#   Li -> Na: 2              # Replace 2 Li atoms with Na
+#   Co -> Ni: 1              # Replace 1 Co atom with Ni
+#
+# The script will:
+# 1. Calculate total possible combinations
+# 2. Prompt user to generate all or specify maximum number
+# 3. Generate non-duplicate random configurations
+# 4. Output naming: <base>_<elem><count><new>_<id>.cif
+#    e.g., LiCoO2_Li2Na_001.cif, LiCoO2_Li2Na_Co1Ni_001.cif
+
+LiCoO2.cif:
+  Li -> Na: 2
